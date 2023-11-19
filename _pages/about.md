@@ -1,18 +1,35 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 ---
 
-The UKI discs community aims to bring together the different discs communities across the UK & Ireland. Join us for our first conference hosted at the University of Warwick September 2024!
+The UKI discs community aims to bring together the different disc communities across the UK & Ireland, from Protoplanetary Discs to Debris Discs. Join us for our first conference hosted at the University of Warwick in September 2024!
 
 ### Mailing List
 
-The UK & Ireland Discs mailing list is a community mailing list for those working on various types of astrophysical discs.  To keep up with the latest news on meetings, schools, PhD, postdoc and other academic positions related to astrophysical discs, you can sign up here;
+Want to know about the latest events, learning opportunities, and upcoming job positions? Sign up for the UK & Ireland Discs email list! Sign up here:
 
-[ INSERT INSTRUCTIONS HERE ]
+[Mailing list signup](https://warwick.ac.uk/fac/sci/physics/research/astro/research/discs/uki-discs/)
 
-If you have something to advertise, you can also spread it to the community via the list too. Here is how to email the list:
+If you have something to advertise, you can also email the list at:
 
-[ INSERT INSTRUCTIONS HERE ]
+uki-discs@listserv.csv.warwick.ac.uk
 
-For any queries or difficulties about joining the mailing list, please contact [ DIMITRI — ARE YOU HAPPY TO BE NAMED?]
+For any queries or difficulties about joining the mailing list, please contact [Dimitri Veras?]
+
+
+### Important Dates
+- Abstract submission opens
+- Conference registration opens
+- Abstract submission closes
+- Conference registration closes
+- Outcome of abstract submissions and conference programme release
+- Late registration deadline
+- Conference!
+
+
+### SOC
+
+Farzana Meru
+
+### LOC
