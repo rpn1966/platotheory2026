@@ -5,7 +5,7 @@ title: "Code of Conduct"
 
 (From RAS and UKEXOM2023)
 
-We value the participation of everyone at this event and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees and staff and agree to the code of conduct upon registration and attendance.
+We value the participation of all conference attendees and want to ensure everyone will have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees and staff and agree to the code of conduct upon registration and attendance.
 
 This meeting will be a harassment-free environment for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, nationality, religion. We do not tolerate harassment of attendees in any form.
 
@@ -15,12 +15,8 @@ This meeting will be a harassment-free environment for everyone, regardless of g
 
 - All communication given by lecturers, organisers and attendees should be appropriate for a professional audience including people of many different backgrounds. Sexual language, jokes and imagery is not appropriate for any event.
 
-- Be kind to others. Do not insult or put down other attendees.
-
-- Respect local staff.
+- Be kind to others and respect local staff. Do not insult or put down other attendees.
 
 - Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 
-- Participants asked to stop any harassing behaviour are expected to comply immediately. Attendees violating these rules may be asked to leave the event, without a refund of any charge that may have been levied.
-
-Thank you for helping make this a welcoming, respectful space for all.. 
+- Participants asked to stop any harassing behaviour are expected to comply immediately. Attendees violating these rules may be asked to leave the event, without a refund of any charge.
