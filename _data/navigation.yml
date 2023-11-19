@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Registration"
+    url: /registration/
+  - title: "Programme"
+    url: /programme/
+  - title: "Participants"
+    url: /participants/
+  - title: "Code of Conduct"
+    url: /code-of-conduct/"
