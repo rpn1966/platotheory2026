@@ -13,7 +13,7 @@ Want to know about the latest events, learning opportunities, and upcoming job p
 
 If you have something to advertise, you can also email the list at:
 
-uki-discs@listserv.csv.warwick.ac.uk
+[Send Email](mailto:uki-discs@listserv.csv.warwick.ac.uk)
 
 For any queries or difficulties about joining the mailing list, please contact [Dimitri Veras?]. Your email address will be used for subscription purposes only.
 
