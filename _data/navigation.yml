@@ -9,5 +9,7 @@ main:
     url: /participants/
   - title: "Venue"
     url: /venue/
+  - title: "UKI Discs Mailing List"
+    url: /mailing-list/
   - title: "Code of Conduct"
     url: /code-of-conduct/  
