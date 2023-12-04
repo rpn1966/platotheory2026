@@ -20,6 +20,8 @@ The UKI discs community aims to bring together the different disc communities ac
 - Late registration deadline [Insert Date]
 - Conference!
 
+A mailing list has also been set up for all Disc news in the community. Please see the [Mailing List](https://ukidiscs.github.io/discussions2024/mailing-list) tab.
+
 ### SOC
 
 Farzana Meru

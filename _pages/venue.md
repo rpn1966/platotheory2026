@@ -3,13 +3,13 @@ permalink: /venue/
 title: "Venue"
 ---
 
-The University of Warwick is located 3 miles away from Coventry, which is the city closest to the University. The town of Kenilworth is slightly closer (2 miles), but the small county town of Warwick is actually much further away (7 miles).
+The University of Warwick is located on the outskirts of Coventry, about 3 miles to the city centre. The town of Kenilworth is slightly closer (2 miles), but the small county town of Warwick is actually much further away (7 miles).
 
 ### Arriving by train:
 
 Although the closest train station to campus is Canley station (a 30 minute walk), there are no transport links from that station to campus. Instead, the best rail option is to arrive at Coventry station (not Warwick station), where there would be multiple public transport options that could get you to the campus.
 
-Coventry station is served by 4 train companies (Avanti West Coast, CrossCountry, West Midlands, and London Northwestern), and is located on the West Coast Main LineLink (among others) London, Birmingham, Manchester, Liverpool, Lancaster, Edinburgh and Glasgow. Coventry station also connects to the Cross Country RouteLink opens in a new window (linking Aberdeen, Newcastle, York, Leeds, Sheffield, Derby, Bristol, Exeter and Penzance) through an easy transfer at Birmingham New Street station.
+Coventry station is served by 4 train companies (Avanti West Coast, CrossCountry, West Midlands, and London Northwestern), and is located on the West Coast Main Line (among others), linkning London, Birmingham, Manchester, Liverpool, Lancaster, Edinburgh and Glasgow. Coventry station also connects to the Cross Country Route (linking Aberdeen, Newcastle, York, Leeds, Sheffield, Derby, Bristol, Exeter and Penzance) through an easy transfer at Birmingham New Street station.
 
 
 To get to campus, Coventry train station provides good bus (£2-£4) and taxi (£10-15, 10-20 min) options. The buses to campus from Coventry Train Station are the 11 and the 12X, with the latter being a quicker option as it has a more direct route to the Warwick University Interchange. The 19 and 87 buses also pass around the campus, but do not stop at the main campus' University Interchange.
@@ -17,7 +17,7 @@ To get to campus, Coventry train station provides good bus (£2-£4) and taxi (�
 
 ### Arriving by (long-distance) coach:
 
-Coventry is served by both National Express and Megabus. The Coventry drop-off point for both companies is Coventry's main bus and coach hub, Pool Meadow Bus Station, in the city centre. The buses cite below that run to campus from Coventry originate from Pool Meadow Bus Station and, on the way, stop at Coventry railway station.
+Coventry is served by both National Express and Megabus. The Coventry drop-off point for both companies is Coventry's main bus and coach hub, Pool Meadow Bus Station, in the city centre. The buses that run to campus from Coventry originate from Pool Meadow Bus Station and, on the way, also stop at Coventry railway station.
 
 ### Arriving by car:
 
