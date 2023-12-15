@@ -2,7 +2,7 @@
 permalink: /venue/
 title: "Venue"
 header: 
-  image: "/assets/images/warwick-piazza.jpg"
+  image: "/assets/images/warwick-fountain.jpg"
 ---
 
 The University of Warwick is located on the outskirts of Coventry, about 3 miles to the city centre. The town of Kenilworth is slightly closer (2 miles), but the small county town of Warwick is actually much further away (7 miles).
