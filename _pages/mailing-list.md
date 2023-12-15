@@ -1,6 +1,9 @@
 ---
 permalink: /mailing-list/
 title: "Mailing List"
+header:
+  image: "/assets/images/disc.jpg"
+
 ---
 
 

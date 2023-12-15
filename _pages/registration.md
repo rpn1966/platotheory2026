@@ -1,6 +1,8 @@
 ---
 permalink: /registration/
 title: "Registration"
+header:
+  image: "/assets/images/disc.jpg"
 ---
 
 Registration for this conference is **free!** Information for abstract submissions for talks/posters is below.

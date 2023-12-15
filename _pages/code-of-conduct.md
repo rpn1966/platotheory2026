@@ -1,6 +1,8 @@
 ---
 permalink: /code-of-conduct/
 title: "Code of Conduct"
+header:
+  image: "/assets/images/disc.jpg"
 ---
 
 (From RAS and UKEXOM2023)

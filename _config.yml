@@ -40,8 +40,10 @@ include:
   - _pages
 
 
-# teaser image
-teaser: /assets/images/disc.jpg
+# header
+header:
+  image: /assets/images/disc.jpg
+
 
 # logo
 logo: "/assets/images/warwick.png"
@@ -119,6 +121,8 @@ defaults:
     values:
       layout: single
   #    author_profile: true
+
+
 
 #category_archive:
 #  type: liquid
