@@ -7,8 +7,8 @@ main:
     url: /programme/
   - title: "Participants"
     url: /participants/
-  - title: "Venue"
-    url: /venue/
+  - title: "Practical Information"
+    url: /practical-info/
   - title: "UKI Discs Mailing List"
     url: /mailing-list/
   - title: "Code of Conduct"

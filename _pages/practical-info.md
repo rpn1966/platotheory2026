@@ -1,12 +1,17 @@
 ---
-permalink: /venue/
-title: "Venue"
+permalink: /practical-info/
+title: "Practical Information"
 header: 
   image: "/assets/images/warwick-fountain.jpg"
 ---
 
-The University of Warwick is located on the outskirts of Coventry, about 3 miles to the city centre. The town of Kenilworth is slightly closer (2 miles), but the small county town of Warwick is actually much further away (7 miles).
+[Getting Here](## Getting Here)
+[Childcare Support](##Childcare Support)
+[Financial Support](##Financial Support)
 
+The UKI Discs meeting  will be held in the [Zeeman Building](https://campus.warwick.ac.uk//search/623c8859421e6f5928c0c794) at the University of Warwick. The university is located on the outskirts of Coventry, about 3 miles to the city centre. The town of Kenilworth is slightly closer (2 miles), but the small county town of Warwick is actually much further away (7 miles).
+
+## Getting Here
 ### Arriving by train:
 
 Although the closest train station to campus is Canley station (a 30 minute walk), there are no transport links from that station to campus. Instead, the best rail option is to arrive at Coventry station (not Warwick station), where there would be multiple public transport options that could get you to the campus.
@@ -23,3 +28,18 @@ Coventry is served by both National Express and Megabus. The Coventry drop-off p
 ### Arriving by car:
 
 The postcode for the Central Campus is CV4 7AL. On approaches to Coventry, follow the signs to Warwick Arts Centre or the University of Warwick. Car Parks on campus are all controlled by ANPR. Check the [online interactive map](https://campus.warwick.ac.uk/) to find the locations of various car parks. For more information on payment, check this link [here](https://warwick.ac.uk/services/carparks/general_parking/).
+
+## Food
+
+### Refreshments
+We will be providing refreshments (tea, coffee, water, biscuits) throughout the conference. If you have an dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
+
+### Lunch
+Lunch will not be provided at this meeting. There are a wide range of food outlets on campus. A list of those open during the meeting, with opening times, is available [here](https://warwick.ac.uk/services/retail/openingtimes/upcoming-times). The Zeeman Building is also close to the Cannon Park Shopping Centre, with a range of fast food lunch options there too.
+
+## Childcare Support
+
+We are working on offering childcare support for those who need it. We understand that there are a wide range of needs, therefore please do indicate in the registration form if you would like childcare and we can get in touch to discuss with what you require and the options available.
+
+## Financial Support 
+As we have organised this to be a funding-neutral conference (i.e: a free to attend conference), we do not plan to provide any financial support at this stage. However, if you are facing any exceptional circumstances, do get in touch.
