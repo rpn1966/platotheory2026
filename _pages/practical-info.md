@@ -5,15 +5,15 @@ header:
   image: "/assets/images/warwick-fountain.jpg"
 ---
 
-- [Getting Here](## Getting Here)
-- [Food](## Food)
-- [Accommodation](## Accommodation)
-- [Childcare Support](##Childcare Support)
-- [Financial Support](##Financial Support)
+- [Getting Here](##GettingHere)
+- [Food](##Food)
+- [Accommodation](##Accommodation)
+- [Childcare Support](##ChildcareSupport)
+- [Financial Support](##FinancialSupport)
 
 The UKI Discs meeting  will be held in the [Zeeman Building](https://campus.warwick.ac.uk//search/623c8859421e6f5928c0c794) at the University of Warwick. The university is located on the outskirts of Coventry, about 3 miles to the city centre. The town of Kenilworth is slightly closer (2 miles), but the small county town of Warwick is actually much further away (7 miles).
 
-## Getting Here <a name='Getting Here'></a>
+## Getting Here <a name='GettingHere'></a>
 ### *Arriving by train*
 
 Although the closest train station to campus is Canley station (a 30 minute walk), there are no transport links from that station to campus. Instead, the best rail option is to arrive at Coventry station (not Warwick station), where there would be multiple public transport options that could get you to the campus.
@@ -44,9 +44,9 @@ Lunch will not be provided at this meeting. There are a wide range of food outle
 There are multiple options for accommodation on or near campus. A comprehensive list can be found [here](https://warwick.ac.uk/services/accommodation/staff/offcampus/relocationservice/shorttermaccommodation/). For places on campus, select the Warwick Conferences B&B option.
 
 
-## Childcare Support <a name='Childcare Support'></a>
+## Childcare Support <a name='ChildcareSupport'></a>
 
 We are working on offering childcare support for those who need it. We understand that there are a wide range of needs, therefore please do indicate in the registration form if you would like childcare and we can get in touch to discuss with what you require and the options available.
 
-## Financial Support <a name='Financial Support'></a>
+## Financial Support <a name='FinancialSupport'></a>
 As we have organised this to be a funding-neutral conference (i.e: a free to attend conference), we do not plan to provide any financial support at this stage. However, if you are facing any exceptional circumstances, do get in touch.
