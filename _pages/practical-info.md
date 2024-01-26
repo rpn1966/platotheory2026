@@ -29,7 +29,7 @@ The postcode for the Central Campus is CV4 7AL. On approaches to Coventry, follo
 ## Food
 
 ### *Refreshments*
-We will be providing refreshments (tea, coffee, water, biscuits) throughout the conference. If you have an dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
+We will be providing refreshments (tea, coffee, water, biscuits) throughout the conference. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
 
 ### *Lunch*
 Lunch will not be provided at this meeting. There are a wide range of food outlets on campus. A list of those open during the meeting, with opening times, is available [here](https://warwick.ac.uk/services/retail/openingtimes/upcoming-times). The Zeeman Building is also close to the Cannon Park Shopping Centre, with a range of fast food lunch options there too.
