@@ -9,11 +9,15 @@ The UKI discs community aims to bring together the different disc communities ac
 
 Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/discussions2024/mailing-list) for the latest news in the Discs community.
 
-## Scientific Topics
+## Scientific Topics 
+- Planet-disc interactions
+- Warped discs
+- 
+
+## Areas Covered
 - Protoplanetary Discs
 - Intermediate/Transition Discs
 - Debris Discs
-
 
 ## Important Dates
 - Abstract submission opens: [Insert Date]
@@ -29,6 +33,8 @@ Farzana Meru
 
 ## LOC
 
+Rebecca Nealon
+Tim Pearce
 
 ## Code of Conduct 
 

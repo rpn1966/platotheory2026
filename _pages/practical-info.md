@@ -46,7 +46,7 @@ There are multiple options for accommodation on or near campus. A comprehensive 
 
 ## Childcare Support {#ChildcareSupport}
 
-We are working on offering childcare support for those who need it. We understand that there are a wide range of needs, therefore please do indicate in the registration form if you would like childcare and we can get in touch to discuss with what you require and the options available.
+We are working on offering childcare support for those who need it. We understand that there are a wide range of needs, therefore please do indicate in the registration form if you would like childcare and we can get in touch to discuss what you require and the options available.
 
 ## Financial Support {#FinancialSupport}
 As we have organised this to be a funding-neutral conference (i.e: a free to attend conference), we do not plan to provide any financial support at this stage. However, if you are facing any exceptional circumstances, do get in touch.
