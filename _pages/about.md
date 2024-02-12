@@ -29,12 +29,12 @@ Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/disc
 
 ## SOC
 
-Farzana Meru
+- Farzana Meru
 
 ## LOC
 
-Rebecca Nealon
-Tim Pearce
+- Rebecca Nealon
+- Tim Pearce
 
 ## Code of Conduct 
 
