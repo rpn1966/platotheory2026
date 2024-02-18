@@ -3,6 +3,7 @@ permalink: /
 title: "About"
 header: 
   image: "/assets/images/disc.jpg"
+  Caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 ---
 
 The UKI discs community aims to bring together the different disc communities across the UK & Ireland for those working on astrophysical discs on various scales, from circumplanetary to galactic discs. We are delighted to announce the first conference of this series will be hosted at the University of Warwick on 9th-11th September 2024!

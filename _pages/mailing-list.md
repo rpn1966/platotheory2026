@@ -3,7 +3,7 @@ permalink: /mailing-list/
 title: "Mailing List"
 header:
   image: "/assets/images/disc.jpg"
-
+  Caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 ---
 
 
