@@ -43,7 +43,7 @@ include:
 # header
 header:
   image: /assets/images/disc.jpg
-
+  caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 
 # logo
 logo: "/assets/images/warwick.png"
