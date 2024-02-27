@@ -26,6 +26,7 @@ Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/disc
 ## LOC
 - Raphael Bendahan-West
 - Amena Faruqi
+- Grant Kennedy
 - Minjae Kim
 - Rebecca Nealon
 - Azib Norazman
