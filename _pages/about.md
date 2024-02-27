@@ -11,12 +11,11 @@ The UKI discs community aims to bring together the different disc communities ac
 Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/discussions2024/mailing-list) for the latest news in the Discs community.
 
 ## Important Dates
-- Abstract submission opens: [Insert Date]
-- Conference registration opens: [Insert Date]
-- Abstract submission closes: [Insert Date]
-- Conference registration closes [Insert Date]
-- Outcome of abstract submissions and conference programme release [Insert Date]
-- Conference! (9th Sept - 11th Sept 2024)
+- Registration opens: 18th March
+- Abstract submission closes: 17th May
+- Outcome of abstract submissions: [Insert Date]
+- Registration closes: [Insert Date]
+- Conference! 9th September - 11th September
 
 ## SOC
 - Maria de Juan Ovelar (Warwick)
@@ -27,11 +26,13 @@ Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/disc
 ## LOC
 - Raphael Bendahan-West
 - Amena Faruqi
+- Minjae Kim
 - Rebecca Nealon
 - Azib Norazman
 - Tim Pearce
 - Pratishtha Rawat
 - Andrew Swan
+- Dimitri Veras
 
 ## Code of Conduct 
 
