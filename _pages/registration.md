@@ -14,4 +14,4 @@ We aim to ensure that everyone who submits an abstract will be able to present t
 
 ## Registration
 
-Register for the conference and submit your abstract here! Don't worry if your science is not entirely ready now, we will those who have preliminarily registered the option to update your abstracts closer to the conference.
+Register for the conference and submit your abstract here! Don't worry if your science is not entirely ready now, we will give those who have preliminarily registered the option to update your abstracts closer to the conference.
