@@ -3,7 +3,7 @@ permalink: /registration/
 title: "Registration"
 header:
   image: "/assets/images/disc.jpg"
-  Caption: "Credit: SpaceEngine © Cosmographic Software LLC."
+  caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 ---
 
 Registration for this conference is **free!** Information for abstract submissions for talks/posters is below.

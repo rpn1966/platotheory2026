@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 header: 
   image: "/assets/images/disc.jpg"
-  Caption: "Credit: SpaceEngine © Cosmographic Software LLC."
+  caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 ---
 
 The UKI discs community aims to bring together the different disc communities across the UK & Ireland for those working on astrophysical discs. We are delighted to announce the first conference of this series will be hosted at the University of Warwick on 9th-11th September 2024! The theme of the conference will be _Protoplanetary Discs, Debris Discs, and White Dwarf Derbis Discs_. Scientific topics include but are not limited to Planet-Disc interactions and dynamics, observations of discs, numerical simulations, etc.
