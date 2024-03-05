@@ -18,9 +18,11 @@ Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/disc
 - Conference! 9th September - 11th September
 
 ## SOC
+- Farzana Meru (chair - Warwick)
+- Daniela Iglesias (Leeds)
 - Maria de Juan Ovelar (Warwick)
-- Henrik Latter (DAMTP - Cambridge)
-- Farzana Meru (Warwick)
+- Henrik Latter (DAMTP, Cambridge)
+- Laura Rogers (IoA, Cambridge)
 - Alison Young (Edinburgh)
 
 ## LOC
