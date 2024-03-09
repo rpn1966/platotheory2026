@@ -5,10 +5,10 @@ main:
     url: /registration/
   - title: "Programme"
     url: /programme/
-  - title: "Participants"
-    url: /participants/
   - title: "Practical Information"
     url: /practical-info/
+  - title: "Participants"
+    url: /participants/
   - title: "UKI Discs Mailing List"
     url: /mailing-list/
 

@@ -21,7 +21,7 @@ The best rail otpion is to arrive at Coventry station (not Warwick station), as 
 Coventry station is served by 4 train companies (Avanti West Coast, CrossCountry, West Midlands, and London Northwestern), and is located on the West Coast Main Line (among others), linking London, Birmingham, Manchester, Liverpool, Lancaster, Edinburgh and Glasgow. Coventry station also connects to the Cross Country Route (linking Aberdeen, Newcastle, York, Leeds, Sheffield, Derby, Bristol, Exeter and Penzance) through an easy transfer at Birmingham New Street station.
 
 
-To get to campus, Coventry train station provides good bus (£2-£4, 15-30 min) and taxi/Uber (£10-15, 10-20 min) options. The buses to campus from Coventry Train Station are the [11](https://nxbus.co.uk/coventry/services-timetables/11-coventry-leamington-spa) and the [12X](https://nxbus.co.uk/coventry/services-timetables/12x-coventry-university-of-warwick), with the latter being a quicker option as it is a more direct route to the Warwick University Interchange. The [19](https://nxbus.co.uk/coventry/services-timetables/19-coventry-westwood-business-park) and [87](https://www.stagecoachbus.com/routes/midlands/87/solihull-coventry/xldo087.i) buses also pass around the campus, but do not stop at the main campus' University Interchange. Live bus schedules are linked with the respective route.
+To get to campus, Coventry train station provides good bus (£2-£4, 15-30 min) and taxi/Uber (£10-15, 10-20 min) options. The buses to campus from Coventry Train Station are the [11](https://nxbus.co.uk/coventry/services-timetables/11-coventry-leamington-spa) and the [12X](https://nxbus.co.uk/coventry/services-timetables/12x-coventry-university-of-warwick), with the latter being a quicker option as it is a more direct route to the Warwick University Interchange. The [87](https://www.stagecoachbus.com/routes/midlands/87/solihull-coventry/xldo087.i) bus also passes around the campus, but do not stop at the main campus' University Interchange. Live bus schedules are linked with the respective route.
 
 ### *Arriving by (long-distance) coach*
 
@@ -46,7 +46,7 @@ There are multiple options for accommodation on or near campus. A comprehensive 
 
 ## Childcare Support {#ChildcareSupport}
 
-We are working on offering childcare support for those who need it. We understand that there are a wide range of needs, therefore please do indicate in the registration form if you would like childcare and we can get in touch to discuss what you require and the options available.
+We are working on offering childcare support for those who need it. We understand that there are a wide range of needs, therefore please do indicate on the registration form if you would like childcare and we can get in touch to discuss what you require and the options available.
 
 ## Financial Support {#FinancialSupport}
-As we have organised this to be a funding-neutral conference (i.e: a free to attend conference), we do not plan to provide any financial support at this stage. However, if you are facing any exceptional circumstances, do get in touch.
+As we have organised this conference to be free to attend, we do not plan to provide any financial support at this stage. However, if you are facing any exceptional circumstances, do get in touch.
