@@ -16,12 +16,12 @@ The UKI Discs Meeting will be held in the [Zeeman Building](https://campus.warwi
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
 
-The best rail option is to arrive at Coventry station (not Warwick station), as there are multiple public transport options that can get you to the university campus. Although Canley station is technically closer (a 30 minute walk), apart from taking an Uber there are no transport links from that station to campus. In addition, only West Midlands Rail services stop at Canley.
-
-Coventry station is served by 4 train companies (Avanti West Coast, CrossCountry, West Midlands, and London Northwestern), and is located on the West Coast Main Line (among others), linking London, Birmingham, Manchester, Liverpool, Lancaster, Edinburgh and Glasgow. Coventry station also connects to the Cross Country Route (linking Aberdeen, Newcastle, York, Leeds, Sheffield, Derby, Bristol, Exeter and Penzance) through an easy transfer at Birmingham New Street station.
+The best rail option is to arrive at Coventry station (not Warwick station), as there are multiple public transport options that can get you to the university campus. Coventry station is served by 4 train companies (Avanti West Coast, CrossCountry, West Midlands, and London Northwestern), and is located on the West Coast Main Line (among others), linking London, Birmingham, Manchester, Liverpool, Lancaster, Edinburgh and Glasgow. Coventry station also connects to the Cross Country Route (linking Aberdeen, Newcastle, York, Leeds, Sheffield, Derby, Bristol, Exeter and Penzance) through an easy transfer at Birmingham New Street station.
 
 
 To get to campus, Coventry train station provides good bus (£2-£4, 15-30 min) and taxi/Uber (£10-15, 10-20 min) options. The buses to campus from Coventry Train Station are the [11](https://nxbus.co.uk/coventry/services-timetables/11-coventry-leamington-spa) and the [12X](https://nxbus.co.uk/coventry/services-timetables/12x-coventry-university-of-warwick), with the latter being a quicker option as it is a more direct route to the Warwick University Interchange. The [87](https://www.stagecoachbus.com/routes/midlands/87/solihull-coventry/xldo087.i) bus also passes around the campus, but does not stop at the main campus' University Interchange. Live bus schedules are linked with the respective route.
+
+Alternatively, Canley station is another option to get to campus. It is a 25-minute walk or a 10 minute cycle to campus. There are no bus options from Canley station. 
 
 ### *Arriving by (long-distance) coach*
 
