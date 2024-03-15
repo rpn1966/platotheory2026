@@ -11,7 +11,7 @@ header:
 - [Childcare Support](#ChildcareSupport)
 - [Financial Support](#FinancialSupport)
 
-The UKI Discs meeting  will be held in the [Zeeman Building](https://campus.warwick.ac.uk//search/623c8859421e6f5928c0c794) at the University of Warwick. The university is located on the outskirts of Coventry, about 3 miles to the city centre. The town of Kenilworth is slightly closer (2 miles), but the small county town of Warwick is actually much further away (7 miles).
+The UKI Discs Meeting will be held in the [Zeeman Building](https://campus.warwick.ac.uk//search/623c8859421e6f5928c0c794) at the University of Warwick. The university is located on the outskirts of Coventry, about 3 miles to the city centre. The town of Kenilworth is slightly closer (2 miles), but the small county town of Warwick is actually much further away (7 miles).
 
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
@@ -34,7 +34,7 @@ The postcode for the Central Campus is CV4 7AL. On approaches to Coventry, follo
 ## Food {#Food}
 
 ### *Refreshments*
-We will be providing refreshments (tea, coffee, water, biscuits) throughout the conference. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
+We will be providing refreshments (tea, coffee, water, biscuits) throughout the meeting. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
 
 ### *Lunch*
 Lunch will not be provided at this meeting. There are a wide range of food outlets on campus. A list of those open during the meeting, with opening times, is available [here](https://warwick.ac.uk/services/retail/openingtimes/upcoming-times). The Zeeman Building is also close to the Cannon Park Shopping Centre, with a range of fast food lunch options there too.
