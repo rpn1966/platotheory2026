@@ -16,7 +16,7 @@ The UKI Discs meeting  will be held in the [Zeeman Building](https://campus.warw
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
 
-The best rail otpion is to arrive at Coventry station (not Warwick station), as there are multiple public transport options that can get you to the university campus. Although Canley station is technically closer (a 30 minute walk), apart from taking an Uber there are no transport links from that station to campus. In addition, only West Midlands Rail services stop at Canley.
+The best rail option is to arrive at Coventry station (not Warwick station), as there are multiple public transport options that can get you to the university campus. Although Canley station is technically closer (a 30 minute walk), apart from taking an Uber there are no transport links from that station to campus. In addition, only West Midlands Rail services stop at Canley.
 
 Coventry station is served by 4 train companies (Avanti West Coast, CrossCountry, West Midlands, and London Northwestern), and is located on the West Coast Main Line (among others), linking London, Birmingham, Manchester, Liverpool, Lancaster, Edinburgh and Glasgow. Coventry station also connects to the Cross Country Route (linking Aberdeen, Newcastle, York, Leeds, Sheffield, Derby, Bristol, Exeter and Penzance) through an easy transfer at Birmingham New Street station.
 

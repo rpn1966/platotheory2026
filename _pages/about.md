@@ -6,13 +6,13 @@ header:
   caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 ---
 
-The UKI discs meeting aims to bring together the different disc communities across the UK & Ireland for those working on astrophysical discs. We are delighted to announce the first conference of this series will be hosted at the University of Warwick on 9th-11th September 2024! The theme of the conference will be _Protoplanetary Discs and Debris Discs (including White Dwarf Derbis Discs)_, covering both observations and theory. Scientific topics include but are not limited to Disc formation and evolution, Planet-disc interactions, disc and planetary dynamics, environmental effects on discs, disc chemistry, exocomets, etc.
+The UKI discs meeting aims to bring together different astrophysical-disc communities across the UK & Ireland. We are delighted to announce the first conference of this series will be hosted at the University of Warwick on 9th-11th September 2024! The theme of the conference will be _Protoplanetary Discs and Debris Discs (including White Dwarf Debris Discs)_, covering both observations and theory. Scientific topics include but are not limited to Disc Formation and Evolution, Planet-Disc Interactions, Disc and Planetary Dynamics, Disc Chemistry, Exocomets, etc. The meeting will be held in a **hybrid format**, but talks will be given in-person only.
 
 Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/discs2024/mailing-list) for the latest news in the Discs community.
 
 ## Important Dates
 - Registration opens: 18th March
-- Abstract submission closes: 10th May
+- Abstract submission closes: 5th May
 - Outcome of abstract submissions: June
 - Registration closes: 
 - Conference! 9th September - 11th September
