@@ -22,6 +22,7 @@ Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/disc
 - Daniela Iglesias (Leeds)
 - Maria de Juan Ovelar (Warwick)
 - Henrik Latter (DAMTP, Cambridge)
+- Luca Matra (Trinity College Dublin)
 - Laura Rogers (IoA, Cambridge)
 - Alison Young (Edinburgh)
 
