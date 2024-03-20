@@ -6,15 +6,15 @@ header:
   caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 ---
 
-The UKI discs meeting aims to bring together different astrophysical-disc communities across the UK & Ireland. We are delighted to announce the first conference of this series will be hosted at the University of Warwick on 9th-11th September 2024! The theme of the conference will be _Protoplanetary Discs and Debris Discs (including White Dwarf Debris Discs)_, covering both observations and theory. Scientific topics include but are not limited to Disc Formation and Evolution, Planet-Disc Interactions, Disc and Planetary Dynamics, Disc Chemistry, Exocomets, etc. A session on EDI in Astronomy will also be embedded in the programme. The meeting will be held in a **hybrid format**, but talks will be given in-person only.
+The UKI discs meeting aims to bring together different astrophysical-disc communities across the UK & Ireland. We are delighted to announce the first conference of this series will be hosted at the University of Warwick on 9th-11th September 2024! The theme of the conference will be _Protoplanetary Discs and Debris Discs (including White Dwarf Debris Discs)_, covering both observations and theory. Scientific topics include but are not limited to disc formation and evolution, planet-disc interactions, disc and planetary dynamics, disc chemistry, exocomets, etc. A session on EDI in Astronomy will also be embedded in the programme. The meeting will be held in a **hybrid format**.
 
-Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/discs2024/mailing-list) for the latest news in the Discs community.
+For any queries, please email discs2024@warwick.ac.uk.
 
 ## Important Dates
-- Registration opens: 18th March
+- Registration opens: 25th March
 - Abstract submission closes: 5th May
-- Outcome of abstract submissions: June
-- Registration closes: August
+- Outcome of abstract submissions: mid-late June
+- Registration closes: 18th August
 - Conference: 9th September - 11th September
 
 ## SOC
@@ -27,8 +27,10 @@ Sign up for the **NEW** [UKI Discs mailing list](https://ukidiscs.github.io/disc
 - Alison Young (Edinburgh)
 
 ## LOC
+- Farzana Meru 
 - Raphael Bendahan-West
 - Amena Faruqi
+- Maria de Juan Ovelar
 - Grant Kennedy
 - Minjae Kim
 - Rebecca Nealon
@@ -57,3 +59,7 @@ This meeting will be a harassment-free environment for everyone, regardless of g
 - Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 
 - Participants asked to stop any harassing behaviour are expected to comply immediately. Attendees violating these rules may be asked to leave the event, without a refund of any charge.
+
+If someone wishes to report a breach of this code of conduct with regards to this conference, then they should contact any of the LOC in person or by email (including anonymously) to discs2024@warwick.ac.uk
+
+
