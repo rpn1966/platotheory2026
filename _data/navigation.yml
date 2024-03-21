@@ -5,7 +5,7 @@ main:
     url: /register/
   - title: "Programme"
     url: /programme/
-  - title: "Practical Information"
+  - title: "Info"
     url: /info/
   - title: "Participants"
     url: /participants/

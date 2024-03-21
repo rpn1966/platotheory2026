@@ -1,5 +1,5 @@
 ---
-permalink: /practical-info/
+permalink: /info/
 title: "Info"
 header: 
   image: "/assets/images/warwick-fountain.jpg"
