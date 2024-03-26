@@ -42,7 +42,6 @@ Lunch will not be provided at this meeting. There are a wide range of food outle
 
 There are multiple options for accommodation on or near campus. A comprehensive list can be found [here](https://warwick.ac.uk/services/accommodation/staff/offcampus/relocationservice/shorttermaccommodation/). For places on campus, select the Warwick Conferences B&B option.
 
-
 ## Childcare Support {#ChildcareSupport}
 
 We are working on offering childcare support for those who need it. We understand that there are a wide range of needs, therefore please do indicate on the registration form if you would like childcare and we can get in touch to discuss what you require and the options available.
