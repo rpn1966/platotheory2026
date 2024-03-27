@@ -12,7 +12,7 @@ For any queries, please email discs2024@warwick.ac.uk.
 
 ## Important Dates
 - Registration opens: 25th March
-- Abstract submission closes: 5th May
+- Abstract submission closes: 12th May
 - Outcome of abstract submissions: mid-late June
 - Registration closes: 18th August
 - Conference: 9th September - 11th September
