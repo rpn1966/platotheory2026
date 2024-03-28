@@ -11,7 +11,7 @@ The UKI discs meeting aims to bring together different astrophysical disc commun
 For any queries, please email [discs2024@warwick.ac.uk](mailto:discs2024@warwick.ac.uk).
 
 ## Important Dates
-- Registration opens: 25th March
+- Registration opens: 28th March
 - Abstract submission closes: 12th May
 - Outcome of abstract submissions: mid-late June
 - Registration closes: 18th August
