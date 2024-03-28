@@ -27,7 +27,7 @@ For any queries, please email [discs2024@warwick.ac.uk](mailto:discs2024@warwick
 - Alison Young (Edinburgh)
 
 ## LOC
-- Farzana Meru 
+- Farzana Meru (chair)
 - Raphael Bendahan-West
 - Amena Faruqi
 - Maria de Juan Ovelar
@@ -60,6 +60,6 @@ This meeting will be a harassment-free environment for everyone, regardless of g
 
 - Participants asked to stop any harassing behaviour are expected to comply immediately. Attendees violating these rules may be asked to leave the event, without a refund of any charge.
 
-If someone wishes to report a breach of this code of conduct with regards to this conference, then they should contact any of the LOC in person or by email (including anonymously) to [discs2024@warwick.ac.uk](mailto:discs2024@warwick.ac.uk).
+If someone wishes to report a breach of this code of conduct with regards to this meeting, then they should contact any of the LOC in person or by email (including anonymously) to [discs2024@warwick.ac.uk](mailto:discs2024@warwick.ac.uk).
 
 
