@@ -20,8 +20,8 @@ description: The UK & Ireland Discs Meeting 2024  # this means to ignore newline
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-url: "https://ukidiscs.github.io"
-baseurl: "/discs2024"
+#url: "https://ukidiscs.github.io"
+#baseurl: "/discs2024"
 
 #twitter_username: username
 #github_username: username
