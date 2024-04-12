@@ -30,6 +30,14 @@ Coventry is served by both National Express and Megabus. The Coventry drop-off p
 
 The postcode for the Central Campus is CV4 7AL. On approaches to Coventry, follow the signs to Warwick Arts Centre or the University of Warwick. Car Parks on campus are all controlled by ANPR. Check the [online interactive map](https://campus.warwick.ac.uk/) to find the locations of various car parks. For more information on payment, check this link [here](https://warwick.ac.uk/services/carparks/general_parking/).
 
+### *Arriving by plane*
+
+The closest major airport to the University of Warwick is Birmingham International Airport (BHX). For those using public transportation from Birmingham Airport, take the shuttle train service between the Airport and Birmingham International Railway Station, take a train to Coventry station (Avanti West Coast or West Midlands Trains), and then the bus options above to the University. The total travel time would be around 30-45 minutes and the total cost should be less than £10. Taxis from the airport should be around 20-30 minutes and fares are dependent on the time of day (~£30-£50).
+ 
+If flying to London (Heathrow/Gatwick/Luton), it is recommended to take a National Express coach from the airport to Coventry Pool Meadow Bus Station, and then follow the instructions to the University as above. Alternatively, you can take the train from the London airports to Euston station, and then take a train from Euston station to Coventry station (Avanti West Coast or West Midlands Trains). The journey time from the London airports to the University would be between 1.5-3 hours, depending on the airport.
+
+
+
 ## Food {#Food}
 
 ### *Refreshments*
