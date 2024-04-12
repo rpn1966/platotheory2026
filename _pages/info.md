@@ -36,7 +36,7 @@ The closest major airport to the University of Warwick is Birmingham Internation
  
 If flying to London (Heathrow/Gatwick/Luton), it is recommended to take a National Express coach from the airport to Coventry Pool Meadow Bus Station, and then follow the instructions to the University as above. Alternatively, you can take the train from the London airports to Euston station, and then take a train from Euston station to Coventry station (Avanti West Coast or West Midlands Trains). The journey time from the London airports to the University would be between 1.5-3 hours, depending on the airport.
 
-
+Alternative airport options include East Midlands, Manchester and Bristol airports. The distance to the University from each of these airports are roughly 3 hours, and we’d recommend to follow the train/bus combinations from Google Maps. 
 
 ## Food {#Food}
 
