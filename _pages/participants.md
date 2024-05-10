@@ -38,6 +38,7 @@ header:
 - Gordon Ogilvie (University of Cambridge, DAMTP)
 - Tim Pearce (University of Warwick)
 - Paola Pinilla (MSSL/UCL)
+- Bettina Posselt (University of Oxford)
 - Vasundhara Prasad (University of Cambridge, Institute of Astronomy)
 - Isaac Radley (University of Leeds)
 - Akshay Robert (UCL)
