@@ -47,7 +47,6 @@ header:
 - Aurora Sicilia-Aguilar (University of Dundee)
 - Anibal Sierra (MSSL/UCL)
 - Kevin Smith (Trinity College Dublin)
-- Paul Strøm (University of Warwick)
 - Sidhant Suar (UCL)
 - Matthew Teasdale (University of Central Lancashire)
 - Simin Tong (University of Leicester)
