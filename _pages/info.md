@@ -32,17 +32,15 @@ The postcode for the Central Campus is CV4 7AL. On approaches to Coventry, follo
 
 ### *Arriving by plane*
 
-<<<<<<< HEAD
 The closest major airport to the University of Warwick is Birmingham International Airport (BHX). For those using public transportation from Birmingham Airport, take the shuttle train service between the Airport and Birmingham International Railway Station, take a train to Coventry station (Avanti West Coast or West Midlands Trains), and then the bus options above to the University. The total travel time would be around 30-45 minutes and the total cost should be less than £10. Taxis from the airport should be around 20-30 minutes and fares are dependent on the time of day (~£30-£50).
  
 If you are flying to London, take the train to London Euston, where you can then take either the Avanti West Coast or West Midlands Trains options to Coventry station. If you are flying to Heathrow/Luton in particular, there is also a direct National Express coach option to Coventry Pool Meadow Bus Station. Upon arriving into Coventry, follow the instructions to the University as above. The journey time from the London airports to the University would be between 1.5-3 hours, depending on the airport.
-=======
+
 The closest major airport to the University of Warwick is Birmingham International Airport (BHX). For those using public transportation from Birmingham Airport, take the shuttle train service between the Airport and Birmingham International Railway Station, take a train to Coventry station (Avanti West Coast or West Midlands Trains), and then the bus options above to the University. The total travel time would be around 30-45 minutes and the total cost should be less than £10. Taxis from the airport should be around 20-30 minutes and fares depend on the time of day (~£30-£50).
->>>>>>> origin/BTS
 
 If you are flying to London, take the train to London Euston, where you can then take either the Avanti West Coast or West Midlands Trains options to Coventry station. If you are flying to Heathrow/Luton in particular, there is also a direct National Express coach option to Coventry Pool Meadow Bus Station. When you arrive in Coventry, please follow the instructions to the University as above. The journey time from the London airports to the University would be between 1.5-3 hours, depending on the airport.
 
-Alternative airport options include East Midlands, Manchester and Bristol airports. The distance to the University from each of these airports are roughly 3 hours, and we’d recommend to follow the train/bus combinations from Google Maps.
+Alternative airport options include East Midlands, Manchester and Bristol airports. The distance to the University from each of these airports are roughly 3 hours, and we’d recommend following the train/bus combinations from Google Maps.
 
 ## Food {#Food}
 
