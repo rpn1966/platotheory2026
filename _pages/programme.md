@@ -115,7 +115,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 
 
 ---
-# Posters
+#Posters
 ---
 
 The poster session will be held on Monday 9th September from 16:50 - 18:00. Room TBC.
