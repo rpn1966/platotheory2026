@@ -7,7 +7,7 @@ header:
 layout: splash
 ---
 
-A pdf version of the talk programme is available here. Poster abstracts are here.
+A pdf version of the talk programme is available [here](../assets/Programme.pdf). Poster abstracts are [here](../assets/Posters.pdf).
 
 # Monday 9th
 ---
