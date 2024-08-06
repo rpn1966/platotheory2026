@@ -12,7 +12,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 - [Monday 9th](#monday-9th)
 - [Tuesday 10th](#tuesday-10th)
 - [Wednesday 11th](#wednesday-11th)
-- [Posters](#Posters)
+- [Posters](#posters)
 
 
 # Monday 9th
