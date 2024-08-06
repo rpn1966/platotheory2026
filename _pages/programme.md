@@ -7,7 +7,10 @@ header:
 layout: splash
 ---
 
-A pdf version of the talk programme is available [here](../assets/images/Programme.pdf). Poster abstracts are [here](../assets/images/Posters.pdf).
+A pdf version of the general programme is available [here](../assets/images/Programme.pdf). Poster abstracts are [here](../assets/images/Posters.pdf).
+
+[Posters](#Posters)
+
 
 # Monday 9th
 ---
@@ -108,8 +111,11 @@ A pdf version of the talk programme is available [here](../assets/images/Program
 - 15:45-15:50   **Closing remarks**
 
 
-
+---
 # Posters
+---
+
+The poster session will be held on Monday 9th September from 16:50 - 18:00. Room TBC.
 
 
 - **Binding environments of precursors to complex organic molecules in protoplanetary disks: a computational study** - Aneesa Ahmad
