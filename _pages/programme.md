@@ -15,7 +15,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 - [Posters](#posters)
 
 ---
-<h1 style="text-align: center;">Monday 9th</h1>
+<h1 id="monday-9th" style="text-align: center;">Monday 9th</h1>
 ---
 - 10:45-11:00  **Introduction (Welcome, Code of Conduct, Logistics)**
 - 11:00-11:30  **Review Talk: Protoplanetary Discs** - Richard Booth (Leeds)
@@ -38,7 +38,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 - 16:50-18:00  **Poster Session**
 
 ---
-<h1 style="text-align: center;">Tuesday 10th</h1>
+<h1 id="tuesday-10th" style="text-align: center;">Tuesday 10th</h1>
 ---
 - 9:30-10:30    <u><b><i>Disc Composition & Chemistry 1</i></b></u>
     - 09:30-09:42 **Constraining the inner disk structure around intermediate mass YSOs from CO overtone emission** — Cade Bürgy (University College Dublin)
@@ -75,7 +75,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 - 17:00-18:00   **Discussion Session** — Tim Pearce (University of Warwick) & Andrew Swan (University of Warwick)
 
 ---
-<h1 style="text-align: center;">Wednesday 11th</h1>
+<h1 id="wednesday-11th" style="text-align: center;">Wednesday 11th</h1>
 ---
 - 9:30-10:55    <u><b><i>Disc Properties 3 + New and Improved Models/Methods 1</i></b></u>
     
@@ -117,7 +117,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 
 
 ---
-<h1 style="text-align: center;">Posters</h1>
+<h1 id="posters" style="text-align: center;">Posters</h1>
 ---
 
 The poster session will be held on Monday 9th September from 16:50 - 18:00. Room TBC.
