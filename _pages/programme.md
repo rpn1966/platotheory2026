@@ -122,14 +122,23 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 
 The poster session will be held on Monday 9th September from 16:50 - 18:00. Room TBC.
 
-
+- **A Closer Look at the Erosion Barrier in Protoplanetary Discs** - Marco Agolzer
 - **Binding environments of precursors to complex organic molecules in protoplanetary disks: a computational study** - Aneesa Ahmad
+- **Free-floating planets ejected from massive self-gravitating discs** - Aleksandra Ćalović
+- **Following the long-term evolution of dusty fragments formed via gravitational instability** - Maggie Celeste
+- **Hydrodynamical Simulations of Planet-Disk Interactions in PDS 70: Characterizing Gap, Spiral, and Vortex in the Disk** - Daniel Daza Valdebenito
+- **Dust Polarization Up Close and Personal in a Planet-Forming Disk** - Rachel Harrison
 - **A trail of dust from a young embedded brown dwarf in the outskirts of the Orion Nebular Cluster** - Thomas Haworth
 - **North PHASE observation of the young cluster Tr37** - Ferdinand Hollauf
 - **Understanding CO Depletion in Wind-Driven Protoplanetary Discs** - Zuzanna Jonczyk
 - **Debris disc catalogue - I. Herschel PACS photometry** - Minjae Kim
+- **Simulations of Gravitational Instability in Irradiated Protoplanetary Discs** - Cat Leedham
 - **Modelling the Dust substructures in the AGE-PRO sample** - Lilian Luo
 - **Testing the shock bow model with the variations in exocometary absorptions of high ionized species as Al III observed by HST around Beta Pic** - Cristina Madurga Favieres
 - **The Effect of Eccentricity on the Accretion Rate onto Newly Formed Planets in Protoplanetary Discs** - Aaron Mills
 - **A Search for Transiting Exocomets in TESS Sectors 1-26** - Azib Norazman
-- **Dust Dynamics in Protoplanetary Discs after Stellar Flybys** - Vasundhara Prasad
+- **Dust Entrainment in 1D Externally Photo-Evaporated Models** - Sébastien Paine
+- **Dust Dynamics in Protoplanetary Discs after Stellar Flybys** - Vasu Prasad
+- **Disc Evolution and planet formation in stellar cluster environment** - Lin Qiao
+- **Circumplanetary Winds: A hydrodynamical study of planet formation during planetesimal accretion** - Danilo Sepúlveda
+- **How super‑Earths migrate in low‑turbulence radiative disks** - Alexandros Ziampras
