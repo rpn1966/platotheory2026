@@ -6,11 +6,13 @@ header:
   caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 ---
 
+- Marco Agolzer (University of Exeter)
 - Aneesa Ahmad (University of Leeds)
 - Richard Alexander (University of Leicester)
 - Juanita Antilen (UCL)
 - Raphael Bendahan-West (University of Exeter)
 - Bertram Bitsch (University College Cork)
+- Mark Booth (UK Astronomy Technology Centre)
 - Richard Booth (University of Leeds)
 - Joshua Brown (University of Cambridge, DAMTP)
 - Mattias Brynjell-Rahkola (University of Cambridge, DAMTP)
@@ -33,6 +35,7 @@ header:
 - Tim Harries (University of Exeter)
 - Rachel Harrison (Monash University)
 - Thomas Haworth (Queen Mary, University of London)
+- Katie Hesterly (Cardiff University)
 - KM Hiremath (Indian Institute of Astrophysics)
 - Ferdinand Hollauf (University of Dundee)
 - Daniela Iglesias (University of Leeds)
@@ -42,6 +45,7 @@ header:
 - Heather Johnston (University of Leeds)
 - Zuzanna Jonczyk (University of Leeds)
 - Ruhee Kahar (University of Dundee)
+- Grant Kennedy (University of Warwick)
 - Luke Keyte (UCL)
 - Minjae Kim (University of Warwick)
 - Stefan Kraus (University of Exeter)
@@ -63,13 +67,14 @@ header:
 - Hiba tu Noor (UCL)
 - Azib Norazman (University of Warwick)
 - Gordon Ogilvie (University of Cambridge, DAMTP)
+- James Owen (Imperial College London)
 - Lin Qiao (Queen Mary, University of London)
 - Sébastien Paine (Queen Mary, University of London)
 - Tim Pearce (University of Warwick)
 - Anna Penzlin (Imperial College London)
 - Paola Pinilla (MSSL/UCL)
 - Bettina Posselt (University of Oxford)
-- Vasundhara Prasad (University of Cambridge, Institute of Astronomy)
+- Vasu Prasad (University of Cambridge, Institute of Astronomy)
 - Isaac Radley (University of Leeds)
 - Sergio Humberto Ramirez Ramirez (University of Warwick)
 - Jason Ran (UCL)
@@ -81,6 +86,7 @@ header:
 - Laura Rogers (University of Cambridge, Institute of Astronomy)
 - Sahl Rowther (University of Leicester)
 - Matthäus Schulik (Imperial College London)
+- Danilo Sepúlveda (Dustbusters)
 - Aurora Sicilia-Aguilar (University of Dundee)
 - Anibal Sierra (MSSL/UCL)
 - Max Sommer (University of Cambridge, Institute of Astronomy)
@@ -89,6 +95,7 @@ header:
 - Andrew Swan (University of Warwick)
 - Matthew Teasdale (University of Central Lancashire)
 - Simin Tong (University of Leicester)
+- Dimitri Veras (University of Warwick)
 - Jamie Williams (University of Warwick)
 - Joe Williams (Univesity of Exeter)
 - Morgan Williams (Imperial College London)
@@ -96,5 +103,5 @@ header:
 - Tailong Zhang (UCL)
 - Alexandros Ziampras (Queen Mary, University of London)
 
-Last updated: 26th July 2024.
+Last updated: 7th August 2024.
 
