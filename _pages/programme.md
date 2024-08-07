@@ -61,7 +61,8 @@ A pdf version of the general programme is available [here](../assets/images/Prog
     - 14:30-14:42 **The rise and fall of the giant planet occurrence rate** — Heather Johnston (University of Leeds) — online
     - 14:42-14:54 **What Time Can Tell Us About Space: Mapping Accretion in Intermediate-Mass YSO** — Ruhee Kahar (University of Dundee)
     - 14:54-15:06 **Discs around neutron stars** — Bettina Posselt (University of Oxford)
-    <br>
+
+    
     **Disc Properties 1**
     - 15:06-15:18 **Study of the degree of dust settling and turbulence in highly-inclined protoplanetary discs** — Juanita Antilen (UCL)
     - 15:18-15:30 **Investigating YSO Dippers with XShooter** — Aaron Empey (University College Dublin)
@@ -81,7 +82,8 @@ A pdf version of the general programme is available [here](../assets/images/Prog
     
     **Disc Properties 3**
     - 09:30-09:42 **Constraints on the physical origin of large cavities in transition disks from multi-wavelength dust continuum emission** — Anibal Sierra (Mullard Space Science Laboratory, University College London)
-    <br>
+
+    
     **New and Improved Models/Methods 1**
     - 09:42-09:54 **Horseshoes and spiral waves: capturing the 3D flow near a low-mass planet analytically** — Joshua Brown (DAMTP, University of Cambridge)
     - 09:54-10:06 **The properties of embedded disc-instability protoplanets** — Ethan Carter (University of Central Lancashire)
@@ -95,6 +97,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
     **New and Improved Models/Methods 2**
     - 11:25-11:37 **The Role of Drag and Gravity on Dust Concentration in a Gravitationally Unstable Disc** — Sahl Rowther (University of Leicester)
     - 11:37-11:49 **Pebble drift in HD 163926 - constraining the mass of dust and ice reaching the terrestrial planet formation region** — Joe Williams (University of Exeter)<br>
+
     
     **Disc Processes 1**
     - 11:49-12:01 **On the role of resonance absorption in flows receptive to the magnetorotational instability** — Mattias Brynjell-Rahkola (DAMTP, University of Cambridge)
