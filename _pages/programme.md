@@ -60,8 +60,8 @@ A pdf version of the general programme is available [here](../assets/images/Prog
     **Star-disc Connection**
     - 14:30-14:42 **The rise and fall of the giant planet occurrence rate** — Heather Johnston (University of Leeds) — online
     - 14:42-14:54 **What Time Can Tell Us About Space: Mapping Accretion in Intermediate-Mass YSO** — Ruhee Kahar (University of Dundee)
-    - 14:54-15:06 **Discs around neutron stars** — Bettina Posselt (University of Oxford)<br>
-    <br>
+    - 14:54-15:06 **Discs around neutron stars** — Bettina Posselt (University of Oxford)
+    
     **Disc Properties 1**
     - 15:06-15:18 **Study of the degree of dust settling and turbulence in highly-inclined protoplanetary discs** — Juanita Antilen (UCL)
     - 15:18-15:30 **Investigating YSO Dippers with XShooter** — Aaron Empey (University College Dublin)
