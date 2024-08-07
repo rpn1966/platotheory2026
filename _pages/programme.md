@@ -14,8 +14,8 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 - [Wednesday 11th](#wednesday-11th)
 - [Posters](#posters)
 
-
-# Monday 9th
+---
+<h1 style="text-align: center;">Monday 9th</h1>
 ---
 - 10:45-11:00  **Introduction (Welcome, Code of Conduct, Logistics)**
 - 11:00-11:30  **Review Talk: Protoplanetary Discs** - Richard Booth (Leeds)
@@ -34,11 +34,11 @@ A pdf version of the general programme is available [here](../assets/images/Prog
     - 15:42-15:54 **Multi-Wavelength Analysis of HD 32297's Edge-on Debris Disk** — Patricia Luppe (Trinity College Dublin)
     - 15:56-16:06 **Shadows and spiral arcs in the Protoplanetary Disc HD 139614** — Katie Milsom (University of Exeter)
     - 16:06-16:18 **Disc walls and fake vortices: crescent-shaped asymmetries in ALMA observations of protoplanetary discs** — Álvaro Ribas (Institute of Astronomy, University of Cambridge)
-- 16:20-16:50  **All Poster Pop-ups**
+- 16:20-16:50  **Poster Pop-ups**
 - 16:50-18:00  **Poster Session**
 
 ---
-# Tuesday 10th
+<h1 style="text-align: center;">Tuesday 10th</h1>
 ---
 - 9:30-10:30    <u><b><i>Disc Composition & Chemistry 1</i></b></u>
     - 09:30-09:42 **Constraining the inner disk structure around intermediate mass YSOs from CO overtone emission** — Cade Bürgy (University College Dublin)
@@ -61,7 +61,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
     - 14:30-14:42 **The rise and fall of the giant planet occurrence rate** — Heather Johnston (University of Leeds) — online
     - 14:42-14:54 **What Time Can Tell Us About Space: Mapping Accretion in Intermediate-Mass YSO** — Ruhee Kahar (University of Dundee)
     - 14:54-15:06 **Discs around neutron stars** — Bettina Posselt (University of Oxford)
-    
+    <br>
     **Disc Properties 1**
     - 15:06-15:18 **Study of the degree of dust settling and turbulence in highly-inclined protoplanetary discs** — Juanita Antilen (UCL)
     - 15:18-15:30 **Investigating YSO Dippers with XShooter** — Aaron Empey (University College Dublin)
@@ -75,13 +75,13 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 - 17:00-18:00   **Discussion Session** — Tim Pearce (University of Warwick) & Andrew Swan (University of Warwick)
 
 ---
-# Wednesday 11th
+<h1 style="text-align: center;">Wednesday 11th</h1>
 ---
 - 9:30-10:55    <u><b><i>Disc Properties 3 + New and Improved Models/Methods 1</i></b></u>
     
     **Disc Properties 3**
     - 09:30-09:42 **Constraints on the physical origin of large cavities in transition disks from multi-wavelength dust continuum emission** — Anibal Sierra (Mullard Space Science Laboratory, University College London)
-
+    <br>
     **New and Improved Models/Methods 1**
     - 09:42-09:54 **Horseshoes and spiral waves: capturing the 3D flow near a low-mass planet analytically** — Joshua Brown (DAMTP, University of Cambridge)
     - 09:54-10:06 **The properties of embedded disc-instability protoplanets** — Ethan Carter (University of Central Lancashire)
@@ -94,7 +94,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
     
     **New and Improved Models/Methods 2**
     - 11:25-11:37 **The Role of Drag and Gravity on Dust Concentration in a Gravitationally Unstable Disc** — Sahl Rowther (University of Leicester)
-    - 11:37-11:49 **Pebble drift in HD 163926 - constraining the mass of dust and ice reaching the terrestrial planet formation region** — Joe Williams (University of Exeter)
+    - 11:37-11:49 **Pebble drift in HD 163926 - constraining the mass of dust and ice reaching the terrestrial planet formation region** — Joe Williams (University of Exeter)<br>
     
     **Disc Processes 1**
     - 11:49-12:01 **On the role of resonance absorption in flows receptive to the magnetorotational instability** — Mattias Brynjell-Rahkola (DAMTP, University of Cambridge)
@@ -115,7 +115,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
 
 
 ---
-# Posters
+<h1 style="text-align: center;">Posters</h1>
 ---
 
 The poster session will be held on Monday 9th September from 16:50 - 18:00. Room TBC.
