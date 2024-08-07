@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# title: UK & Ireland Discs Meeting 2024
+title: UK & Ireland Discs Meeting 2024
 # email:
 description: The UK & Ireland Discs Meeting 2024  # this means to ignore newlines until "baseurl:"
 url: "https://ukidiscs.github.io"
@@ -46,7 +46,7 @@ header:
   caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 
 # logo
-logo: "/assets/images/UKI_Logo_fulltext.png"
+logo: "/assets/images/UKI_Logo_notext.png"
 
 # text wide
 classes: wide
