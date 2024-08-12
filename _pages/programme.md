@@ -140,8 +140,9 @@ The poster session will be held on Monday 9th September from 16:50 - 18:00.
 16. **Dust rings in warped protoplanetary discs** - Rebecca Nealon
 17. **A Search for Transiting Exocomets in TESS Sectors 1-26** - Azib Norazman
 18. **Dust Entrainment in 1D Externally Photo-Evaporated Models** - Sébastien Paine
-19. **Dust Dynamics in Protoplanetary Discs after Stellar Flybys** - Vasu Prasad
-20. **Disc Evolution and planet formation in stellar cluster environment** - Lin Qiao
-21. **Circumplanetary Winds: A hydrodynamical study of planet formation during planetesimal accretion** - Danilo Sepúlveda
-22. **"Using time to map space" with the North-PHASE Legacy Survey** - Aurora Sicilia-Aguilar
-23. **How super‑Earths migrate in low‑turbulence radiative disks** - Alexandros Ziampras
+19. **Understanding the shapes of circumbinary discs** - Anna Penzlin
+20. **Dust Dynamics in Protoplanetary Discs after Stellar Flybys** - Vasu Prasad
+21. **Disc Evolution and planet formation in stellar cluster environment** - Lin Qiao
+22. **Circumplanetary Winds: A hydrodynamical study of planet formation during planetesimal accretion** - Danilo Sepúlveda
+23. **"Using time to map space" with the North-PHASE Legacy Survey** - Aurora Sicilia-Aguilar
+24. **How super‑Earths migrate in low‑turbulence radiative disks** - Alexandros Ziampras
