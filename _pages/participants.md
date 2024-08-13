@@ -32,7 +32,6 @@ header:
 - Amena Faruqi (University of Warwick)
 - Jane Greaves (Cardiff University)
 - Emmanuel Greenfield (Imperial College London)
-- Tim Harries (University of Exeter)
 - Rachel Harrison (Monash University)
 - Thomas Haworth (Queen Mary, University of London)
 - Katie Hesterly (Cardiff University)
