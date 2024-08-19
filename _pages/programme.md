@@ -106,7 +106,7 @@ A pdf version of the general programme is available [here](../assets/images/Prog
     - 12:37-12:49 **Dust dynamics in the inner regions of protoplanetary disks** — Thomas Jannaud (DAMTP, University of Cambridge)
 - 12:50-14:20   **Lunch**
 - 14:20-15:45   <u><b><i>Disc Processes 2</i></b></u>
-    - 14:20-14:32 **Time evolution of planetesimal accretion in old white dwarfs** — Hiba tu Noor (UCL)
+    - 14:20-14:32 **From Minutes to Decades: Dynamical Activity in Planetary Debris Disks Around White Dwarfs** — Hiba tu Noor (UCL)
     - 14:32-14:44 **Analysis of triggered fragmentation in self-gravitating discs** — Pratishtha Rawat (University of Warwick)
     - 14:44-14:56 **Discs within discs - formation conditions and structures in moon forming discs** — Matthäus Schulik (Imperial College London)
     - 14:56-15:08 **The Fomalhaut disc’s high interior dust content: PR-drag-caused and universal?** — Max Sommer (University of Cambridge, Institute of Astronomy)
