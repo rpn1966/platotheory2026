@@ -39,6 +39,7 @@ header:
 - Rachel Harrison (Monash University)
 - Thomas Haworth (Queen Mary, University of London)
 - Katie Hesterly (Cardiff University)
+- Sasha Hinkley (University of Exeter)
 - KM Hiremath (Indian Institute of Astrophysics)
 - Ferdinand Hollauf (University of Dundee)
 - Brian Hormbrey (University of Exeter)
