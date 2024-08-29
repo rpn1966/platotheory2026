@@ -33,6 +33,7 @@ For any queries, please email [discs2024@warwick.ac.uk](mailto:discs2024@warwick
 - Maria de Juan Ovelar
 - Grant Kennedy
 - Minjae Kim
+- Rafael Martinez-Brunner
 - Rebecca Nealon
 - Azib Norazman
 - Tim Pearce
