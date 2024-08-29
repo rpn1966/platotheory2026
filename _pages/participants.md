@@ -7,7 +7,6 @@ header:
 ---
 
 - Marco Agolzer (University of Exeter)
-- Aneesa Ahmad (University of Leeds)
 - Richard Alexander (University of Leicester)
 - Juanita Antilen (UCL)
 - Emmanuel Bempong-Manful (University of Manchester)
@@ -94,8 +93,6 @@ header:
 - Jason Ran (UCL)
 - Pratishtha Rawat (University of Warwick)
 - Álvaro Ribas (University of Cambridge, Institute of Astronomy)
-- Ken Rice (University of Edinburgh, Institute for Astronomy)
-- Akshay Robert (UCL)
 - Alfie Robinson (Imperial College London)
 - Laura Rogers (University of Cambridge, Institute of Astronomy)
 - Sahl Rowther (University of Leicester)
