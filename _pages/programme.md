@@ -138,7 +138,7 @@ The poster session will be held on Monday 9th September from 16:50 - 18:00.
 14. **Modelling the Dust substructures in the AGE-PRO sample** - Lilian Luo
 15. **Testing the shock bow model with the variations in exocometary absorptions of high ionized species as Al III observed by HST around Beta Pic** - Cristina Madurga Favieres
 16. **The Effect of Eccentricity on the Accretion Rate onto Newly Formed Planets in Protoplanetary Discs** - Aaron Mills
-17. **Dust rings in warped protoplanetary discs** - Rebecca Nealon
+17. **Adaptive particle refinement for compressible smoothed particle hydrodynamics** - Rebecca Nealon
 18. **A Search for Transiting Exocomets in TESS Sectors 1-26** - Azib Norazman
 19. **Dust Entrainment in 1D Externally Photo-Evaporated Models** - Sébastien Paine
 20. **Understanding the shapes of circumbinary discs** - Anna Penzlin
