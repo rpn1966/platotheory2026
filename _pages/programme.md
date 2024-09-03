@@ -137,13 +137,14 @@ The poster session will be held on Monday 9th September from 16:50 - 18:00.
 13. **First ALMA observations of the HD 105211 debris disc: A warm dust component close to a gigayear-old star** - Qiong Liu
 14. **Modelling the Dust substructures in the AGE-PRO sample** - Lilian Luo
 15. **Testing the shock bow model with the variations in exocometary absorptions of high ionized species as Al III observed by HST around Beta Pic** - Cristina Madurga Favieres
-16. **The Effect of Eccentricity on the Accretion Rate onto Newly Formed Planets in Protoplanetary Discs** - Aaron Mills
-17. **Adaptive particle refinement for compressible smoothed particle hydrodynamics** - Rebecca Nealon
-18. **A Search for Transiting Exocomets in TESS Sectors 1-26** - Azib Norazman
-19. **Dust Entrainment in 1D Externally Photo-Evaporated Models** - Sébastien Paine
-20. **Understanding the shapes of circumbinary discs** - Anna Penzlin
-21. **Dust Dynamics in Protoplanetary Discs after Stellar Flybys** - Vasu Prasad
-22. **Disc Evolution and planet formation in stellar cluster environment** - Lin Qiao
-23. **Circumplanetary Winds: A hydrodynamical study of planet formation during planetesimal accretion** - Danilo Sepúlveda
-24. **"Using time to map space" with the North-PHASE Legacy Survey** - Aurora Sicilia-Aguilar
-25. **How super‑Earths migrate in low‑turbulence radiative disks** - Alexandros Ziampras
+16. **Sandwiched planet formation: restricting the mass of a middle planet** - Farzana Meru
+17. **The Effect of Eccentricity on the Accretion Rate onto Newly Formed Planets in Protoplanetary Discs** - Aaron Mills
+18. **Adaptive particle refinement for compressible smoothed particle hydrodynamics** - Rebecca Nealon
+19. **A Search for Transiting Exocomets in TESS Sectors 1-26** - Azib Norazman
+20. **Dust Entrainment in 1D Externally Photo-Evaporated Models** - Sébastien Paine
+21. **Understanding the shapes of circumbinary discs** - Anna Penzlin
+22. **Dust Dynamics in Protoplanetary Discs after Stellar Flybys** - Vasu Prasad
+23. **Disc Evolution and planet formation in stellar cluster environment** - Lin Qiao
+24. **Circumplanetary Winds: A hydrodynamical study of planet formation during planetesimal accretion** - Danilo Sepúlveda
+25. **"Using time to map space" with the North-PHASE Legacy Survey** - Aurora Sicilia-Aguilar
+26. **How super‑Earths migrate in low‑turbulence radiative disks** - Alexandros Ziampras
