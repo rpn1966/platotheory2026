@@ -34,6 +34,7 @@ header:
 - Aaron Empey (University College Dublin (UCD))
 - Lucy Evans (University of Leeds)
 - Amena Faruqi (University of Warwick)
+- Jan Forbrich (University of Hertfordshire)
 - Jane Greaves (Cardiff University)
 - Emmanuel Greenfield (Imperial College London)
 - Rachel Harrison (Monash University)
@@ -55,6 +56,7 @@ header:
 - Luke Keyte (UCL)
 - Minjae Kim (University of Warwick)
 - Daniel Kingsbury (UCL)
+- Adam Koval (University of Edinburgh)
 - Stefan Kraus (University of Exeter)
 - Sebastiaan Krijt (University of Exeter)
 - Felipe Lagos-Vilches (University of Warwick)
@@ -116,5 +118,5 @@ header:
 - Tailong Zhang (UCL)
 - Alexandros Ziampras (Queen Mary, University of London)
 
-Last updated: 7th August 2024.
+Last updated: 6th September 2024.
 
