@@ -18,7 +18,7 @@ A PDF version of the general programme is available [here](../assets/images/Prog
 <h1 id="monday-9th" style="text-align: center;">Monday 9th</h1>
 ---
 - 10:00-12:30 <u><b><i>Introduction and Review Talks</i></b></u> - Chair: Anna Penzlin
-  - 10:45-11:00  **Introduction (Welcome, Code of Conduct, Logistics) - Farzana Meru **
+  - 10:45-11:00  **Introduction (Welcome, Code of Conduct, Logistics)** - Farzana Meru
   - 11:00-11:30  **Review Talk: Protoplanetary Discs** - Richard Booth (Leeds)
   - 11:30-12:00  **Review Talk: Debris Discs** - Mark Booth (Edinburgh)
   - 12:00-12:30  **Review Talk: White Dwarf Discs** - Laura Rogers (Cambridge)
