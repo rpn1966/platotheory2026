@@ -75,6 +75,7 @@ header:
 - Farzana Meru (University of Warwick)
 - Aaron Mills (University of Central Lancashire)
 - Katie Milsom (University of Exeter)
+- Tamara Molyarova (University of Leeds)
 - Sergei Nayakshin (University of Leicester)
 - Rebecca Nealon (University of Warwick)
 - Chris Nixon (University of Leeds)
