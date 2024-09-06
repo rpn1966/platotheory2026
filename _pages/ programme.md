@@ -64,7 +64,7 @@ A PDF version of the general programme is available [here](../assets/images/Prog
   
 - 15:06-15:35   **Coffee break**
 
-- 15:35-16:50   <u><b><i>Disc Properties</i></b></u>
+- 15:35-16:50   <u><b><i>Disc Properties 1</i></b></u>
     - 15:35-15:47 **Study of the degree of dust settling and turbulence in highly-inclined protoplanetary discs** — Juanita Antilen (UCL)
     - 15:47-15:59 **Investigating YSO Dippers with XShooter** — Aaron Empey (University College Dublin)
     - 16:00-16:12 **Results from the Planet-Earth Building-Blocks Legacy e-MERLIN  Survey (PEBBLeS) - how do the rocks start forming in discs?** — Jane Greaves (Cardiff University)
@@ -77,9 +77,9 @@ A PDF version of the general programme is available [here](../assets/images/Prog
 ---
 <h1 id="wednesday-11th" style="text-align: center;">Wednesday 11th</h1>
 ---
-- 9:30-10:55    <u><b><i>Disc Properties 3 + New and Improved Models/Methods 1</i></b></u>
+- 9:30-10:55    <u><b><i>Disc Properties 2 + New and Improved Models/Methods 1</i></b></u>
     
-    **Disc Properties 3**
+    **Disc Properties 2**
     - 09:30-09:42 **Constraints on the physical origin of large cavities in transition disks from multi-wavelength dust continuum emission** — Anibal Sierra (Mullard Space Science Laboratory, University College London)
 
     
