@@ -48,7 +48,7 @@ A PDF version of the general programme is available [here](../assets/images/Prog
     - 10:06-10:18 **Volatile composition of the planet-hosting disk HD 169142** — Luke Keyte (UCL)
     - 10:18-10:30 **The detectability of amorphous and crystalline water ice in debris discs: insights from scattered light observations** — Minjae Kim (University of Warwick)
 - 10:30-11:00   **Coffee break**
-- 11:00-12:00   <u><b><i>Disc Composition & Chemistry 2</i></b></u> - Chair: Daniela Iglesias
+- 11:00-12:00   <u><b><i>Disc Composition & Chemistry 2</i></b></u> - Chair: Álvaro Ribas
     - 11:00-11:12 **Chemcomp: Calculating disc and planetary compositions** — Bertram Bitsch (University College Cork) — online
     - 11:12-11:24 **A general framework for the chemical characterization of circumstellar gaseous discs around white dwarfs with Cloudy** — Felipe Lagos-Vilches (University of Warwick)
     - 11:24-11:36 **Constraining the rotational temperature of methanol in the planet-forming disc HD 100546** — Lucy Evans (University of Leeds)
