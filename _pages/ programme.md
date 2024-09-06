@@ -125,7 +125,7 @@ The poster session will be held on Monday 9th September from 16:50 - 18:00.
 1. **[A Closer Look at the Erosion Barrier in Protoplanetary Discs](../Posters/poster_agolzer.pdf)** - Marco Agolzer
 2. **Free-floating planets ejected from massive self-gravitating discs** - Aleksandra Ćalović
 3. **Following the long-term evolution of dusty fragments formed via gravitational instability** - Maggie Celeste
-4. **[Hydrodynamical Simulations of Planet-Disk Interactions in PDS 70: Characterizing Gap, Spiral, and Vortex in the Disk]('../Posters/poster_daza.pdf)** - Daniel Daza Valdebenito
+4. **[Hydrodynamical Simulations of Planet-Disk Interactions in PDS 70: Characterizing Gap, Spiral, and Vortex in the Disk]('../Posters/poster_daza.pdf')** - Daniel Daza Valdebenito
 5. **Exploration and Characterisation of Eruptive Variables in Nearby Star-Forming Regions** - Hariharan D S Muthu
 6. **[Exocometary Activity around beta Pic and Nearby Young Stars](../Posters/poster_elston.pdf)** - Michael Elston
 7. **Dust Polarization Up Close and Personal in a Planet-Forming Disk** - Rachel Harrison
