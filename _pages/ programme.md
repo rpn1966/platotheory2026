@@ -55,23 +55,23 @@ A PDF version of the general programme is available [here](../assets/images/Prog
     - 11:48-12:00 **Determining the H2/CO Ratios of Gas Rich Exocometary Belts: Primordial or Secondary Origins?** — Kevin Smith (Trinity College Dublin)
 - 12:00-13:30   **Lunch**
 - 13:30-14:30   **EDI talk** — Ryan Arthur
-- 14:30-15:30   <u><b><i>Star-disc connection + Disc Properties 1</i></b></u>
+- 14:30-15:30   <u><b><i>Star-disc connection</i></b></u>
     
     **Star-disc Connection**
     - 14:30-14:42 **The rise and fall of the giant planet occurrence rate** — Heather Johnston (University of Leeds) — online
     - 14:42-14:54 **What Time Can Tell Us About Space: Mapping Accretion in Intermediate-Mass YSO** — Ruhee Kahar (University of Dundee)
     - 14:54-15:06 **Discs around neutron stars** — Bettina Posselt (University of Oxford)
-    
-    **Disc Properties 1**
-    - 15:06-15:18 **Study of the degree of dust settling and turbulence in highly-inclined protoplanetary discs** — Juanita Antilen (UCL)
-    - 15:18-15:30 **Investigating YSO Dippers with XShooter** — Aaron Empey (University College Dublin)
-- 15:30-16:00   **Coffee break**
-- 16:00-16:50   <u><b><i>Disc Properties 2</i></b></u>
+  
+- 15:06-15:35   **Coffee break**
+
+- 15:35-16:50   <u><b><i>Disc Properties</i></b></u>
+    - 15:35-15:47 **Study of the degree of dust settling and turbulence in highly-inclined protoplanetary discs** — Juanita Antilen (UCL)
+    - 15:47-15:59 **Investigating YSO Dippers with XShooter** — Aaron Empey (University College Dublin)
     - 16:00-16:12 **Results from the Planet-Earth Building-Blocks Legacy e-MERLIN  Survey (PEBBLeS) - how do the rocks start forming in discs?** — Jane Greaves (Cardiff University)
     - 16:12-16:24 **Exploring the Gas-Dust-Planetesimals Interplay in WD Debris Discs with SPH** — Rafael Martinez-Brunner (University of Warwick)
     - 16:24-16:36 **A multi-wavelength study of the VLA 1623 protostellar system using JWST, ALMA and JVLA** — Isaac Radley (University of Leeds)
     - 16:36-16:48 **Time-resolved spectroscopy and multi-band photometry of a white dwarf with a transiting debris disc** — Akshay Robert (University College London)
-- 16:50-17:00   **Comfort break**
+- 16:50-17:00   **Conference Photo**
 - 17:00-18:00   **Discussion Session** — Tim Pearce (University of Warwick) & Andrew Swan (University of Warwick)
 
 ---
