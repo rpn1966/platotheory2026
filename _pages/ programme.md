@@ -122,29 +122,30 @@ A PDF version of the general programme is available [here](../assets/images/Prog
 
 The poster session will be held on Monday 9th September from 16:50 - 18:00.
 
-1. **A Closer Look at the Erosion Barrier in Protoplanetary Discs** - Marco Agolzer
+1. **[A Closer Look at the Erosion Barrier in Protoplanetary Discs](../Posters/poster_agolzer.pdf)** - Marco Agolzer
 2. **Free-floating planets ejected from massive self-gravitating discs** - Aleksandra Ćalović
 3. **Following the long-term evolution of dusty fragments formed via gravitational instability** - Maggie Celeste
-4. **Hydrodynamical Simulations of Planet-Disk Interactions in PDS 70: Characterizing Gap, Spiral, and Vortex in the Disk** - Daniel Daza Valdebenito
+4. **[Hydrodynamical Simulations of Planet-Disk Interactions in PDS 70: Characterizing Gap, Spiral, and Vortex in the Disk]('../Posters/poster_daza.pdf)** - Daniel Daza Valdebenito
 5. **Exploration and Characterisation of Eruptive Variables in Nearby Star-Forming Regions** - Hariharan D S Muthu
-6. **Exocometary Activity around beta Pic and Nearby Young Stars** - Michael Elston
+6. **[Exocometary Activity around beta Pic and Nearby Young Stars](../Posters/poster_elston.pdf)** - Michael Elston
 7. **Dust Polarization Up Close and Personal in a Planet-Forming Disk** - Rachel Harrison
-8. **A trail of dust from a young embedded brown dwarf in the outskirts of the Orion Nebular Cluster** - Thomas Haworth
+8. 
 9. **North PHASE observation of the young cluster Tr37** - Ferdinand Hollauf
-10. **Understanding CO Depletion in Wind-Driven Protoplanetary Discs** - Zuzanna Jonczyk
+10. **[Understanding CO Depletion in Wind-Driven Protoplanetary Discs](../Posters/poster_jonczyk.pdf)** - Zuzanna Jonczyk
 11. **Debris disc catalogue - I. Herschel PACS photometry** - Minjae Kim
-12. **Simulations of Gravitational Instability in Irradiated Protoplanetary Discs** - Cat Leedham
-13. **First ALMA observations of the HD 105211 debris disc: A warm dust component close to a gigayear-old star** - Qiong Liu
+12. **[Simulations of Gravitational Instability in Irradiated Protoplanetary Discs](../Posters/poster_Leedham.pdf)** - Cat Leedham
+13. **[First ALMA observations of the HD 105211 debris disc: A warm dust component close to a gigayear-old star](../Posters/poster_liu.pdf)** - Qiong Liu
 14. **Modelling the Dust substructures in the AGE-PRO sample** - Lilian Luo
-15. **Testing the shock bow model with the variations in exocometary absorptions of high ionized species as Al III observed by HST around Beta Pic** - Cristina Madurga Favieres
+15. **[Testing the shock bow model with the variations in exocometary absorptions of high ionized species as Al III observed by HST around Beta Pic](../Posters/poster_madurgafavieres.pdf)** - Cristina Madurga Favieres
 16. **Sandwiched planet formation: restricting the mass of a middle planet** - Farzana Meru
-17. **The Effect of Eccentricity on the Accretion Rate onto Newly Formed Planets in Protoplanetary Discs** - Aaron Mills
-18. **Adaptive particle refinement for compressible smoothed particle hydrodynamics** - Rebecca Nealon
-19. **A Search for Transiting Exocomets in TESS Sectors 1-26** - Azib Norazman
-20. **Dust Entrainment in 1D Externally Photo-Evaporated Models** - Sébastien Paine
-21. **Understanding the shapes of circumbinary discs** - Anna Penzlin
-22. **Dust Dynamics in Protoplanetary Discs after Stellar Flybys** - Vasu Prasad
+17. **[The Effect of Eccentricity on the Accretion Rate onto Newly Formed Planets in Protoplanetary Discs](../Posters/poster_mills.pdf)** - Aaron Mills
+18. **[Adaptive particle refinement for compressible smoothed particle hydrodynamics](../Posters/poster_Nealon.pdf)** - Rebecca Nealon
+19. **[A Search for Transiting Exocomets in TESS Sectors 1-26](../Posters/poster_norazman.pdf)** - Azib Norazman
+20. **[Dust Entrainment in 1D Externally Photo-Evaporated Models](../Posters/poster_paine.pdf)** - Sébastien Paine
+21. **[Understanding the shapes of circumbinary discs](../Posters/poster_penzlin.pdf)** - Anna Penzlin
+22. **[Dust Dynamics in Protoplanetary Discs after Stellar Flybys](../Posters/poster_prasad.pdf)** - Vasu Prasad
 23. **Disc Evolution and planet formation in stellar cluster environment** - Lin Qiao
-24. **Circumplanetary Winds: A hydrodynamical study of planet formation during planetesimal accretion** - Danilo Sepúlveda
-25. **"Using time to map space" with the North-PHASE Legacy Survey** - Aurora Sicilia-Aguilar
-26. **How super‑Earths migrate in low‑turbulence radiative disks** - Alexandros Ziampras
+24. **[Circumplanetary Winds: A hydrodynamical study of planet formation during planetesimal accretion](../Posters/poster_Sepulveda.pdf)** - Danilo Sepúlveda
+25. **["Using time to map space" with the North-PHASE Legacy Survey](../Posters/poster_siciliaaguilar.pdf)** - Aurora Sicilia-Aguilar
+26. **[How super‑Earths migrate in low‑turbulence radiative disks](../Posters/poster_ziampras.pdf)** - Alexandros Ziampras
+27. **A trail of dust from a young embedded brown dwarf in the outskirts of the Orion Nebular Cluster** - Thomas Haworth
