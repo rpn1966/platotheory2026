@@ -69,8 +69,8 @@ A PDF version of the general programme is available [here](../assets/images/Prog
 - 16:00-16:50   <u><b><i>Disc Properties 2</i></b></u>
     - 16:00-16:12 **Results from the Planet-Earth Building-Blocks Legacy e-MERLIN  Survey (PEBBLeS) - how do the rocks start forming in discs?** — Jane Greaves (Cardiff University)
     - 16:12-16:24 **Exploring the Gas-Dust-Planetesimals Interplay in WD Debris Discs with SPH** — Rafael Martinez-Brunner (University of Warwick)
-    - 16:14-16:36 **A multi-wavelength study of the VLA 1623 protostellar system using JWST, ALMA and JVLA** — Isaac Radley (University of Leeds)
-    - 16:26-16:48 **Time-resolved spectroscopy and multi-band photometry of a white dwarf with a transiting debris disc** — Akshay Robert (University College London)
+    - 16:24-16:36 **A multi-wavelength study of the VLA 1623 protostellar system using JWST, ALMA and JVLA** — Isaac Radley (University of Leeds)
+    - 16:36-16:48 **Time-resolved spectroscopy and multi-band photometry of a white dwarf with a transiting debris disc** — Akshay Robert (University College London)
 - 16:50-17:00   **Comfort break**
 - 17:00-18:00   **Discussion Session** — Tim Pearce (University of Warwick) & Andrew Swan (University of Warwick)
 
