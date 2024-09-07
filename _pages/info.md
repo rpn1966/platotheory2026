@@ -46,7 +46,7 @@ We will be providing refreshments (tea, coffee, water, biscuits) throughout the 
 ### *Lunch*
 Lunch will not be provided at this meeting. There are a wide range of food outlets on campus. A list of those open during the meeting, with opening times, is available [here](https://warwick.ac.uk/services/retail/openingtimes/upcoming-times). The Zeeman Building is also close to the Cannon Park Shopping Centre, with a range of fast food lunch options there too. 
 
-Locations of food outlets are highlighted on this map for your convenience ![here](../assets/images/Map.png)
+Locations of food outlets are highlighted on this map for your convenience here: ![Map](../assets/images/Map.png)
 
 ## Accommodation {#Accommodation} 
 
