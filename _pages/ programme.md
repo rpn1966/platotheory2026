@@ -17,7 +17,7 @@ A PDF version of the general programme is available [here](../assets/images/Prog
 ---
 <h1 id="monday-9th" style="text-align: center;">Monday 9th</h1>
 ---
-- 10:00-12:30 <u><b><i>Introduction and Review Talks</i></b></u> - Chair: Anna Penzlin
+- 10:45-12:30 <u><b><i>Introduction and Review Talks</i></b></u> - Chair: Anna Penzlin
   - 10:45-11:00  **Introduction (Welcome, Code of Conduct, Logistics)** - Farzana Meru
   - 11:00-11:30  **Review Talk: Protoplanetary Discs** - Richard Booth (Leeds)
   - 11:30-12:00  **Review Talk: Debris Discs** - Mark Booth (Edinburgh)
@@ -33,7 +33,7 @@ A PDF version of the general programme is available [here](../assets/images/Prog
 - 15:30-16:30 <u><b><i>Disc Structures 2</i></b></u> - Chair: Lucy Evans
     - 15:30-15:42 **Directly imaging massive planets sculpting the inner edges of debris discs with JWST-MIRI** — Andrew James (University of Exeter)
     - 15:42-15:54 **Multi-Wavelength Analysis of HD 32297's Edge-on Debris Disk** — Patricia Luppe (Trinity College Dublin)
-    - 15:56-16:06 **Shadows and spiral arcs in the Protoplanetary Disc HD 139614** — Katie Milsom (University of Exeter)
+    - 15:54-16:06 **Shadows and spiral arcs in the Protoplanetary Disc HD 139614** — Katie Milsom (University of Exeter)
     - 16:06-16:18 **Disc walls and fake vortices: crescent-shaped asymmetries in ALMA observations of protoplanetary discs** — Álvaro Ribas (Institute of Astronomy, University of Cambridge)
 - 16:20-16:50  **Poster Pop-ups**
 - 16:50-18:00  **Poster Session**
