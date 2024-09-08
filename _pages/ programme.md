@@ -128,7 +128,7 @@ The poster session will be held on Monday 9th September from 16:50 - 18:00.
 5. **Exploration and Characterisation of Eruptive Variables in Nearby Star-Forming Regions** - Hariharan D S Muthu
 6. **[Exocometary Activity around beta Pic and Nearby Young Stars](../Posters/poster_elston.pdf)** - Michael Elston
 7. **Dust Polarization Up Close and Personal in a Planet-Forming Disk** - Rachel Harrison
-8. **Fragmentation of protoplanetary discs formed in a collapsing gas cloud** - Adam Koval
+8. **[Fragmentation of protoplanetary discs formed in a collapsing gas cloud](../Posters/poster_koval.pdf)** - Adam Koval
 9. **[North PHASE observation of the young cluster Tr37](../Posters/poster_hollauf.pdf)** - Ferdinand Hollauf
 10. **[Understanding CO Depletion in Wind-Driven Protoplanetary Discs](../Posters/poster_jonczyk.pdf)** - Zuzanna Jonczyk
 11. **Debris disc catalogue - I. Herschel PACS photometry** - Minjae Kim
