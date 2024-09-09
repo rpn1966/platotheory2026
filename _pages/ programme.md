@@ -57,7 +57,7 @@ A PDF version of the general programme is available [here](../assets/images/Prog
     - 11:48-12:00 **Determining the H2/CO Ratios of Gas Rich Exocometary Belts: Primordial or Secondary Origins?** — Kevin Smith (Trinity College Dublin)
 - 12:00-13:30   **Lunch**
 - 13:30-14:30   **EDI talk** — Ryan Arthur
-- 14:30-15:30   <u><b><i>Star-disc connection</i></b></u> - Chair: Daniela Iglesias
+- 14:30-15:06   <u><b><i>Star-disc connection</i></b></u> - Chair: Daniela Iglesias
     - 14:30-14:42 **The rise and fall of the giant planet occurrence rate** — Heather Johnston (University of Leeds) — online
     - 14:42-14:54 **What Time Can Tell Us About Space: Mapping Accretion in Intermediate-Mass YSO** — Ruhee Kahar (University of Dundee)
     - 14:54-15:06 **Discs around neutron stars** — Bettina Posselt (University of Oxford)
