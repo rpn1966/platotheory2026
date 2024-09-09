@@ -126,13 +126,13 @@ The poster session will be held on Monday 9th September from 16:50 - 18:00.
 2. **Free-floating planets ejected from massive self-gravitating discs** - Aleksandra Ćalović
 3. **[Following the long-term evolution of dusty fragments formed via gravitational instability](../Posters/poster_celeste.pdf)** - Maggie Celeste
 4. **[Hydrodynamical Simulations of Planet-Disk Interactions in PDS 70: Characterizing Gap, Spiral, and Vortex in the Disk](../Posters/poster_daza.pdf)** - Daniel Daza Valdebenito
-5. **Exploration and Characterisation of Eruptive Variables in Nearby Star-Forming Regions** - Hariharan D S Muthu
+5. **[Exploration and Characterisation of Eruptive Variables in Nearby Star-Forming Regions](../Posters/poster_muthu.pdf)** - Hariharan D S Muthu
 6. **[Exocometary Activity around beta Pic and Nearby Young Stars](../Posters/poster_elston.pdf)** - Michael Elston
 7. **[Dust Polarization Up Close and Personal in a Planet-Forming Disk](../Posters/poster_harrison.pdf)** - Rachel Harrison
 8. **[Fragmentation of protoplanetary discs formed in a collapsing gas cloud](../Posters/poster_koval.pdf)** - Adam Koval
 9. **[North PHASE observation of the young cluster Tr37](../Posters/poster_hollauf.pdf)** - Ferdinand Hollauf
 10. **[Understanding CO Depletion in Wind-Driven Protoplanetary Discs](../Posters/poster_jonczyk.pdf)** - Zuzanna Jonczyk
-11. **Debris disc catalogue - I. Herschel PACS photometry** - Minjae Kim
+11. **Announcements board**
 12. **[Simulations of Gravitational Instability in Irradiated Protoplanetary Discs](../Posters/poster_Leedham.pdf)** - Cat Leedham
 13. **[First ALMA observations of the HD 105211 debris disc: A warm dust component close to a gigayear-old star](../Posters/poster_liu.pdf)** - Qiong Liu
 14. **[Modelling the Dust substructures in the AGE-PRO sample](../Posters/poster_luo.pdf)** - Lilian Luo
@@ -148,4 +148,3 @@ The poster session will be held on Monday 9th September from 16:50 - 18:00.
 24. **[Circumplanetary Winds: A hydrodynamical study of planet formation during planetesimal accretion](../Posters/poster_Sepulveda.pdf)** - Danilo Sepúlveda
 25. **["Using time to map space" with the North-PHASE Legacy Survey](../Posters/poster_siciliaaguilar.pdf)** - Aurora Sicilia-Aguilar
 26. **[How super‑Earths migrate in low‑turbulence radiative disks](../Posters/poster_ziampras.pdf)** - Alexandros Ziampras
-27. **A trail of dust from a young embedded brown dwarf in the outskirts of the Orion Nebular Cluster** - Thomas Haworth
