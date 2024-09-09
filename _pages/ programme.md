@@ -144,7 +144,7 @@ The poster session will be held on Monday 9th September from 16:50 - 18:00.
 20. **[Dust Entrainment in 1D Externally Photo-Evaporated Models](../Posters/poster_paine.pdf)** - Sébastien Paine
 21. **[Understanding the shapes of circumbinary discs](../Posters/poster_penzlin.pdf)** - Anna Penzlin
 22. **[Dust Dynamics in Protoplanetary Discs after Stellar Flybys](../Posters/poster_prasad.pdf)** - Vasu Prasad
-23. **Disc Evolution and planet formation in stellar cluster environment** - Lin Qiao
+23. **[Disc Evolution and planet formation in stellar cluster environment](../Posters/poster_qiao.pdf)** - Lin Qiao
 24. **[Circumplanetary Winds: A hydrodynamical study of planet formation during planetesimal accretion](../Posters/poster_Sepulveda.pdf)** - Danilo Sepúlveda
 25. **["Using time to map space" with the North-PHASE Legacy Survey](../Posters/poster_siciliaaguilar.pdf)** - Aurora Sicilia-Aguilar
 26. **[How super‑Earths migrate in low‑turbulence radiative disks](../Posters/poster_ziampras.pdf)** - Alexandros Ziampras
