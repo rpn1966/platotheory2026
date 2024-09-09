@@ -36,7 +36,8 @@ A PDF version of the general programme is available [here](../assets/images/Prog
     - 15:54-16:06 **Shadows and spiral arcs in the Protoplanetary Disc HD 139614** — Katie Milsom (University of Exeter)
     - 16:06-16:18 **Disc walls and fake vortices: crescent-shaped asymmetries in ALMA observations of protoplanetary discs** — Álvaro Ribas (Institute of Astronomy, University of Cambridge)
 - 16:20-16:50  **Poster Pop-ups**
-- 16:50-18:00  **Poster Session**
+- 16:50-17:00 **Conference Photo**
+- 17:00-18:00  **Poster Session**
 
 ---
 <h1 id="tuesday-10th" style="text-align: center;">Tuesday 10th</h1>
@@ -70,7 +71,7 @@ A PDF version of the general programme is available [here](../assets/images/Prog
     - 16:12-16:24 **Exploring the Gas-Dust-Planetesimals Interplay in WD Debris Discs with SPH** — Rafael Martinez-Brunner (University of Warwick)
     - 16:24-16:36 **A multi-wavelength study of the VLA 1623 protostellar system using JWST, ALMA and JVLA** — Isaac Radley (University of Leeds)
     - 16:36-16:48 **Time-resolved spectroscopy and multi-band photometry of a white dwarf with a transiting debris disc** — Akshay Robert (University College London)
-- 16:50-17:00   **Conference Photo**
+- 16:50-17:00   **Comfort Break**
 - 17:00-18:00   **Discussion Session** — Tim Pearce (University of Warwick) & Andrew Swan (University of Warwick)
 
 ---
