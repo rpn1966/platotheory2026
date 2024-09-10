@@ -71,7 +71,7 @@ A PDF version of the general programme is available [here](../assets/images/Prog
     - 16:12-16:24 **Exploring the Gas-Dust-Planetesimals Interplay in WD Debris Discs with SPH** — Rafael Martinez-Brunner (University of Warwick)
     - 16:24-16:36 **A multi-wavelength study of the VLA 1623 protostellar system using JWST, ALMA and JVLA** — Isaac Radley (University of Leeds)
 - 16:36-16:50   **Comfort Break**
-- 16:50-17:50   **Discussion Session** — Tim Pearce (University of Warwick), Rebecca Nealon (University of Warwick), Laura Rogers (Cambridge)
+- 16:50-17:50   **Discussion Session** — Tim Pearce (University of Warwick), Rebecca Nealon (University of Warwick), Laura Rogers (University of Cambridge, Institute of Astronomy)
 
 ---
 <h1 id="wednesday-11th" style="text-align: center;">Wednesday 11th</h1>
