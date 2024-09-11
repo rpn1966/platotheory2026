@@ -10,12 +10,9 @@ The UKI discs meeting aims to bring together different astrophysical disc commun
 
 For any queries, please email [discs2024@warwick.ac.uk](mailto:discs2024@warwick.ac.uk).
 
-## Important Dates
-- Registration opens: 28th March
-- Abstract submission for talks closes: 12th May (abstract submission for posters remains open)
-- Outcome of abstract submissions: mid-late June
-- Registration closes: 18th August
-- Meeting: 9th September - 11th September
+## Conference Photo!
+![Link here](../assets/images/ConferencePhoto.png)
+
 
 ## SOC
 - Farzana Meru (chair - Warwick)
@@ -41,13 +38,13 @@ For any queries, please email [discs2024@warwick.ac.uk](mailto:discs2024@warwick
 - Andrew Swan
 - Dimitri Veras
 
-## Conference Photo!
-![Link here](../assets/images/ConferencePhoto.png)
+## Important Dates
+- Registration opens: 28th March
+- Abstract submission for talks closes: 12th May (abstract submission for posters remains open)
+- Outcome of abstract submissions: mid-late June
+- Registration closes: 18th August
+- Meeting: 9th September - 11th September
 
-
-
-
----
 ## Code of Conduct 
 
 (Adapted from RAS and UKEXOM2023)
