@@ -41,6 +41,13 @@ For any queries, please email [discs2024@warwick.ac.uk](mailto:discs2024@warwick
 - Andrew Swan
 - Dimitri Veras
 
+## Conference Photo!
+![Link here](../assets/images/ConferencePhoto.png)
+
+
+
+
+---
 ## Code of Conduct 
 
 (Adapted from RAS and UKEXOM2023)
