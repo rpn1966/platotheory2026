@@ -87,7 +87,7 @@ A PDF version of the general programme is available [here](../assets/images/Prog
    - 09:54-10:06 **The properties of embedded disc-instability protoplanets** — Ethan Carter (University of Central Lancashire)
    - 10:06-10:18 **A flared model of gaseous white dwarf accretion discs** — Yixuan Chen (Imperial College London)
    - 10:18-10:30 **Characterizing Infall-Driven Gravitational Instability in Protostellar Discs** — Cristiano Longarini (University of Cambridge, Institute of Astronomy)
-   - 10:30-10:42 **Exocomet Hunting with Convolutional Neural Networks** — Azib Norazman (University of Warwick)
+   - 10:30-10:42 **[Exocomet Hunting with Convolutional Neural Networks](../Files/Azib.pdf)** — Azib Norazman (University of Warwick)
    - 10:42-10:54 **Realistic modelling of radiative cooling for gravitationally unstable discs** — Alison Young (University of Edinburgh)
 - 10:55-11:25   **Coffee break**
 - 11:25-12:50   <u><b><i>New and Improved Models/Methods 2 + Disc Processes 1</i></b></u> - Chair: Alexandros Ziampras
