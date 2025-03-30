@@ -2,7 +2,7 @@
 permalink: /info/
 title: "Info"
 header: 
-  image: "/assets/images/warwick-fountain.jpg"
+  image: "/assets/images/HD98800_Mark_Garlick.png"
 ---
 
 - [Getting Here](#GettingHere)
