@@ -10,10 +10,6 @@ The UKI discs meeting aims to bring together different astrophysical disc commun
 
 For any queries, please email [Uki-discs@outlook.com](mailto:Uki-discs@outlook.com).
 
-## Conference Photo!
-![Link here](../assets/images/ConferencePhoto.png)
-
-
 ## SOC
 - Phil Lucas (chair - Hertfordshire)
 - Farzana Meru (Warwick)
