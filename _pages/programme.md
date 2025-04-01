@@ -20,20 +20,19 @@ A PDF version of the general programme is available [here](../assets/images/Prog
 
 - TBR
 
----
+
 <h1 id="tuesday-9th" style="text-align: center;">Tuesday 9th</h1>
 
 
 - TBR
 
----
+
 <h1 id="wednesday-10th" style="text-align: center;">Wednesday 10th</h1>
 
 
 - TBR
 
----
 <h1 id="posters" style="text-align: center;">Posters</h1>
 
 
-The poster session will be held on Monday 8th September from 16:50 - 18:00.
+- TBR
