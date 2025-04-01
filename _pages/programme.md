@@ -7,7 +7,7 @@ header:
 layout: splash
 ---
 
-A PDF version of the general programme is available [here](../assets/images/Programme.pdf). The talk abstracts are [here](../assets/images/Talks.pdf), and the poster abstracts are [here](../assets/images/Posters.pdf). Posters can now be viewed by following the links from the poster titles below.
+A PDF version of the general programme will be available [here](../assets/images/Programme2025.pdf). The talk abstracts will be are [here](../assets/images/Talks2025.pdf), and the poster abstracts will be [here](../assets/images/Posters2025.pdf). Posters can now will be viewable by following the links from the poster titles below.
 
 - [Monday 8th](#monday-8th)
 - [Tuesday 9th](#tuesday-9th)
