@@ -9,10 +9,9 @@ header:
 - [Getting Here](#GettingHere)
 - [Food](#Food)
 - [Accommodation](#Accommodation)
-- [Childcare Support](#ChildcareSupport)
-- [Financial Support](#FinancialSupport)
 
-The UKI Discs Meeting will be held in the [Zeeman Building](https://campus.warwick.ac.uk//search/623c8859421e6f5928c0c794) at the University of Warwick. Searching "Zeeman Building, Coventry" on Google Maps will get you to the correct location. The university is located on the outskirts of Coventry, about 3 miles to the city centre. The town of Kenilworth is slightly closer (2 miles), but the small county town of Warwick is actually much further away (7 miles).
+The UKI Discs Meeting will take place in [Room N001 of the de Havilland Main Building](https://maps.herts.ac.uk) on the University of Hertfordshire’s de Havilland Campus in Hatfield, Hertfordshire. The university comprises two campuses—College Lane and de Havilland—which are within walking distance of each other and the nearby Galleria shopping centre. A bus also connects the campuses for added convenience.
+
 
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
