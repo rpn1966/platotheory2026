@@ -16,19 +16,19 @@ A PDF version of the general programme is available [here](../assets/images/Prog
 
 ---
 <h1 id="monday-8th" style="text-align: center;">Monday 8th</h1>
----
+
 
 - TBR
 
 ---
 <h1 id="tuesday-9th" style="text-align: center;">Tuesday 9th</h1>
----
+
 
 - TBR
 
 ---
 <h1 id="wednesday-10th" style="text-align: center;">Wednesday 10th</h1>
----
+
 
 - TBR
 
