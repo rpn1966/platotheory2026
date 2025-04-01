@@ -2,8 +2,8 @@
 permalink: /info/
 title: "Info"
 header: 
-  image: "/assets/images/HD98800_Mark_Garlick.png"
-  caption: "Credit: © Mark Garlick."
+  image: "/assets/images/Bayfordbury.jpg"
+  caption: "Credit: Calum Morris."
 ---
 
 - [Getting Here](#GettingHere)
