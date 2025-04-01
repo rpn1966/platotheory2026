@@ -50,22 +50,19 @@ Parking and payment
 
 Hatfield is relatively easy to reach from several London airports via public transport:
 
-- From **Heathrow Airport**, the **Arriva 724 bus** provides a direct service to **The Galleria bus stop** in Hatfield, located just across the road from the **de Havilland Campus**.
-- From **Luton Airport**, take the **Luton DART shuttle** to **Luton Airport Parkway Station**, then a short train ride to **St Albans City Station**. From there, **UNO bus 653** offers a direct connection to **The Galleria**.
-- **National Express** operates a coach service from **Stansted Airport** that stops directly at **The Galleria** in Hatfield.
+- From Heathrow Airport, the Arriva 724 bus provides a direct service to The Galleria bus stop in Hatfield, located just across the road from the de Havilland Campus.
+- From Luton Airport, take the DART to Luton Airport Parkway Station, then a short train ride to St Albans City Station. From there, there are multiple direct buses to The Gallaria in Hatfield.
+- National Express operates a coach service from Stansted Airport that stops directly at The Galleria in Hatfield.
 
 These routes offer convenient and cost-effective options for reaching the University of Hertfordshire from London’s major airports.
 
 ## Food {#Food}
 
 ### *Lunch*
-Lunch will not be provided at this meeting. There are a wide range of food outlets on campus. A list of those open during the meeting, with opening times, is available [here](https://warwick.ac.uk/services/retail/openingtimes/upcoming-times). The Zeeman Building is also close to the Cannon Park Shopping Centre, with a range of fast food lunch options there too. 
-
-Locations of food outlets are highlighted on this map for your convenience here: ![Map](../assets/images/Map.png)
+Lunch is included with the meeting registration.
 
 ### *Refreshments*
 We will be providing refreshments (tea, coffee, water, biscuits) throughout the meeting. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
-
 
 ## Local Interest {#Local}
 
