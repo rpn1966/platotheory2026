@@ -34,6 +34,6 @@ A PDF version of the general programme is available [here](../assets/images/Prog
 
 ---
 <h1 id="posters" style="text-align: center;">Posters</h1>
----
+
 
 The poster session will be held on Monday 8th September from 16:50 - 18:00.
