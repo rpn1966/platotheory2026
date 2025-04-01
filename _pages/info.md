@@ -6,11 +6,28 @@ header:
   caption: "Credit: Calum Morris."
 ---
 
+- [Accommodation](#Accommodation)
 - [Getting Here](#GettingHere)
 - [Food](#Food)
-- [Accommodation](#Accommodation)
+- [Local Interest](#Local)
 
 The UKI Discs Meeting will take place in [Room N001 of the de Havilland Main Building](https://maps.herts.ac.uk) on the University of Hertfordshire’s de Havilland Campus in Hatfield, Hertfordshire. The university comprises two campuses—College Lane and de Havilland—which are within walking distance of each other and the nearby Galleria shopping centre. A bus also connects the campuses for added convenience.
+
+## Accommodation {#Accommodation} 
+
+Student rooms are available on the de Havilland Campus at the University of Hertfordshire. These are a convenient and affordable option:
+- **£75 + VAT** per night (room only)  
+- **£90 + VAT** per night (room with breakfast)
+
+Each room includes a wardrobe, desk, and a small ensuite bathroom, with access to a shared kitchen located on each corridor. Photos below show typical rooms and facilities, courtesy of UH Venues.
+
+There are relatively few budget hotel options in Hatfield this year. The nearby Travelodge is charging slightly more than the student rooms. Other local hotels include the Premier Inn (fairly good value but not within easy walking distance) and the Comet Hotel, a luxury option very close to the venue.
+
+<p align="center">
+  <img src="../assets/images/UH_accomodation1.jpg" alt="Accommodation 1" width="200"/>
+  <img src="../assets/images/UH_accomodation2.jpg" alt="Accommodation 2" width="200"/>
+  <img src="../assets/images/UH_accomodation3.jpg" alt="Accommodation 3" width="200"/>
+</p>
 
 
 ## Getting Here {#GettingHere}
@@ -37,23 +54,16 @@ Parking and payment
 
 ## Food {#Food}
 
-### *Refreshments*
-We will be providing refreshments (tea, coffee, water, biscuits) throughout the meeting. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
-
 ### *Lunch*
 Lunch will not be provided at this meeting. There are a wide range of food outlets on campus. A list of those open during the meeting, with opening times, is available [here](https://warwick.ac.uk/services/retail/openingtimes/upcoming-times). The Zeeman Building is also close to the Cannon Park Shopping Centre, with a range of fast food lunch options there too. 
 
 Locations of food outlets are highlighted on this map for your convenience here: ![Map](../assets/images/Map.png)
 
-## Accommodation {#Accommodation} 
+### *Refreshments*
+We will be providing refreshments (tea, coffee, water, biscuits) throughout the meeting. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
 
-There are multiple options for accommodation on or near campus. A comprehensive list can be found [here](https://warwick.ac.uk/services/accommodation/staff/offcampus/relocationservice/shorttermaccommodation/) (in the Short term Accommodation (inc. Hotels and B&Bs header)). For places on campus, select the Warwick Conferences B&B option.
 
-Other options not listed include [Premier Inn](https://www.premierinn.com/gb/en/hotels/england/west-midlands/coventry.html), with multiple branches in both Coventry and Leamington Spa.
+## Local Interest {#Local}
 
-## Childcare Support {#ChildcareSupport}
+### TBR
 
-We are working on offering childcare support for those who need it. We understand that there are a wide range of needs, therefore please do indicate on the registration form if you would like childcare and we can get in touch to discuss what you require and the options available.
-
-## Financial Support {#FinancialSupport}
-As we have organised this meeting to be free to attend, we do not plan to provide any financial support at this stage. However, if you are facing any exceptional circumstances, do get in touch.
