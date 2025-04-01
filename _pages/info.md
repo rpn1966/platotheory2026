@@ -3,6 +3,7 @@ permalink: /info/
 title: "Info"
 header: 
   image: "/assets/images/HD98800_Mark_Garlick.png"
+  caption: "Credit: © Mark Garlick."
 ---
 
 - [Getting Here](#GettingHere)
