@@ -29,10 +29,10 @@ For any queries, please email [Uki-discs@outlook.com](mailto:Uki-discs@outlook.c
 - TBR
 
 ## Important Dates
-- Registration opens: 1 April
-- Abstract submission for talks closes: 12th May (abstract submission for posters remains open)
+- Registration opens: 4 April
+- Abstract submission for talks closes: 15th May (abstract submission for posters remains open)
 - Outcome of abstract submissions: mid-late June
-- Registration closes: 18th August
+- Registration closes: 31 July
 - Meeting: 8th September - 10th September
 
 ## Code of Conduct 
