@@ -26,13 +26,15 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 - Jan Forbrich
 - Michael Kuhn
 - Hugh Jones
-- TBR
+- Gabriella Zsidi
+- Hariharan Muthu
+- Simran Singh
 
 ## Important Dates
-- Registration opens: 4 April
+- Registration and abstract submission opens: 4 April
 - Abstract submission for talks closes: 15th May (abstract submission for posters remains open)
 - Outcome of abstract submissions: mid-late June
-- Registration closes: 31 July
+- Payment deadline: 31 July
 - Meeting: 8th September - 10th September
 
 ## Code of Conduct 
