@@ -6,8 +6,20 @@ header:
   caption: "Credit: © Mark Garlick."
 ---
 
-Registration for this meeting is £110 for staff and £95 for students.
+**Registration opens on 4 April and closes on 31 July.**  
+Abstract submission for talks closes on **15 May**, but poster submissions remain open until the registration deadline.
 
-The meeting includes 3 days of traditional conference-style talks and discussion sessions. The SOC will select talks with the aim of ensuring that a range of topics are presented, that priority is given to early-career researchers, and that those from under-represented groups in astronomy have an opportunity to present their work. We will host the meeting in hybrid format to make it accessible to those who would otherwise be unable to attend in person. Most talks will be in person, but we will consider requests to present a limited number of talks remotely. We aim to ensure that everyone who submits an abstract will be able to present their work, either as a talk or as a poster.
+Registration fees are **£110 for staff** and **£95 for students**.
 
+---
 
+The meeting spans **three days** of traditional conference-style talks and discussion sessions. The Scientific Organising Committee (SOC) will select talks to reflect a broad range of topics, with priority given to **early-career researchers**.
+
+This is a **hybrid event**, aimed at increasing accessibility for those unable to attend in person. While most talks will be presented on-site, a limited number of **remote presentations** will be considered upon request.
+
+We aim to ensure that everyone who submits an abstract has the opportunity to present—either as a **talk** or a **poster**.
+
+---
+
+**[Registration link to be posted here]**  
+**[Payment link to be posted here]**
