@@ -66,5 +66,15 @@ We will be providing refreshments (tea, coffee, water, biscuits) throughout the 
 
 ## Local Interest {#Local}
 
-### TBR
+- Hatfield is just 7 miles from St Albans, a historic market town with strong Roman and mediaeval roots. Highlights include St Albans Abbey and the Roman ruins of Verulamium. We plan to arrange transport to St Albans for conference groups to enjoy dinner together. 
+- Another Hatfield attraction is the Hatfield House, built by the Cecil family beside the remains of the original Tudor palace, where Mary I and Elizabeth I spent much of their childhood. The house is surrounded by formal gardens and a large park. 
+
+
+
+
+
+
+
+
+ 
 
