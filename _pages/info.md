@@ -16,27 +16,24 @@ The UKI Discs Meeting will be held in the [Zeeman Building](https://campus.warwi
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
 
-The rail option with the most public transport options to get you to the university campus is to arrive at Coventry station (not Warwick station). Coventry station is served by 4 train companies (Avanti West Coast, CrossCountry, West Midlands, and London Northwestern), and is located on the West Coast Main Line (among others), linking London, Birmingham, Manchester, Liverpool, Lancaster, Edinburgh and Glasgow. Coventry station also connects to the Cross Country Route (linking Aberdeen, Newcastle, York, Leeds, Sheffield, Derby, Bristol, Exeter and Penzance) through an easy transfer at Birmingham New Street station.
+Hatfield Station is located just 1.5 miles from the University of Hertfordshire’s de Havilland and College Lane campuses. The station sits on the Great Northern Line, with regular direct services from London Kings Cross, making it easily accessible from central London and surrounding areas.
 
-To get to campus, Coventry train station provides good bus (£2-£4, 15-30 min) and taxi/Uber (£10-15, 10-20 min) options. The buses to campus from Coventry Train Station are the [11](https://nxbus.co.uk/coventry/services-timetables/11-coventry-leamington-spa) and the [12X](https://nxbus.co.uk/coventry/services-timetables/12x-coventry-university-of-warwick), with the latter being the quicker option as it is a more direct route to the Warwick University Interchange. The [87](https://www.stagecoachbus.com/routes/midlands/87/solihull-coventry/xldo087.i) bus also passes around the campus, but does not stop at the main campus' University Interchange. Live bus schedules are linked with the respective route.
+From Hatfield Station, you can reach the campuses by UNO bus (£3 10–15 minutes) or by taxi/Uber (approximately £8–£12, 5–10 minutes). The main bus routes serving the university are the 614 and 644, which depart from Stop 3 just outside the station and stop directly at both campuses. Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit the UNO Bus website.
 
-Alternatively, Canley station is another option to get to campus. It is a 25-minute walk or a 10 minute cycle to campus. There are no bus options from Canley station. 
 
 ### *Arriving by (long-distance) coach*
 
-Coventry is served by both National Express and Megabus. The Coventry drop-off point for both companies is Coventry's main bus and coach hub, Pool Meadow Bus Station, in the city centre. The buses that run to campus from Coventry originate from Pool Meadow Bus Station and, on the way, also stop at Coventry railway station.
+You can travel to the University of Hertfordshire from other parts of the UK by long-distance coach via National Express, which operates services that stop at The Galleria in Hatfield—just a short walk or local bus ride from the university’s College Lane and de Havilland campuses.
 
 ### *Arriving by car*
 
-The postcode for the Central Campus is CV4 7AL. On approaches to Coventry, follow the signs to Warwick Arts Centre or the University of Warwick. Car Parks on campus are all controlled by ANPR. Check the [online interactive map](https://campus.warwick.ac.uk/) to find the locations of various car parks. For more information on payment, check this link [here](https://warwick.ac.uk/services/carparks/general_parking/).
+The de Havilland Campus of the University of Hertfordshire is easily accessible by car and well connected to major road networks. It is located in Hatfield, Hertfordshire, just a few minutes from Junction 3 of the A1(M), making it convenient for drivers coming from London, the Midlands, or the North. The A414 and A1001 also provide good local access from nearby towns such as St Albans and Welwyn Garden City. 
+
+Parking and payment
 
 ### *Arriving by plane*
 
-The closest major airport to the University of Warwick is Birmingham International Airport (BHX). For those using public transportation from Birmingham Airport, take the shuttle train service between the Airport and Birmingham International Railway Station, take a train to Coventry station (Avanti West Coast or West Midlands Trains), and then the bus options above to the University. The total travel time would be around 30-45 minutes and the total cost should be less than £10. Taxis from the airport should be around 20-30 minutes and fares are dependent on the time of day (~£30-£50).
- 
-If you are flying to London, take the train to London Euston, where you can then take either the Avanti West Coast or West Midlands Trains options to Coventry station. If you are flying to Heathrow/Luton in particular, there is also a direct National Express coach option to Coventry Pool Meadow Bus Station. Upon arriving into Coventry, follow the instructions to the University as above. The journey time from the London airports to the University would be between 1.5-3 hours, depending on the airport.
-
-Alternative airport options include East Midlands, Manchester and Bristol airports. The distance to the University from each of these airports are roughly 3 hours, and we’d recommend following the train/bus combinations from Google Maps.
+...
 
 ## Food {#Food}
 
