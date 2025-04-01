@@ -6,7 +6,7 @@ header:
   caption: "Credit: © Mark Garlick."
 ---
 
-**Registration opens on 4 April and closes on 31 July.**  
+**Registration opens on 4 April.**  
 Abstract submission for talks closes on **15 May**, but poster submissions remain open until the registration deadline.
 
 Registration fees are **£110 for staff** and **£95 for students**.
