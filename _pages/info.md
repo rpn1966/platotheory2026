@@ -29,28 +29,32 @@ There are relatively few budget hotel options in Hatfield this year. The nearby 
   <img src="../assets/images/UH_accomodation3.jpg" alt="Accommodation 3" width="200"/>
 </p>
 
-
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
 
 Hatfield Station is located just 1.5 miles from the University of Hertfordshire’s de Havilland and College Lane campuses. The station sits on the Great Northern Line, with regular direct services from London Kings Cross, making it easily accessible from central London and surrounding areas.
 
-From Hatfield Station, you can reach the campuses by UNO bus (£3 10–15 minutes) or by taxi/Uber (approximately £8–£12, 5–10 minutes). The main bus routes serving the university are the 614 and 644, which depart from Stop 3 just outside the station and stop directly at both campuses. Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit the UNO Bus website.
-
+From Hatfield Station, you can reach the campuses by UNO bus (£3, 10–15 minutes) or by taxi/Uber (approximately £8–£12, 5–10 minutes). The main bus routes serving the university are the 614 and 644, which depart from Stop 3 just outside the station and stop directly at both campuses. Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit the UNO Bus website.
 
 ### *Arriving by (long-distance) coach*
 
-You can travel to the University of Hertfordshire from other parts of the UK by long-distance coach via National Express, which operates services that stop at The Galleria in Hatfield—just a short walk or local bus ride from the university’s College Lane and de Havilland campuses.
+You can travel to the University of Hertfordshire from other parts of the UK by long-distance coach via National Express, which operates services that stop at The Galleria in Hatfield—a short walk from the university’s College Lane and de Havilland campuses.
 
 ### *Arriving by car*
 
-The de Havilland Campus of the University of Hertfordshire is easily accessible by car and well connected to major road networks. It is located in Hatfield, Hertfordshire, just a few minutes from Junction 3 of the A1(M), making it convenient for drivers coming from London, the Midlands, or the North. The A414 and A1001 also provide good local access from nearby towns such as St Albans and Welwyn Garden City. 
+TBR
 
 Parking and payment
 
 ### *Arriving by plane*
 
-...
+Hatfield is relatively easy to reach from several London airports via public transport:
+
+- From **Heathrow Airport**, the **Arriva 724 bus** provides a direct service to **The Galleria bus stop** in Hatfield, located just across the road from the **de Havilland Campus**.
+- From **Luton Airport**, take the **Luton DART shuttle** to **Luton Airport Parkway Station**, then a short train ride to **St Albans City Station**. From there, **UNO bus 653** offers a direct connection to **The Galleria**.
+- **National Express** operates a coach service from **Stansted Airport** that stops directly at **The Galleria** in Hatfield.
+
+These routes offer convenient and cost-effective options for reaching the University of Hertfordshire from London’s major airports.
 
 ## Food {#Food}
 
