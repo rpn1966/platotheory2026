@@ -27,6 +27,7 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 - Gabriella Zsidi
 - Hariharan Muthu
 - Simran Singh
+- Jessica Copeland
 
 ## Important Dates
 - Registration and abstract submission opens: 4 April
