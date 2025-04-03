@@ -59,7 +59,7 @@ These routes offer convenient and cost-effective options for reaching the Univer
 Lunch is included with the meeting registration. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
 
 ### *Refreshments*
-We will be providing refreshments (tea, coffee, water, biscuits) throughout the meeting. 
+We will be providing refreshments (tea, coffee, fruit juice, water, biscuits) throughout the meeting. 
 
 ## Local Interest {#Local}
 - Hatfield is just 7 miles from St Albans, a historic market town with strong Roman and mediaeval roots. Highlights include St Albans Abbey and the Roman ruins of Verulamium. We plan to arrange transport to St Albans for conference groups to enjoy dinner together. 
