@@ -10,7 +10,7 @@ header:
 - Kan Chen (University College London)
 - Jessica Copeland (University of Hertfordshire)
 - Lucy Evans (University of Leeds)
-- Jay Farihi (Imperial College London)
+- Jay Farihi (University College London)
 - Jan Forbrich (University of Hertfordshire)
 - Camilo González-Ruilova (Universidad de Santiago de Chile)
 - Thomas Haworth (Queen Mary University of London)
