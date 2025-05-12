@@ -29,7 +29,7 @@ header:
 - Zoe Parker (University of Leeds)
 - Tim Pearce (University of Warwick)
 - Anna Penzlin (LMU Munich)
-- Vasundhara Prasad (Institute of Astronomy, University of Cambridge)
+- Vasundhara Prasad (University of Cambridge)
 - Pratishtha Rawat (University of Warwick)
 - Zoe Roumeliotis (Trinity College Dublin)
 - Anibal Sierra (University College London)
