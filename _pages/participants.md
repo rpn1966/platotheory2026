@@ -27,6 +27,7 @@ header:
 - Maria Koutoulaki (University of Leeds)
 - Michael Kuhn (University of Hertfordshire)
 - Joshua Lovell (CfA, Harvard-Smithsonian)
+- Patricia Luppe (Trinity College Dublin)
 - Tamara Molyarova (University of Leeds)
 - Phil Lucas (University of Hertfordshire)
 - Farzana Meru (University of Warwick)
