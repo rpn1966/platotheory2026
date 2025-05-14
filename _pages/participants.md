@@ -49,6 +49,7 @@ header:
 - Matthew  Teasdale )University of Central Lancashire)
 - Simin Tong (University of Leicester)
 - Emma Whelan (University of Maynooth)
+- Joe Williams (University of Exeter)
 - Yinhao Wu (University of Leicester)
 - Alison Young (University of Leeds)
 - Luyao Zhang (University of Leicester)
