@@ -46,7 +46,7 @@ header:
 - Sahl Rowther (University of Leicester)
 - Anibal Sierra (University College London)
 - Simran Singh (University of Hertfordshire)
-- Matthew  Teasdale )University of Central Lancashire)
+- Matthew  Teasdale (University of Central Lancashire)
 - Simin Tong (University of Leicester)
 - Emma Whelan (University of Maynooth)
 - Joe Williams (University of Exeter)
