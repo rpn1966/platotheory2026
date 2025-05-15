@@ -41,6 +41,7 @@ header:
 - Subhanjoy Mohanty (Imperial College London)
 - Calum Morris (Universidad de Valparaíso)
 - Hariharan Muthu (University of Hertfordshire)
+- Sergei Nayakshin (University of Leicester)
 - Richard Nelson (Queen Mary University of London)
 - Hiba Tu Noor (University College London)
 - Eoin O'Kelly (University of Hertfordshire)
