@@ -35,7 +35,7 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 - Registration and abstract submission opens: 4 April
 - Abstract submission for talks closes: 15th May (abstract submission for posters remains open)
 - Outcome of abstract submissions: mid-late June
-- Payment deadline: 31 July
+- Final registration and payment deadline: 31 July
 - Meeting: 8th September - 10th September
 
 ## Code of Conduct 
