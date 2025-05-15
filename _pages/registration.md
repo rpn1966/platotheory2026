@@ -6,10 +6,11 @@ header:
   caption: "Credit: © Mark Garlick."
 ---
 
-**Registration opens on 4 April.**  
+Registration opens on 4 April.
+
 Abstract submission for talks closes on ~~15 May~~ **Thursday, 22 May**, but poster submissions remain open until the registration deadline. (Please note the 1 week extension for abstract submission.)
 
-Final registration and payment deadline: 31 July
+Final registration and payment deadline: **31 July**
 
 Registration costs **£110 for staff** and **£95 for students**, which includes lunch and coffee breaks on all three days. For those attending remotely, the fee is £10.
 
