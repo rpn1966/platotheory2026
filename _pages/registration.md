@@ -8,7 +8,7 @@ header:
 
 Registration opens on 4 April.
 
-Abstract submission for talks closes on ~~15 May~~ **Thursday, 22 May**, but poster submissions remain open until the registration deadline. (Please note the 1 week extension for abstract submission.)
+Abstract submission for talks has now been extended by 1 week to **Thursday 22 May**, but poster submissions remain open until the registration deadline.
 
 Final registration and payment deadline: **31 July**
 
