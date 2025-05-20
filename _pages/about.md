@@ -12,6 +12,11 @@ The UKI discs meeting aims to bring together different astrophysical disc commun
 
 For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.uk).
 
+## Invited Speakers
+- John Ilee (Leeds)
+- Amy Bonsor (Cambridge)
+- Minjae Kim (Warwick)
+
 ## SOC
 - Phil Lucas (chair - Hertfordshire)
 - Farzana Meru (Warwick)
