@@ -15,7 +15,7 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 ## Invited Speakers
 - John Ilee (Leeds)
 - Amy Bonsor (Cambridge)
-- Minjae Kim (Warwick)
+- Minjae Kim (MSSL, UCL)
 
 ## SOC
 - Phil Lucas (chair - Hertfordshire)
