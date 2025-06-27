@@ -64,8 +64,8 @@ Lunch is included with the meeting registration. If you have any dietary require
 We will be providing refreshments (tea, coffee, fruit juice, water, biscuits) throughout the meeting. 
 
 ## Local Interest {#Local}
-- Hatfield is just 7 miles from St Albans, a historic market town with strong Roman and mediaeval roots. Highlights include St Albans Abbey and the Roman ruins of Verulamium. We plan to arrange transport to St Albans for conference groups to enjoy dinner together. 
-- Another Hatfield attraction is the Hatfield House, built by the Cecil family beside the remains of the original Tudor palace, where Mary I and Elizabeth I spent much of their childhoods. The house is surrounded by formal gardens and a large park. 
+- Hatfield is just 7 miles from <a href='https://www.enjoystalbans.com/things-to-do/'>St Albans</a>, a historic market town with strong Roman and mediaeval roots. Highlights include St Albans Abbey and the Roman ruins of Verulamium. We plan to arrange transport to St Albans for conference groups to enjoy dinner together. 
+- Another Hatfield attraction is the <a href='https://hatfield-house.co.uk'>Hatfield House</a>, built by the Cecil family beside the remains of the original Tudor palace, where Mary I and Elizabeth I spent much of their childhoods. The house is surrounded by formal gardens and a large park. 
 
 
 
