@@ -19,4 +19,20 @@ The meeting spans three days of traditional conference-style talks and discussio
 **Talk abstract submission is now closed**
 **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**  
 
-**[Payment link to be posted here]**
+**[Pay Here](https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025)** - See helpful notes below.
+
+i) **Shopping Basket Selection**  
+You can select items for purchase (Registration Fee, Accommodation if wanted) one at a time and add each to your shopping basket before paying.
+
+ii) **Guest Checkout**  
+When you go to checkout, if you do it as a *Guest* rather than creating an account, please **tick the box** to allow your name and email to be retained so that we know you have paid.
+
+iii) **Breakfast Availability**  
+Breakfast is only available on **Tuesday and Wednesday mornings**.  
+Hence, if you buy **"3 Nights accommodation + Breakfast"** (Check-in Sunday 7th, Check-out Wednesday 10th), this **does not include breakfast on Monday 8th**.  
+There are a few local options on or near campus where you can get breakfast that day.
+
+iv) **One or Two Nights Accommodation**  
+If you only want to book **1 night** accommodation, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.uk) to let us know which night.  
+If you book **2 nights**, we will assume it's **check-in Monday 8th and check-out Wednesday 10th**.
+
