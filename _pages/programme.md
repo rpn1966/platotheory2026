@@ -20,7 +20,7 @@ A PDF version of the general programme will be available [here](../assets/images
 <h1 id="monday-8th" style="text-align: center;">Monday 8th</h1>
 
 
-- TBR
+- Monday start time: 10:45 am 
 
 
 <h1 id="tuesday-9th" style="text-align: center;">Tuesday 9th</h1>
