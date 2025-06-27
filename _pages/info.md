@@ -16,8 +16,8 @@ The UKI Discs Meeting will take place in [Room N001 of the de Havilland Main Bui
 ## Accommodation {#Accommodation} 
 
 Student rooms are available on the de Havilland Campus at the University of Hertfordshire. These are a convenient and affordable option:
-- **£75 + VAT** per night (room only)  
-- **£90 + VAT** per night (room with breakfast)
+- **£70** per night (room only)  
+- **£85** per night (room with breakfast[^1])
 
 Each room includes a wardrobe, desk, and a small ensuite bathroom, with access to a shared kitchen located on each corridor. Photos below show typical rooms and facilities, courtesy of UH Venues.
 
@@ -28,6 +28,8 @@ There are relatively few budget hotel options in Hatfield this year. The nearby 
   <img src="../assets/images/UH_accomodation2.jpg" alt="Accommodation 2" width="250"/>
   <img src="../assets/images/UH_accomodation3.jpg" alt="Accommodation 3" width="250"/>
 </p>
+
+[^1]: The prepaid breakfast option in the dining hall is only available on Tuesday 9th and Wednesday 10th. For those needing breakfast on Monday 8th, local options include the Sports Cafe on campus (limited selections) or the Wetherspoons close to campus for a full breakfast.
 
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
