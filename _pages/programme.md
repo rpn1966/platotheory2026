@@ -130,7 +130,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 14:45–15:45 **Exoplanet discs & planetesimal signatures**
 - 14:45–15:00 **Exocomets Overview** — Daniela Iglesias (Leeds)
-- 15:00–15:15 **The search for Exorings and a Short Period Circumsecondary Disk Candidate** — Niamh Mallagan (QUB)
+- 15:00–15:15 **The search for Exorings and a Short Period Circumsecondary Disk Candidate** — Niamh Mallaghan (QUB)
 - 15:15–15:30 **Discs around planetary-mass objects: new insights from JWST** — Belinda Damian (St Andrews)
 - 15:30–15:45 **When Worlds Collide: Imaging post-impact debris in HD172555** — Zoe Roumeliotis (Trinity)
 
