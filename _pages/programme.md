@@ -108,7 +108,7 @@ Please note that the later Monday morning start time
 - 09:30–09:45 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Kaefer
 - 09:45–10:00 **ARKS: Resolved 12CO/13CO Ratios in Debris Discs** — Sorcha Mac Manamon
 - 10:00–10:15 **Chemical co-evolution of dust and gas in protoplanetary discs** — Tamara Molyarova
-- 10:15–10:30 **(Title TBC)** — George Blaylock-Squibbs
+- 10:15–10:30 **(Title TBR)** — George Blaylock-Squibbs
 
 ### 10:30–10:45 **Formation of Planets & Brown Dwarfs 1**
 - 10:30–10:45 **V960 Mon b: a dust-embedded substellar object formed by GI?** — Anuroop Dasgupta
