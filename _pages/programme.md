@@ -70,7 +70,7 @@ Please note that the later Monday morning start time
 - 11:30–11:45 **Role of Cluster Environment on Protoplanetary Disks** — Saumya Gupta
 
 ### 11:45–12:00 **Disc Processes 1**
-- 11:45–12:00 **(Title TBR)** — Anibal Sierra
+- 11:45–12:00 **High angular resolution evidence of dust traps from deep ALMA Band 3 observations of LkCa15** — Anibal Sierra
 
 ### 12:00–13:30 Lunch
 
@@ -108,7 +108,7 @@ Please note that the later Monday morning start time
 - 09:30–09:45 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Kaefer
 - 09:45–10:00 **ARKS: Resolved 12CO/13CO Ratios in Debris Discs** — Sorcha Mac Manamon
 - 10:00–10:15 **Chemical co-evolution of dust and gas in protoplanetary discs** — Tamara Molyarova
-- 10:15–10:30 **(Title TBR)** — George Blaylock-Squibbs
+- 10:15–10:30 **Chemical Compositions of Disk-instability planets** — George Blaylock-Squibbs
 
 ### 10:30–10:45 **Formation of Planets & Brown Dwarfs 1**
 - 10:30–10:45 **V960 Mon b: a dust-embedded substellar object formed by GI?** — Anuroop Dasgupta
