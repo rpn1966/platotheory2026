@@ -97,7 +97,7 @@ Please note that the later Monday morning start time
 - 17:00–17:15 **Non-Thermal Radio Variability in YSOs: A VLBA Census of the ONC** — Eoin O'Kelly
 - 17:15–17:30 **The Missing YSO Outbursts: Mid-IR Selected Eruptive YSOs** — Calum Morris
 
-### 17:30–18:00 General Discussion
+### 17:30–18:00 Discussion
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
