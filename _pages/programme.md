@@ -16,7 +16,8 @@ A PDF version of the general programme will be available [here](../assets/images
 - [Wednesday 10th](#day-3--wednesday-10th-september)
 - [Posters](#posters)
 
----
+<hr style="height:3px; border:none; background-color:#333;" />
+
 # Meeting Schedule
 Please note that the later Monday morning start time
 
@@ -50,7 +51,8 @@ Please note that the later Monday morning start time
 
 ### 17:00–18:00 Poster Session
 
----
+<hr style="height:3px; border:none; background-color:#333;" />
+
 ## Day 2 – Tuesday 9th September
 
 ### 09:15–10:30 **Disc Structure and Evolution 3**
@@ -97,7 +99,8 @@ Please note that the later Monday morning start time
 
 ### 17:30–18:00 General Discussion
 
----
+<hr style="height:3px; border:none; background-color:#333;" />
+
 ## Day 3 – Wednesday 10th September
 
 ### 09:30–10:45 **Disc Composition**
@@ -132,6 +135,7 @@ Please note that the later Monday morning start time
 
 ### 15:30 Closing remarks
 
+<hr style="height:3px; border:none; background-color:#333;" />
 
 <h1 id="posters" style="text-align: center;">Poster Presentations</h1>
 
