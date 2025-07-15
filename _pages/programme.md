@@ -101,39 +101,40 @@ Please note that the later Monday morning start time
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
-## Day 3 – Wednesday 10th September
+## Day 3 – Wednesday 10th
 
-### 09:30–10:45 **Disc Composition**
-- 09:30–09:45 **Dust compositions in white dwarf disks** — Andrew Swan
-- 09:45–10:00 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Kaefer
-- 10:00–10:15 **ARKS: Resolved 12CO/13CO Ratios in Debris Discs** — Sorcha Mac Manamon
-- 10:15–10:30 **Chemical co-evolution of dust and gas in protoplanetary discs** — Tamara Molyarova
-- 10:30–10:45 **(Title TBC)** — George Blaylock-Squibbs
+### 09:15–10:30 **Disc Composition**
+- 09:15–09:30 **Dust compositions in white dwarf disks** — Andrew Swan
+- 09:30–09:45 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Kaefer
+- 09:45–10:00 **ARKS: Resolved 12CO/13CO Ratios in Debris Discs** — Sorcha Mac Manamon
+- 10:00–10:15 **Chemical co-evolution of dust and gas in protoplanetary discs** — Tamara Molyarova
+- 10:15–10:30 **(Title TBC)** — George Blaylock-Squibbs
 
-### 10:45–11:00 **Formation of Planets & Brown Dwarfs 1**
-- 10:45–11:00 **V960 Mon b: a dust-embedded substellar object formed by GI?** — Anuroop Dasgupta
+### 10:30–10:45 **Formation of Planets & Brown Dwarfs 1**
+- 10:30–10:45 **V960 Mon b: a dust-embedded substellar object formed by GI?** — Anuroop Dasgupta
 
-### 11:00–11:30 Coffee Break
+### 10:45–11:15 Coffee Break
 
-### 11:30–12:45 **Formation of Planets & Brown Dwarfs 2**
-- 11:30–11:45 **Planet formation by disc fragmentation: the impact of dust growth on opacity** — Hans Lee
-- 11:45–12:00 **Planet formation sculpted by infall: the importance of multi-scale turbulence** — Andrew Winter
-- 12:00–12:15 **Sandwiched planet formation: restricting the mass of a middle planet** — Farzana Meru
-- 12:15–12:30 **Towards a population synthesis study of increasingly realistic protoplanetary discs** — Adam Koval
-- 12:30–12:45 **Testing planet formation via GI: FU Ori outbursts and Free-Floating Planets** — Sergei Nayakshin
+### 11:15–12:30 **Formation of Planets & Brown Dwarfs 2 & EDI session**
+- 11:15–11:30 **Planet formation by disc fragmentation: the impact of dust growth on opacity** — Hans Lee
+- 11:30–11:45 **Planet formation sculpted by infall: the importance of multi-scale turbulence** — Andrew Winter
+- 11:45–12:15 **Equity and Inclusivity Practices in Academia** — Amena Faruqi
+- 12:15–12:30 **Sandwiched planet formation: restricting the mass of a middle planet** — Farzana Meru
 
-### 12:45–14:15 Lunch
+### 12:30–14:00 Lunch
 
-### 14:15–14:30 **Formation of Planets & Brown Dwarfs 3**
-- 14:15–14:30 **Planet formation in spontaneous dust traps in magnetized disks** — Timmy Delage
+### 14:00–14:45 **Formation of Planets & Brown Dwarfs 3**
+- 14:00–14:15 **Towards a population synthesis study of increasingly realistic protoplanetary discs** — Adam Koval
+- 14:15–14:30 **Testing planet formation via GI: FU Ori outbursts and Free-Floating Planets** — Sergei Nayakshin
+- 14:30–14:45 **Planet formation in spontaneous dust traps in magnetized disks** — Timmy Delage
 
-### 14:30–15:45 **Exoplanet discs & planetesimal signatures**
-- 14:30–14:45 **Exocomets Overview** — Daniela Iglesias
-- 14:45–15:00 **The search for Exorings and a Short Period Circumsecondary Disk Candidate** — Niamh Mallagan
-- 15:00–15:15 **Discs around planetary-mass objects: new insights from JWST** — Belinda Damian
-- 15:15–15:30 **When Worlds Collide: Imaging post-impact debris in HD172555** — Zoe Roumeliotis
+### 14:45–15:45 **Exoplanet discs & planetesimal signatures**
+- 14:45–15:00 **Exocomets Overview** — Daniela Iglesias
+- 15:00–15:15 **The search for Exorings and a Short Period Circumsecondary Disk Candidate** — Niamh Mallagan
+- 15:15–15:30 **Discs around planetary-mass objects: new insights from JWST** — Belinda Damian
+- 15:30–15:45 **When Worlds Collide: Imaging post-impact debris in HD172555** — Zoe Roumeliotis
 
-### 15:30 Closing remarks
+### 15:45 Closing remarks
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
