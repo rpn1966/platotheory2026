@@ -19,7 +19,7 @@ A PDF version of the general programme will be available [here](../assets/images
 <hr style="height:3px; border:none; background-color:#333;" />
 
 # Meeting Schedule
-Please note the later Monday morning start time
+Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on both Tuesday and Wednesday.
 
 ## Day 1 – Monday 8th September
 
