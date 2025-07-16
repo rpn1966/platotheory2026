@@ -9,7 +9,7 @@ layout: splash
 
 The meeting will take place over three days, from Monday 8 September to Wednesday 10 September. To accommodate arrivals, the programme will begin later in the morning on Monday, while Tuesday and Wednesday will feature a full schedule of sessions.
 
-A PDF version of the programme may be downloaded [here](../assets/images/Programme2025.pdf). The talk abstracts will be [here](../assets/images/Talks2025.pdf), and the poster abstracts will be [here](../assets/images/Posters2025.pdf). Posters can now will be viewable by following the links from the poster titles below.
+A PDF version of the programme may be downloaded [here](../assets/images/Programme2025.pdf). The talk abstracts will be [here](../assets/images/Talks2025.pdf), and the poster abstracts will be [here](../assets/images/Posters2025.pdf). 
 
 - [Monday 8th](#day-1--monday-8th-september)
 - [Tuesday 9th](#day-2--tuesday-9th-september)
