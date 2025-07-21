@@ -105,7 +105,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 09:15–10:30 **Disc Composition**
 - 09:15–09:30 **Dust compositions in white dwarf disks** — Andrew Swan (Warwick)
-- 09:30–09:45 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Kaefer (Exeter)
+- 09:30–09:45 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Käufer (Exeter)
 - 09:45–10:00 **ARKS: Resolved 12CO/13CO Ratios in Debris Discs** — Sorcha Mac Manamon (Trinity)
 - 10:00–10:15 **Chemical co-evolution of dust and gas in protoplanetary discs** — Tamara Molyarova (Leeds)
 - 10:15–10:30 **Chemical Compositions of Disk-instability planets** — George Blaylock-Squibbs (UCLan)
