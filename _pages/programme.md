@@ -49,7 +49,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 16:30–17:00 Poster Pop-ups
 
-### 17:00–18:00 Poster Session
+### 17:00–18:30 Poster Session & Drinks
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
