@@ -19,22 +19,23 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 
 ## SOC
 - Phil Lucas (chair - Hertfordshire)
-- Farzana Meru (Warwick)
 - Richard Booth (Leeds)
-- Emma Whelan (Maynooth)
 - Jay Farihi (UCL)
-- Tim Pearce (Warwick)
+- Farzana Meru (Warwick)
 - Olja Panic (Leeds)
+- Tim Pearce (Warwick)
+- Emma Whelan (Maynooth)
 
 ## LOC
 - Phil Lucas (chair - Hertfordshire)
-- Jan Forbrich
-- Michael Kuhn
-- Hugh Jones
-- Gabriella Zsidi
-- Hariharan Muthu
-- Simran Singh
 - Jessica Copeland
+- Jan Forbrich
+- Hugh Jones
+- Michael Kuhn
+- Hariharan Muthu
+- Eoin O'Kelly
+- Simran Singh
+- Gabriella Zsidi
 
 ## Important Dates
 - Registration and abstract submission opens: 4 April
