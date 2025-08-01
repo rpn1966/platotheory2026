@@ -10,6 +10,7 @@ header:
 - [Getting Here](#GettingHere)
 - [Food](#Food)
 - [Local Interest](#Local)
+- [Pool and Gym](#Gym)
 
 The UKI Discs Meeting will take place in [Room N001 of the de Havilland Main Building](https://maps.herts.ac.uk) on the University of Hertfordshire’s de Havilland Campus in Hatfield, Hertfordshire. The university comprises two campuses—College Lane and de Havilland—which are within walking distance of each other and the nearby Galleria shopping centre. A bus also connects the campuses for added convenience.
 
@@ -81,6 +82,16 @@ We will be providing refreshments (tea, coffee, fruit juice, water, biscuits) th
 ## Local Interest {#Local}
 - Hatfield is just 7 miles from <a href='https://www.enjoystalbans.com/things-to-do/'>St Albans</a>, a historic market town with strong Roman and mediaeval roots. Highlights include St Albans Abbey and the Roman ruins of Verulamium. We plan to arrange transport to St Albans for conference groups to enjoy dinner together. 
 - Another Hatfield attraction is the <a href='https://hatfield-house.co.uk'>Hatfield House</a>, built by the Cecil family beside the remains of the original Tudor palace, where Mary I and Elizabeth I spent much of their childhoods. The house is surrounded by formal gardens and a large park. 
+
+## Access to the Swimming Pool and Gym in the Sports Village {#Gym}
+
+The Sports Village adjacent to the conference venue is open to both staff, students and members of the public.  If you would like to use the pool, you can do the pay as you go rate which is £6.15 before 5pm Monday to Friday and on weekends. After 5pm Monday to Friday, the price is £7.20.  Swimming sessions do not need to be booked, but we advise checking the pool timetable before you arrive: [https://www.hertssportsvillage.co.uk/news-swimming-pool-timetable-9](https://www.hertssportsvillage.co.uk/news-swimming-pool-timetable-9)
+
+If you want to use the gym, you will need to create an account:  
+[https://www.hertssportsvillage.co.uk/](https://www.hertssportsvillage.co.uk/) (Click the 'Login' button at the top right, then go to 'Create an account'.) 
+
+To access the gym, you'll need to complete a gym induction, which can be done at reception on one of the kiosks (no appointment needed). For gym access you would need to complete a gym induction which can be done at reception on one of kiosks: no appointment is needed.  An off peak gym session is £11.75 and a peak session is £13.50. 
+
 
 
 
