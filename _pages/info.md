@@ -47,7 +47,7 @@ For those wishing to park at the de Havilland campus, there is a large open air 
 that you'll come into as you drive on to campus. It's marked **DH1** on the map  
 here: [https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf](https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf)
 
-The university charges **£3/day** (or **free for the first 2 hours**) with payment via **Hozah**.  
+The university charges £3/day (or free for the first 2 hours) with payment via **Hozah**.  
 The procedure is to sign up once only at their website:  
 [https://hozah.com/uhparking/](https://hozah.com/uhparking/)  
 providing your registration and payment details. Then everything is taken care of  
