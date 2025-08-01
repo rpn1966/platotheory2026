@@ -45,9 +45,7 @@ You can travel to the University of Hertfordshire from other parts of the UK by 
 
 For those wishing to park at the de Havilland campus, there is a large open air car park that you'll come into as you drive on to campus. It's marked **DH1** on the map here: [https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf](https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf)
 
-The university charges £3/day (or free for the first 2 hours) with payment via **Hozah**. The procedure is to sign up once only at their website:  
-[https://hozah.com/uhparking/](https://hozah.com/uhparking/)  
-providing your registration and payment details. Then everything is taken care of automatically, using automated number plate recognition to trigger payments. You can sign up before or after you arrive but **must do so by midnight on the day you first park**.
+The university charges £3/day (or free for the first 2 hours) with payment via **Hozah**. The procedure is to sign up once only at their website ([https://hozah.com/uhparking/](https://hozah.com/uhparking/)) providing your registration and payment details. Then everything is taken care of automatically, using automated number plate recognition to trigger payments. You can sign up before or after you arrive but **must do so by midnight on the day you first park**.
 
 > **N.B.** After clicking "Pay as you go" on the website, **DO NOT CLICK THE BOX** asking  
 > "Are you a Student?" — this refers to University of Hertfordshire students, who  
