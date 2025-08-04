@@ -83,7 +83,7 @@ The Sports Village adjacent to the conference venue is open to both staff, stude
 If you want to use the gym, you will need to create an account:  
 [https://www.hertssportsvillage.co.uk/](https://www.hertssportsvillage.co.uk/) (Click the 'Login' button at the top right, then go to 'Create an account'.) 
 
-To access the gym, you'll need to complete a gym induction, which can be done at reception on one of the kiosks (no appointment needed). For gym access you would need to complete a gym induction which can be done at reception on one of kiosks: no appointment is needed.  An off peak gym session is £11.75 and a peak session is £13.50. 
+For gym access you would need to complete a gym induction which can be done at reception on one of kiosks: no appointment is needed.  An off peak gym session is £11.75 and a peak session is £13.50. 
 
 
 
