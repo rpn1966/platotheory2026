@@ -34,7 +34,8 @@ There are relatively few budget hotel options in Hatfield this year. The nearby 
 <p id="breakfast-note"><sup>[1]</sup> The prepaid breakfast option in the dining hall is only available on Tuesday 9th and Wednesday 10th. For those needing breakfast on Monday 8th, local options include the Sports Cafe on campus (limited selections) or the Wetherspoons close to campus for a full breakfast.</p>
 
 ## Campus Map {#Map}
-![Campus Map](/assets/images/de-Havilland-campus-map.png)
+![Campus Map](../assets/images/de-Havilland-campus-map.png)
+
 
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
