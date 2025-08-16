@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: UK & Ireland Discs Meeting 2025
+title: PLATO Theory Meeting 2026
 # email:
-description: The UK & Ireland Discs Meeting 2025  # this means to ignore newlines until "baseurl:"
-url: "https://rpn1966.github.io"
+description: PLATO Theory Meeting 2026  # this means to ignore newlines until "baseurl:"
+url: "https://rpn1966.github.io/webtest2/"
 baseurl: "/webtest2"
 
 #twitter_username: username
