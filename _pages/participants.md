@@ -2,8 +2,7 @@
 permalink: /participants/
 title: "Participants"
 header:
-  image: "/assets/images/HD98800_Mark_Garlick.png"
-  caption: "Credit: © Mark Garlick."
+  image: "/assets/images/PLAT)_searching_for_Exoplanets_cropped"
 ---
 
 - Sana Ahmed (Trinity College Dublin)
@@ -93,5 +92,5 @@ header:
 
 [- James Miley (Joint ALMA Observatory)]: #
 
-Last updated: 21 July 2025.
+Last updated: 21 August 2025.
 
