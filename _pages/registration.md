@@ -2,8 +2,7 @@
 permalink: /register/
 title: "Registration and Abstract Submission"
 header:
-  image: "/assets/images/HD98800_Mark_Garlick.png"
-  caption: "Credit: © Mark Garlick."
+  image: "/assets/images/PLATO_searching_for_Exoplanets_cropped.jpg"
 ---
 
 Registration opens on 4 April.
