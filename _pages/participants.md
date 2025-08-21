@@ -2,7 +2,7 @@
 permalink: /participants/
 title: "Participants"
 header:
-  image: "/assets/images/PLAT)_searching_for_Exoplanets_cropped"
+  image: "/assets/images/PLATO_searching_for_Exoplanets_cropped.jpg"
 ---
 
 - Sana Ahmed (Trinity College Dublin)
