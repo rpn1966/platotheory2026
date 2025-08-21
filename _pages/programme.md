@@ -2,7 +2,7 @@
 permalink: /programme/
 title: Programme
 header:
-  image: "/assets/images/HD98800_Mark_Garlick.png"
+  image: "/assets/images/PLATO_searching_for_Exoplanets.jpg"
   caption: "Credit: © Mark Garlick."
 layout: splash
 ---
@@ -11,19 +11,19 @@ The meeting will take place over three days, from Monday 8 September to Wednesda
 
 A PDF version of the programme may be downloaded [here](../assets/images/Programme2025.pdf). The talk abstracts will be [here](../assets/images/Talks2025.pdf), and the poster abstracts will be [here](../assets/images/Posters2025.pdf). 
 
-- [Monday 8th](#day-1--monday-8th-september)
-- [Tuesday 9th](#day-2--tuesday-9th-september)
-- [Wednesday 10th](#day-3--wednesday-10th-september)
+- [Monday 12th](#day-1--monday-8th-september)
+- [Tuesday 13th](#day-2--tuesday-9th-september)
+- [Wednesday 14th](#day-3--wednesday-10th-september)
 - [Posters](#posters)
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
 # Meeting Schedule
-Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on both Tuesday and Wednesday.
+Please note that the meeting begins at 10:00 am on Monday, and at 9:15 am on both Tuesday and Wednesday.
 
-## Day 1 – Monday 8th September
+## Day 1 – Monday 12th January
 
-### 10:15–10:45 Welcome Tea & Coffee
+### 10:00–10:30 Welcome Tea & Coffee
 
 ### 10:45–12:30 **Introduction & Review Talks** — Chair: Phil Lucas
 - 10:45–11:00 **Introduction (Welcome, Code of Conduct, Logistics)** — Phil Lucas (Herts)
@@ -53,7 +53,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
-## Day 2 – Tuesday 9th September
+## Day 2 – Tuesday 13th January
 
 ### 09:15–10:30 **Disc Structure and Evolution 3**
 - 09:15–09:30 **The transition from protoplanetary to debris discs** — Benjamin Homewood (Exeter)
@@ -101,7 +101,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
-## Day 3 – Wednesday 10th September
+## Day 3 – Wednesday 14th January
 
 ### 09:15–10:30 **Disc Composition**
 - 09:15–09:30 **Dust compositions in white dwarf disks** — Andrew Swan (Warwick)
