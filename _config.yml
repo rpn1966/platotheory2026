@@ -42,11 +42,11 @@ include:
 
 # header
 header:
-  image: /assets/images/disc.jpg
+  image: /assets/images/PLATO_searching_for_Exoplanets.jpg
   caption: "Credit: SpaceEngine © Cosmographic Software LLC."
 
 # logo
-logo: "/assets/images/UKI_Logo_notext.png"
+logo: "/assets/images/plato_logo_320x320.png"
 
 # text wide
 classes: wide
