@@ -17,23 +17,11 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 
 ## SOC
 - Richard Nelson (chair - QMUL)
-- Richard Booth (Leeds)
-- Jay Farihi (UCL)
-- Farzana Meru (Warwick)
-- Olja Panic (Leeds)
-- Tim Pearce (Warwick)
-- Emma Whelan (Maynooth)
+- A.N. Other
 
 ## LOC
 - Richard Nelson (chair - QMUL)
-- Jessica Copeland
-- Jan Forbrich
-- Hugh Jones
-- Michael Kuhn
-- Hariharan Muthu
-- Eoin O'Kelly
-- Simran Singh
-- Gabriella Zsidi
+- A.N. Other
 
 ## Important Dates
 - Registration and abstract submission opens: 4 April
