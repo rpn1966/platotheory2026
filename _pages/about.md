@@ -3,16 +3,19 @@ permalink: /
 title: "About"
 header: 
   image: "/assets/images/PLATO_searching_for_Exoplanets_cropped2.jpeg"
+  caption: "Credit: DLR/OHB"
 ---
 
-The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We are delighted to announce the second meeting of this series will be hosted at the University of Hertfordshire on 8th-10th September 2025! The theme of the meeting will be _Protoplanetary Discs and Debris Discs (including White dwarf Debris Discs)_, covering observations and theory. Scientific topics include but are not limited to: protoplanetary discs, protosatellite discs, debris discs, disc formation and evolution, winds and jets, irradiated discs and proplyds, planet-disc interactions and migration, planet and planetesimal formation, exocomets, disc chemistry, distorted and warped discs, discs in binaries, disc instabilities, disc turbulence, etc. The meeting will be held in a hybrid format.
+ESA's PLATO mission is scheduled for launch towards the end of 2026. On a similar time frame, the Nancy Grace Roman mission will launch and Gaia DR4 will be provided to the community. Together, these promise to dramatically improve our knowledge and understanding of exoplanet demographics by discovering 1000s of new exoplanets in hitherto unexplored regions of parameter space. Furthermore, PLATO will deliver masses, radii, ages and orbital architectures for many systems, providing a high-value dataset for studies of planetary system formation and dynamics. The 2026 PLATO theory meeting aims to bring together researchers from across Europe and beyond to discuss recent and future planned developments in planet formation and dynamics research, and how this combined with the forthcoming data can enhance our understanding of the origins and evolution of planetary systems.
 
-The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We also welcome attendees from beyond these isles but numbers on-site will be limited to approximately 60.
+The meeting will be hosted at Queen Mary University of London during the 12th, 13th and 14th January 2026. Registration is free and numbers on-site will be limited to approximately 60. If registered numbers significantly exceed this then we will aim to host the meeting in a hybrid format.
 
 For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.uk).
 
 ## Invited Speakers
 - Don Pollacco (Warwick)
+- Eamon Kerins (Manchester)
+- Simon Hodgkin (Cambridge)
 
 ## SOC
 - Richard Nelson (chair - QMUL)
@@ -23,11 +26,11 @@ For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.
 - A.N. Other
 
 ## Important Dates
-- Registration and abstract submission opens: 4 April
-- Abstract submission for talks closes: 22th May (abstract submission for posters remains open)
-- Outcome of abstract submissions: mid-late June
-- Final registration and payment deadline: 31 July
-- Meeting: 8th September - 10th September
+- Registration and abstract submission opens: 25th August
+- Abstract submission for talks closes: 21st November (abstract submission for posters remains open)
+- Outcome of abstract submissions: early December
+- Final registration and payment deadline: 12th December
+- Meeting: 12th - 14th January 2026
 
 ## Code of Conduct 
 
