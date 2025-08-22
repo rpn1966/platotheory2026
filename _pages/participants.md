@@ -2,7 +2,8 @@
 permalink: /participants/
 title: "Participants"
 header:
-  image: "/assets/images/PLATO_searching_for_Exoplanets_cropped2.jpg"
+  image: "/assets/images/PLATO_searching_for_Exoplanets_cropped2.jpeg"
+  caption: "Credit: DLR/OHB."
 ---
 
 - Sana Ahmed (Trinity College Dublin)
