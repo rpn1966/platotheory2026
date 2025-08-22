@@ -2,8 +2,8 @@
 permalink: /info/
 title: "Info"
 header: 
-  image: "/assets/images/Bayfordbury.jpeg"
-  caption: "Credit: Calum Morris."
+  image: "/assets/images/PLATO_searching_for_Exoplanets_cropped2.jpeg"
+  caption: "Credit: DLR/OHB."
 ---
 
 - [Accommodation](#Accommodation)
