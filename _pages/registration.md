@@ -2,7 +2,8 @@
 permalink: /register/
 title: "Registration and Abstract Submission"
 header:
-  image: "/assets/images/PLATO_searching_for_Exoplanets_cropped2.jpg"
+  image: "/assets/images/PLATO_searching_for_Exoplanets_cropped2.jpeg"
+  caption: "Credit: DLR/OHB."
 ---
 
 Registration opens on 4 April.
