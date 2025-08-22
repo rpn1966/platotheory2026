@@ -2,8 +2,8 @@
 permalink: /programme/
 title: Programme
 header:
-  image: "/assets/images/PLATO_searching_for_Exoplanets_cropped2.jpg"
-  caption: "Credit: © Mark Garlick."
+  image: "/assets/images/PLATO_searching_for_Exoplanets_cropped2.jpeg"
+  caption: "Credit: DLR/OHB."
 layout: splash
 ---
 
