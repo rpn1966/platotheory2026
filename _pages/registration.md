@@ -6,20 +6,24 @@ header:
   caption: "Credit: DLR/OHB."
 ---
 
-Registration opens on 4 April.
+Registration opens on 27 August 2025.
 
-Abstract submission for talks has now been extended by 1 week to **Thursday 22 May**, but poster submissions remain open until the registration deadline.
+Abstract submission for talks is 21 November 2025, but poster submissions remain open until the registration deadline.
 
-Final registration and payment deadline: **31 July**
+Final registration deadline: **12 December 2025**
 
-Registration costs **£110 for staff** and **£95 for students**, which includes lunch and coffee breaks on all three days. For those attending remotely, the fee is £10.
+The following refreshments will be provided on all three days:  <br>
+* Tea, coffee and pastries during the morning coffee breaks  <br>
+* A buffet lunch  <br>
+* Tea, coffee and biscuits during afternoon coffee breaks
 
-The meeting spans three days of traditional conference-style talks and discussion sessions. The Scientific Organising Committee (SOC) will select talks to reflect a broad range of topics, with a substantial proportion allocated to early-career researchers. This is a hybrid event, aimed at increasing accessibility for those unable to attend in person. While most talks will be presented on-site, a limited number of remote presentations will be considered upon request. We aim to ensure that everyone who submits an abstract has the opportunity to present—either as a talk or a poster.
+The meeting spans three days of talks, poster pop-ups and discussion sessions. The aim of the meeting is to discuss how theoretical work in planet formation and dynamics can help the PLATO mission achieve its scientific objectives. Hence, the Scientific Organising Committee (SOC) will select talks on topics of relevance to PLATO work packages and working groups. We aim for a substantial proportion to be allocated to early-career researchers. We aim to ensure that everyone who submits an abstract has the opportunity to present—either as a talk or a poster.
+<!-- This is a hybrid event, aimed at increasing accessibility for those unable to attend in person. While most talks will be presented on-site, a limited number of remote presentations will be considered upon request.  --> 
 
-**Abstract submission is now closed**
-<!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
+<!-- **Abstract submission is now closed**  -->
+**[Register Here](https://forms.office.com/e/S9bKkz2dTM)**
 
-**[Pay Here](https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025)** - See helpful notes below.
+<!-- **[Pay Here](https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025)** - See helpful notes below.  -->
 
 i) **Shopping Basket Selection**  
 You can select items for purchase (Registration Fee, Accommodation if wanted) one at a time and add each to your shopping basket before paying.
