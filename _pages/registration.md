@@ -23,7 +23,7 @@ The meeting spans three days of talks, poster pop-ups and discussion sessions. T
 <!-- **Abstract submission is now closed**  -->
 **[Register Here](https://forms.office.com/e/S9bKkz2dTM)**
 
-<!-- **[Pay Here](https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025)** - See helpful notes below.  -->
+<!-- **[Pay Here](https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025)** - See helpful notes below. 
 
 i) **Shopping Basket Selection**  
 You can select items for purchase (Registration Fee, Accommodation if wanted) one at a time and add each to your shopping basket before paying.
@@ -39,4 +39,5 @@ There are a few local options on or near campus where you can get breakfast that
 iv) **One or Two Nights Accommodation**  
 If you only want to book **1 night** accommodation, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.uk) to let us know which night.  
 If you book **2 nights**, we will assume it's **check-in Monday 8th and check-out Wednesday 10th**.
+-->
 
