@@ -6,30 +6,38 @@ header:
   caption: "Credit: DLR/OHB"
 ---
 
-ESA's PLATO mission is scheduled for launch towards the end of 2026. On a similar time frame, the Nancy Grace Roman mission will launch and Gaia DR4 will be provided to the community. Together, these promise to dramatically improve our knowledge and understanding of exoplanet demographics by discovering 1000s of new exoplanets in hitherto unexplored regions of parameter space. Furthermore, PLATO will deliver masses, radii, ages and orbital architectures for many systems, providing a high-value dataset for studies of planetary system formation and dynamics. The 2026 PLATO theory meeting aims to bring together researchers from across Europe and beyond to discuss recent and future planned developments in planet formation and dynamics research, and how this combined with the forthcoming data can enhance our understanding of the origins and evolution of planetary systems.
+ESA's PLATO mission is scheduled for launch towards the end of 2026. On a similar time frame, the Nancy Grace Roman mission will launch and Gaia Data Release 4 will be provided to the community. By discovering 1000s of new exoplanets in hitherto unexplored regions of parameter space, these missions promise to dramatically improve our knowledge and understanding of exoplanet demographics. Furthermore, PLATO will deliver masses, radii, ages and orbital architectures for many systems, providing a high-value dataset for studies of planetary system formation and dynamics. 
+
+The 2026 PLATO theory meeting aims to bring together researchers from across Europe and beyond to discuss recent and future planned developments in planet formation and dynamics research, and how this, combined with the forthcoming data, can enhance our understanding of the origins and evolution of planetary systems.
 
 The meeting will be hosted at Queen Mary University of London during the 12th, 13th and 14th January 2026. Registration is free and numbers on-site will be limited to approximately 60. If registered numbers significantly exceed this then we will aim to host the meeting in a hybrid format.
 
 For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.uk).
 
-## Invited Speakers
+## Invited Speakers (TBC)
 - Don Pollacco (Warwick)
 - Eamon Kerins (Manchester)
-- Simon Hodgkin (Cambridge)
+- Alessandro Sozzeti (INAF)
 
-## SOC
+## SOC (TBC)
 - Richard Nelson (chair - QMUL)
-- A.N. Other
-
+- Ravit Helled (Zurich)
+- Farzana Meru (Warwick)
+- Christoph Mordasini (Bern)
+  
 ## LOC
-- Richard Nelson (chair - QMUL)
-- A.N. Other
+- Richard Nelson (QMUL)
+- Ed Gillen (QMUL)
+- Cynthia Ho (QMUL)
+- Eleftheria Sarafidou (QMUL)
+- Andrew Ringham (QMUL)
+- Beatrice Caccherano (QMUL)
 
 ## Important Dates
 - Registration and abstract submission opens: 25th August
 - Abstract submission for talks closes: 21st November (abstract submission for posters remains open)
 - Outcome of abstract submissions: early December
-- Final registration and payment deadline: 12th December
+- Final registration deadline: 12th December
 - Meeting: 12th - 14th January 2026
 
 ## Code of Conduct 
