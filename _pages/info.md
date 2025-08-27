@@ -29,14 +29,14 @@ The following hotels are within one or two tube stops.  <br>
 Further options can be found on **booking.com** [click here](https://www.booking.com/)
 
 ## Campus Map {#Map}
-To access a pdf of the campus map [click here])https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End-campus-map.pdf) 
+To access a pdf of the campus map [click here](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End-campus-map.pdf) 
 
 ## Getting Here {#GettingHere}
 The nearest tube stations are Mile End (which is on the Central, District, and Hammersmith and City lines) and Stepney Green (which is on the District and Hammersmith and City lines).
 
-If you arrive at Mile End station, turn left when you exit the station and walk under the yellow bridge and down the Mile End Road. After walking approximately 500 metres, you will see the Mile End campus on the opposite side of the road - recognisable by the clock tower. The Mathematical Sciences building is a further 200 metres along the MIle End Road.
+If you arrive at Mile End station, turn left when you exit the station and walk under the yellow bridge and down the Mile End Road. After walking approximately 500 metres, you will see the Mile End campus on the opposite side of the road - recognisable by the clock tower. The Mathematical Sciences building is a further 200 metres along the Mile End Road.
 
-If you arrive at Stepney Green station, turn left out of the station and walk for about 200 metres. The Mathematical Sciences building will be the 6 storey building on your left - recognisable because of the Penrose tiling pattern on the building's exterior.
+If you arrive at Stepney Green station, turn left out of the station and walk for about 200 metres. The Mathematical Sciences building will be the white 6 storey building on your left - recognisable because of the Penrose tiling pattern on the building's exterior.
 
 ## Food {#Food}
 
@@ -44,7 +44,8 @@ If you arrive at Stepney Green station, turn left out of the station and walk fo
 A simple buffet lunch will be provided on each day. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
 
 ### *Refreshments*
-We will be providing refreshments (tea, coffee, water, biscuits) throughout the meeting. 
+We will serve tea, coffee, water and pastries during the morning coffee breaks.  
+We will serve tea, coffee, water and biscuits during the afternoon coffee breaks.
 
 <!-- 
 ## Local Interest {#Local}
