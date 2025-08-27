@@ -6,9 +6,8 @@ header:
   caption: "Credit: DLR/OHB."
 ---
 
-- [Accommodation](#Accommodation)
-- [Campus Map](#Map)
 - [Getting Here](#GettingHere)
+- [Accommodation](#Accommodation)
 - [Food](#Food)
 
 The PLATO Theory Meeting will take place in the Maths Lecture Theatre located on the ground floor of the Mathematical Sciences building on the Mile End campus of Queen Mary University of London. 
