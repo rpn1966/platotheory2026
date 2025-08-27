@@ -26,8 +26,7 @@ If you arrive at Stepney Green station, turn left out of the station and walk fo
 
 ## Accommodation {#Accommodation} 
 
-There are not many hotels within easy walking distance to the Mile End campus. One possible option is:  <br>
-**Mile End Travelodge** - [click here](https://www.travelodge.co.uk/hotels/673/London-Mile-End-hotel?checkIn=11/01/2026&checkOut=14/01/2026&rooms[0][adults]=1&rooms[0][children]=0) <br>
+There are not many hotels within easy walking distance to the Mile End campus. One possible option is **Mile End Travelodge** - [click here](https://www.travelodge.co.uk/hotels/673/London-Mile-End-hotel?checkIn=11/01/2026&checkOut=14/01/2026&rooms[0][adults]=1&rooms[0][children]=0) <br>
 
 The following hotels are within one or two tube stops.  <br>
 **Bethnal Green Travelodge** - [click here](https://www.travelodge.co.uk/hotels/571/London-Bethnal-Green-hotel?checkIn=11%2F01%2F26&checkOut=14%2F01%2F26&rooms%5B0%5D%5Badults%5D=1&rooms%5B0%5D%5Bchildren%5D=0)  <br>
