@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Register"
     url: /register/
-    - title: "Info"
+  - title: "Info"
     url: /info/
   - title: "Programme"
     url: /programme/
