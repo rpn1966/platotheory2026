@@ -18,7 +18,6 @@ The meeting spans three days of talks, poster pop-ups, discussion sessions and p
 <!-- This is a hybrid event, aimed at increasing accessibility for those unable to attend in person. While most talks will be presented on-site, a limited number of remote presentations will be considered upon request.  --> 
 
 <!-- **Abstract submission is now closed**  -->
-**[Register Here](https://forms.office.com/e/S9bKkz2dTM)**
 
 <!-- **[Pay Here](https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025)** - See helpful notes below. 
 
