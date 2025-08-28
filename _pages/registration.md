@@ -10,7 +10,7 @@ Registration opens on 29 August 2025.
 
 **[Register Here](https://forms.office.com/e/S9bKkz2dTM)**
 
-Abstract submission for talks is 21 November 2025, but poster submissions remain open until the registration deadline.
+Abstract submission for talks will close on 21 November 2025, but poster submissions remain open until the registration deadline.
 
 Final registration deadline: **12 December 2025**
 
