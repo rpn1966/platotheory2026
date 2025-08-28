@@ -1,13 +1,11 @@
 main:
   - title: "Home"
     url: /
+  - title: "Info"
+    url: /info/
   - title: "Register"
     url: /register/
   - title: "Programme"
     url: /programme/
-  - title: "Info"
-    url: /info/
   - title: "Participants"
     url: /participants/
-  - title: "UKI Discs Mailing List"
-    url: /mailing-list/
