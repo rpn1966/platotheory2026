@@ -7,13 +7,13 @@ header:
 layout: splash
 ---
 
-The meeting will take place over three days, from Monday 8 September to Wednesday 10 September. To accommodate arrivals, the programme will begin later in the morning on Monday, while Tuesday and Wednesday will feature a full schedule of sessions.
+The meeting will take place over three days, from Monday 12 January to Wednesday 14 January 2026. To accommodate arrivals, the programme will begin later in the morning on Monday, while Tuesday and Wednesday will feature a full schedule of sessions.
 
-A PDF version of the programme may be downloaded [here](../assets/images/Programme2025.pdf). The talk abstracts will be [here](../assets/images/Talks2025.pdf), and the poster abstracts will be [here](../assets/images/Posters2025.pdf). 
+<!-- A PDF version of the programme may be downloaded [here](../assets/images/Programme2025.pdf). The talk abstracts will be [here](../assets/images/Talks2025.pdf), and the poster abstracts will be [here](../assets/images/Posters2025.pdf). -->
 
-- [Monday 12th](#day-1--monday-8th-september)
-- [Tuesday 13th](#day-2--tuesday-9th-september)
-- [Wednesday 14th](#day-3--wednesday-10th-september)
+- [Monday 12th](#day-1--monday-12th-january)
+- [Tuesday 13th](#day-2--tuesday-13th-january)
+- [Wednesday 14th](#day-3--wednesday-14th-january)
 - [Posters](#posters)
 
 <hr style="height:3px; border:none; background-color:#333;" />
@@ -23,6 +23,7 @@ Please note that the meeting begins at 10:00 am on Monday, and at 9:15 am on bot
 
 ## Day 1 – Monday 12th January
 
+<!-- 
 ### 10:00–10:30 Welcome Tea & Coffee
 
 ### 10:45–12:30 **Introduction & Review Talks** — Chair: Phil Lucas
@@ -49,12 +50,15 @@ Please note that the meeting begins at 10:00 am on Monday, and at 9:15 am on bot
 
 ### 16:30–17:00 Poster Pop-ups
 
-### 17:00–18:30 Poster Session & Drinks
+### 17:00–18:30 Poster Session & Drinks 
+
+-->
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
 ## Day 2 – Tuesday 13th January
 
+<!-- 
 ### 09:15–10:30 **Disc Structure and Evolution 3**
 - 09:15–09:30 **The transition from protoplanetary to debris discs** — Benjamin Homewood (Exeter)
 - 09:30–09:45 **VLTI reveals the inner disc of a massive protostar** — Maria Koutoulaki (Leeds)
@@ -99,10 +103,13 @@ Please note that the meeting begins at 10:00 am on Monday, and at 9:15 am on bot
 
 ### 17:30–18:00 Discussion
 
+-->
+
 <hr style="height:3px; border:none; background-color:#333;" />
 
 ## Day 3 – Wednesday 14th January
 
+<!-- 
 ### 09:15–10:30 **Disc Composition**
 - 09:15–09:30 **Dust compositions in white dwarf disks** — Andrew Swan (Warwick)
 - 09:30–09:45 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Käufer (Exeter)
@@ -142,3 +149,5 @@ Please note that the meeting begins at 10:00 am on Monday, and at 9:15 am on bot
 
 
 - TBR
+
+-->
