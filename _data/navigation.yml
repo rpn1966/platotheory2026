@@ -1,10 +1,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Info"
-    url: /info/
   - title: "Register"
     url: /register/
+    - title: "Info"
+    url: /info/
   - title: "Programme"
     url: /programme/
   - title: "Participants"
