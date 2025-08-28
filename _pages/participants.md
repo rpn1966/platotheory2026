@@ -7,7 +7,7 @@ header:
 ---
 
 - Ravit Helled (Zurich)
-- Farzana Meru (Wariwck)
+- Farzana Meru (Warwick)
 - Christoph Mordasini (Bern)
 - Richard Nelson (QMUL)
 
