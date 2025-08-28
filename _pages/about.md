@@ -6,7 +6,7 @@ header:
   caption: "Credit: DLR/OHB"
 ---
 
-ESA's PLATO mission is scheduled for launch towards the end of 2026. On a similar time frame, the Nancy Grace Roman mission will launch and Gaia Data Release 4 will be provided to the community. By discovering 1000s of new exoplanets in hitherto unexplored regions of parameter space, these missions promise to dramatically improve our knowledge and understanding of exoplanet demographics. Furthermore, PLATO will deliver masses, radii, ages and orbital architectures for many systems, providing a high-value dataset for studies of planetary system formation and dynamics. 
+ESA's PLATO mission is scheduled for launch towards the end of 2026. On a similar time frame, the Nancy Grace Roman mission will launch and Gaia Data Release 4 will be provided to the community. By discovering 1000s of new exoplanets in hitherto unexplored regions of parameter space, these missions promise to dramatically improve our knowledge and understanding of exoplanet demographics. Furthermore, PLATO will deliver precise masses, radii, ages and orbital architectures for many systems, providing a high-value dataset for studies of planetary system formation and dynamics. 
 
 The 2026 PLATO theory meeting aims to bring together researchers from across Europe and beyond to discuss recent and future planned developments in planet formation and dynamics research, and how this, combined with the forthcoming data, can enhance our understanding of the origins and evolution of planetary systems. It will be structured to include traditional conference-style talks, discussion sessions, and parallel sessions that focus on organising research activities within work packages and working groups.
 
@@ -28,6 +28,7 @@ For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.
 ## LOC
 - Richard Nelson (QMUL)
 - Ed Gillen (QMUL)
+- Andrew Winter (QMUL)
 - Cynthia Ho (QMUL)
 - Eleftheria Sarafidou (QMUL)
 - Andrew Ringham (QMUL)
