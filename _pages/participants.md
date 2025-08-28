@@ -6,8 +6,11 @@ header:
   caption: "Credit: DLR/OHB."
 ---
 
-- Sana Ahmed (Trinity College Dublin)
-- Felipe Alarcón (Universitá degli Studi di Milano)
+- Ravit Helled (Zurich)
+- Farzana Meru (Wariwck)
+- Christoph Mordasini (Bern)
+- Richard Nelson (QMUL)
+<!--
 - Juanita Antilen (University College London)
 - Fabiola Antonietta Gerosa (University College London)
 - Richard Booth (University of Leeds)
@@ -93,5 +96,7 @@ header:
 
 [- James Miley (Joint ALMA Observatory)]: #
 
-Last updated: 21 August 2025.
+-->
+
+Last updated: 29 August 2025.
 
