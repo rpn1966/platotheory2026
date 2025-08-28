@@ -14,11 +14,6 @@ Abstract submission for talks will close on 21 November 2025, but poster submiss
 
 Final registration deadline: **12 December 2025**
 
-The following refreshments will be provided on all three days:  <br>
-* Tea, coffee and pastries during the morning coffee breaks  <br>
-* A buffet lunch  <br>
-* Tea, coffee and biscuits during afternoon coffee breaks
-
 The meeting spans three days of talks, poster pop-ups, discussion sessions and parallel sessions devoted to organising activities within work packages and working groups. The main aims of the meeting are to discuss how theoretical work in planet formation and dynamics can help the PLATO mission achieve its scientific objectives, and to provide time for work package and working group members to organise and coordinate their activities. The Scientific Organising Committee (SOC) will select talks with these aims in mind. We aim for a substantial proportion of talks to be allocated to early-career researchers, and to ensure that everyone who submits an abstract has the opportunity to present—either as a talk or a poster.
 <!-- This is a hybrid event, aimed at increasing accessibility for those unable to attend in person. While most talks will be presented on-site, a limited number of remote presentations will be considered upon request.  --> 
 
