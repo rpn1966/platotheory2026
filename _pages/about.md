@@ -70,6 +70,7 @@ If someone wishes to report a breach of this code of conduct with regards to thi
 
 ## Acknowledgement
 
-This website uses a design based that produced by Azib Norazman / UK & Ireland Discs.
+This website uses a design based on one produced by   <br>
+Azib Norazman / UK & Ireland Discs.
 
 
