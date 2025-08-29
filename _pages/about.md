@@ -42,7 +42,7 @@ For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.
 - Meeting: 12th - 14th January 2026
 
 ## PLATO exoplanet work packages
-![PLATO exoplanet work packages](/assets/images/plato-uwa-psm-wbs-0010_i5.0_wp110000_exoplanet_science_structure.png)
+![PLATO exoplanet work packages](/assets/images/plato-wps.png)
 
 ## Code of Conduct 
 
