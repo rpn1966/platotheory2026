@@ -8,7 +8,7 @@ header:
 
 ESA's PLATO mission is scheduled for launch towards the end of 2026. On a similar time frame, the Nancy Grace Roman mission will launch and Gaia Data Release 4 will be provided to the community. By discovering 1000s of new exoplanets in hitherto unexplored regions of parameter space, these missions promise to dramatically improve our knowledge and understanding of exoplanet demographics. Furthermore, PLATO will deliver precise masses, radii, ages and orbital architectures for many systems, providing a high-value dataset for studies of planetary system formation and dynamics. 
 
-The 2026 PLATO theory meeting aims to bring together researchers from across Europe and beyond to discuss recent and future planned developments in planet formation and dynamics research, and how this, combined with the forthcoming data, can enhance our understanding of the origins and evolution of planetary systems. We strongly encourage the participation of researchers working in planet formation and dynamics and who are not currently members of the PLATO consortium. This is an opportunity to get involved in the science related to the PLATO mission objectives. The meeting will be structured to include traditional conference-style talks, discussion sessions, and parallel sessions that focus on organising research activities to address the scientific goals of the relevant work packages and working groups.
+The 2026 PLATO theory meeting aims to bring together researchers from across Europe and beyond to discuss recent and future planned developments in planet formation and dynamics research, and how this, combined with the forthcoming data, can enhance our understanding of the origins and evolution of planetary systems. The meeting will be structured to include traditional conference-style talks, discussion sessions, and parallel sessions that focus on organising research activities to address the scientific goals of the relevant work packages and working groups. We strongly encourage the participation of researchers working in planet formation and dynamics and who are not currently members of the PLATO consortium. This is an opportunity to get involved in the science related to the PLATO mission objectives. The organisation of PLATO's exoplanet work packages is illustrated further down this page.
 
 The meeting will be hosted at Queen Mary University of London during the 12th, 13th and 14th January 2026. Registration is free and numbers on-site will be limited to approximately 60. If registered numbers significantly exceed this then we will explore the possibility of hosting the meeting in a hybrid format.
 
@@ -40,6 +40,9 @@ For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.
 - Outcome of abstract submissions: early December
 - Final registration deadline: 12th December
 - Meeting: 12th - 14th January 2026
+
+## PLATO exoplanet work packages
+![PLATO exoplanet work packages](/assets/images/plato-uwa-psm-wbs-0010_i5.0_wp110000_exoplanet_science_structure.png)
 
 ## Code of Conduct 
 
