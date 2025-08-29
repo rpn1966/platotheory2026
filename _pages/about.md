@@ -41,7 +41,7 @@ For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.
 - Final registration deadline: 12th December
 - Meeting: 12th - 14th January 2026
 
-## PLATO exoplanet work packages
+## PLATO exoplanet science work packages
 ![PLATO exoplanet work packages](/assets/images/plato-wps.png)
 
 ## Code of Conduct 
@@ -67,5 +67,9 @@ This meeting will be a harassment-free environment for everyone, regardless of g
 - Participants asked to stop any harassing behaviour are expected to comply immediately. Attendees violating these rules may be asked to leave the event.
 
 If someone wishes to report a breach of this code of conduct with regards to this meeting, then they should contact any of the LOC in person or by email to [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.uk).
+
+## Acknowledgement
+
+This website uses a design based that produced by Azib Norazman / UK & Ireland Discs.
 
 
