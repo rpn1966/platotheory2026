@@ -10,7 +10,41 @@ header:
 - Farzana Meru (Warwick)
 - Christoph Mordasini (Bern)
 - Richard Nelson (QMUL)
-
+- Lucio         Mayer          (Department of Astrophysics, University of Zurich)
+- Caroline      Dorn           (ETH Zurich)
+- James         Rogers         (University of Cambridge)
+- Nathan        Magnan         (Observatoire de la Cote d'Azur)
+- Melvyn        Davies         (Lund University)
+- Oliver        Gressel        Leibniz Institute for Astrophysics Potsdam (AIP)
+- Yann          Alibert        University of Bern
+- Matthew       Teasdale       University of Lancashire
+- Chiara Eleonora Scardoni     Università degli Studi di Milano
+- Lorenzo       Malanga        Università degli Studi di Milano
+- Adrian        Barker         University of Leeds
+- Thomas        Haworth        QMUL
+- Zachary       Gilbert-Murphy QMUL
+- Eduard        Vorobyov       University of Vienna
+- Ravit         Helled         University of Zurich
+- Adrien        Leleu          University of Geneva
+- Joshua        Brown          DAMTP, University of Cambridge
+- Mark          Eberlein       Department of Astrophysics, University of Zurich
+- Luca          Morf           University of Zurich
+- Leon Ka-Wang  Kwok           Geneva Observatory
+- Amelia        Cordwell       DAMTP, University of Cambridge
+- Giuseppe      Lodato         Universita' degli Studi di Milano
+- Jérémy        Couturier      University of Geneva
+- Julia         Venturini      University of Geneva
+- Rossella      Anania         Trinity College Dublin
+- Arianna       Nigioni        Observatoire de Genève
+- Anna Julia    Poser          Freie Universität Berlin
+- Gordon        Ogilvie        University of Cambridge
+- Oliver        Schib          University of Bern
+- Henrik        Latter         DAMTP, University of Cambridge
+- Jesse         Weder          University of Bern
+- Thomas        Jannaud        DAMTP, University of Cambridge
+- Timmy         Delage         Imperial College London
+- Simon         Müller         University of Zurich
+- Oliver        Brown          QMUL
 
 <!--
 
