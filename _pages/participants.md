@@ -47,6 +47,23 @@ header:
 - Timmy         Delage         (Imperial College London)
 - Simon         Müller         (University of Zurich)
 - Oliver        Brown          (QMUL)
+- Zoe           Leinhardt      (University of Bristol)
+- Farzana       Meru           (University of Warwick)
+- Alexander     Mustill        (Lund University)
+- Deniz         Akansoy        (University of Cambridge)
+- James         Owen           (Imperial College London)
+- Sergei        Nayakshin      (University of Leicester)
+- Maria         Semerkina      (Imperial College London)
+- Luyao         Zhang          (University of Leicester)
+- Jaques        Laskar         (Observatoire de Paris)
+- Aya           Alnajjarine    (Observatoire de Paris)
+- Richard       Booth          (University of Leeds)
+- Andrew        Winter         (QMUL)
+- Anne-Sophie   Libert         (University of Namur)
+- Hans          Lee            (University of Leicester)
+- Tao           Ji             (UCL)
+- Paola         Pinilla        (UCL)
+- 
 
 <!--
 
