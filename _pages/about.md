@@ -15,9 +15,8 @@ The meeting will be hosted at Queen Mary University of London during the 12th, 1
 For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.uk).
 
 ## Invited Speakers (TBC)
-- Don Pollacco (Warwick): The goals and status of the PLATO mission
+- Don Pollacco and David Brown (Warwick): The goals and current status of the PLATO mission
 - Eamonn Kerins (Manchester): Exoplanet science with the Nancy Grace Roman mission
-- Alessandro Sozzeti (INAF): The expected yield of exoplanets from Gaia DR4
 
 ## SOC
 - Richard Nelson (chair - QMUL)
@@ -35,10 +34,10 @@ For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.
 - Beatrice Caccherano (QMUL)
 
 ## Important Dates
-- Registration and abstract submission opens: 29th August
-- Abstract submission for talks closes: 21st November (abstract submission for posters remains open)
-- Outcome of abstract submissions: early December
-- Final registration deadline: 12th December
+- Registration and abstract submission opens: 29th August 2025
+- Abstract submission for talks closes: Monday 8th December 2025 (abstract submission for posters remains open)
+- Outcome of abstract submissions: Friday 19th December 2025
+- Final registration deadline: Monday 15th December 2025
 - Meeting: 12th - 14th January 2026
 
 ## PLATO exoplanet science work packages
