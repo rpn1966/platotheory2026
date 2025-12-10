@@ -111,31 +111,28 @@ Please note that the meeting begins at 09:50 am on Monday, and at 9:10 am on bot
 ### 09:15–10:30 **Planetary interior models**
 - 09:15–09:30 **For a better understanding of planets: advances of interior models and inference tools** — Caroline Dorn (Zurich)
 - 09:30–09:45 **Interior and evolution of low-mass planets: the case of K2-18b** - Nadine Nettelmann (Rostock)
-- 09:45–10:00 **ARKS: Resolved 12CO/13CO Ratios in Debris Discs** — Sorcha Mac Manamon (Trinity)
-- 10:00–10:15 **Chemical co-evolution of dust and gas in protoplanetary discs** — Tamara Molyarova (Leeds)
-- 10:15–10:30 **Chemical Compositions of Disk-instability planets** — George Blaylock-Squibbs (UCLan)
-- 10:30-10:45
-- 10:45-11:00
+- 09:45–10:00 **Testing the Prevalence of Hydrogen-Silicate Miscibility in Sub-Neptunes with PLATO** — James Rogers (Cambridge)
+- 10:00–10:15 **Evolution of Sub-Neptunes and Neptunes: Importance of the thermal conductivity** — Mark Eberlein (Zurich)
+- 10:15–10:30 **Icy or rocky? Convective or stable? New interior models of Uranus and Neptune and similar exoplanets** — Luca Morf (Zurich)
+- 10:30-10:45 **Probing planet formation with Neptune mass planets** - James Owen (Imperial)
+- 10:45-11:00 **Unraveling the origin of giant exoplanets: Observational implications of convective mixing** - Henrik Knierim (Zurich)
   
 ### 11:00–11:30 Tea and coffee break
 
-### 11:30–12:30 **Formation of Planets & Brown Dwarfs 2 & EDI session**
-- 11:30-11:45 **Planet formation by disc fragmentation: the impact of dust growth on opacity** — Hans Lee (Leicester)
-- 11:45-12:00 **Planet formation sculpted by infall: the importance of multi-scale turbulence** — Andrew Winter (QMUL)
-- 12:00-12:15 **Equity and Inclusivity Practices in Academia** — Amena Faruqi (Warwick)
-- 12:15-12:30 **Sandwiched planet formation: restricting the mass of a middle planet** — Farzana Meru (Warwick)
+- 11:30-11:45 **Deep radiative zones in giant planets: Implications for interior and atmospheric characterisation** — Simon Müller (Zurich)
+- 11:45-12:00 **Modelling Stars and Planets with CESAM2k20** — Luke Gauvrit (Nice)
+- 12:00-12:15 **Benchmarking Giant Planet Interior Models** — Saburo Howard (Nice)
+- 12:15-12:30 **Interior inference across all planet types: The PLATO INFER Working Group** — Farzana Meru (Warwick)
 
 ### 12:30–13:30 Lunch
 
-### 13:30–15:00 **Formation of Planets & Brown Dwarfs 3**
-- 13:30–13:45 **Towards a population synthesis study of increasingly realistic protoplanetary discs** — Adam Koval (Edinburgh)
-- 13:45–14:00 **Testing planet formation via GI: FU Ori outbursts and Free-Floating Planets** — Sergei Nayakshin (Leicester)
-- 14:00–14:15 **Planet formation in spontaneous dust traps in magnetized disks** — Timmy Delage (Imperial)
-
-### 14:45–15:45 **Exoplanet discs & planetesimal signatures**
-- 14:15–14:30 **Exocomets Overview** — Daniela Iglesias (Leeds)
-- 14:30–14:45 **The search for Exorings and a Short Period Circumsecondary Disk Candidate** — Niamh Mallaghan (QUB)
-- 14:45-15:00 **Discs around planetary-mass objects: new insights from JWST** — Belinda Damian (St Andrews)
+### 13:30–15:00 **AI and machine approaches**
+- 13:30–13:45 **A transformer-based generative model for planetary systems** — Yann Alibert (Bern)
+- 13:45–14:00 **Inferring Planet and Disc Properties from Substructures with DBNets2.0: A Deep Learning Approach to Planet Formation Diagnostics** — Giuseppe Lodata (Milan)
+- 14:00–14:15 
+- 14:15–14:30 
+- 14:30–14:45 
+- 14:45-15:00 
 
 ### 15:00-15:30 Tea and coffee break
 
