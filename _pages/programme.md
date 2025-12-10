@@ -108,9 +108,9 @@ Please note that the meeting begins at 09:50 am on Monday, and at 9:10 am on bot
 
 ## Day 3 – Wednesday 14th January
 
-### 09:15–10:30 **Disc Composition**
-- 09:15–09:30 **Dust compositions in white dwarf disks** — Andrew Swan (Warwick)
-- 09:30–09:45 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Käufer (Exeter)
+### 09:15–10:30 **Planetary interior models**
+- 09:15–09:30 **For a better understanding of planets: advances of interior models and inference tools** — Caroline Dorn (Zurich)
+- 09:30–09:45 **Interior and evolution of low-mass planets: the case of K2-18b** - Nadine Nettelmann (Rostock)
 - 09:45–10:00 **ARKS: Resolved 12CO/13CO Ratios in Debris Discs** — Sorcha Mac Manamon (Trinity)
 - 10:00–10:15 **Chemical co-evolution of dust and gas in protoplanetary discs** — Tamara Molyarova (Leeds)
 - 10:15–10:30 **Chemical Compositions of Disk-instability planets** — George Blaylock-Squibbs (UCLan)
