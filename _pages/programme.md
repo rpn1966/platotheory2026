@@ -35,76 +35,78 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 - 11:30-11:45 **Dust dynamics and planet formation in the inner regions of protoplanetary discs** - Thomas Jannaud (Cambridge)
 - 11:45-12:00 **Instabilities, waves, and turbulence in the dead-zones of protoplanetary discs** - Henrik Latter (Cambridge)
 - 12:00-12:15 **Multiple Facets of Hydrodynamic Turbulence in Planet-Forming Disks Across Thermal Relaxation Regimes** - Hubert Klahr (MPIA Heidelberg)
-- 12:15-12:30 **Transsonic accretion in transitional discs** - Oliver Gressel (AIP Postdam)
+- 12:15-12:30 **Transsonic accretion in transitional discs** - Oliver Gressel (AIP Potsdam)
 
 ### 12:30–13:30 Lunch
 
-### 13:30-17:30 **Session: Planet formation and disc-planet interactions** - Chair: Richard Nelson (QMUL)
-- 13:30–13:45 **Migration of protoplanets in magnetised and unmagnetised gravitationally unstable disks; implications for exoplanet populations** - Lucio Mayer (Zurich)
-- 13:45–14:00 **Planet formation by disc fragmentation: the impact of dust growth on opacity** — Hans Lee (Leicester)
-- 14:00–14:15 **Non-linear spiral waves in accretion discs** - Joshua Brown (Cambridge)
-- 14:15–14:30 **How two-dimensional are planet-disc interactions?** - Amelia Cordwell (Cambridge)
-- 14:30-14:45 **The importance of the dynamical corotation torque for the migration of low-mass planets** - Jesse Weder (Bern)
-- 14:45-15:00 **From inward to outward: how eccentricity in discs can change the fate of giant planets** - Chiara Eleanora Scardoni (Milan)
+-13:30-14:00 **Discussion** - led by Oliver Gressel (AIP Potsdam)
 
-### 15:00–15:30 Tea and coffee Break
+### 14:00-17:30 **Session: Disc-planet interactions** - Chair: Yann Alibert (Bern)
+- 14:00–14:15 **Migration of protoplanets in magnetised and unmagnetised gravitationally unstable disks; implications for exoplanet populations** - Lucio Mayer (Zurich)
+- 14:15–14:30 **Non-linear spiral waves in accretion discs** - Joshua Brown (Cambridge)
+- 14:30–14:45 **How two-dimensional are planet-disc interactions?** - Amelia Cordwell (Cambridge)
+- 14:45–15:00 **The importance of the dynamical corotation torque for the migration of low-mass planets** - Jesse Weder (Bern)
 
-- 15:30-15:45 **Giant planets migrating in low-viscosity discs: resonance locking, outward migration & (in)stability** — Philippine Griveaud (MPIA Heidelberg)
-- 15:45–16:00 **Sandwiched planet formation: restricting the mass of a middle planet** — Farzana Meru (Warwick)
-- 16:00–16:15 **A new perspective on giant planet formation** — Ravit Helled (Zurich)
-- 16:15-16:30 **Formation of planetary cores in spontaneously generated long-lived dust traps during the secular evolution of magnetized protoplanetary disks** - Timmy Delage (Imperial)
-- 16:30-16:45 **TBD** Christoph Mordasini (Bern)
-- 16:45-17:00 **TBD** Anders Johansen (Copenhagen)
-- 17:00-17:15 **DIPSY: A new Disc Instability Population SYnthesis** - Oliver Schib (Bern)
-- 17:15-17:30 ****A transformer-based generative model for planetary systems** — Yann Alibert (Bern)
-- 17:30–17:45 **Inferring Planet and Disc Properties from Substructures with DBNets2.0: A Deep Learning Approach to Planet Formation Diagnostics** — Giuseppe Lodata (Milan)
+### 15:00–15:30 Tea and coffee break
 
-### 17:30–19:00 Poster Session & Drinks 
+- 15:30-15:45 **Migration of super-Earths in low viscosity discs** - Richard Nelson (QMUL)
+- 15:45-16:00 **Giant planets migrating in low-viscosity discs: resonance locking, outward migration & (in)stability** — Philippine Griveaud (MPIA Heidelberg)
+- 16:00-16:15 **From inward to outward: how eccentricity in discs can change the fate of giant planets** - Chiara Eleanora Scardoni (Milan)
+- 16:15–16:30 **Sandwiched planet formation: restricting the mass of a middle planet** — Farzana Meru (Warwick)
+- 16:30–16:45 **Inferring Planet and Disc Properties from Substructures with DBNets2.0: A Deep Learning Approach to Planet Formation Diagnostics** — Giuseppe Lodata (Milan)
+
+- 16:45-17:15 **Discussion** - led by Richard Nelson (QMUL)
+
+-17:15-17:30 **Poster pop-ups**
+
+### 17:30–19:00 Poster Session, Drinks & Snacks 
 
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
 ## Day 2 – Tuesday 13th January
 
-### 09:15–11:00 Planet formation in binary systems
-- 09:15–09:30 **The emerging field of planets in binaries** — Julia Venturini (Geneva)
-- 09:30–09:45 **The PAIRS project: results from the first synthetic S-type population** — Ariana Nigioni (Geneva)
-- 09:45–10:00 **On the origin of stellar binaries, their planets, and Free Floating Planets** — Sergei Nayakshin (Leicester)
-- 10:00–10:15 **Robust formation channels for planets in binary systems** — Luyao Zhang (Leicester)
-- 10:15–10:30 **On the lower mass limit for circumbinary disc fragmentation** — Matthew Teasdale (Central Lancashire)
-- 10:30-10:45 **Exploring pebble and planetesimal accretion scenarios for circumbinary planets** - Gavin Coleman (QMUL)
-- 10:45-11:00
+### 09:15-11:00 Session: Planet formation and population synthesis - Chair TBD
+- 09:15–09:30 **A new perspective on giant planet formation** — Ravit Helled (Zurich)
+- 09:30-09:45 **Formation of planetary cores in spontaneously generated long-lived dust traps during the secular evolution of magnetized protoplanetary disks** - Timmy Delage (Imperial)
+- 09:45-10:00 **TBD** Christoph Mordasini (Bern)
+- 10:00-10:15 **TBD** Anders Johansen (Copenhagen)
+- 10:15-10:30 **DIPSY: A new Disc Instability Population SYnthesis** - Oliver Schib (Bern)
+- 10:30-10:45 ****A transformer-based generative model for planetary systems** — Yann Alibert (Bern)
+- 10:45–11:00 **Planet formation by disc fragmentation: the impact of dust growth on opacity** — Hans Lee (Leicester)
 
-### 11:00–11:30 Tea and coffee break
+### 11:00-11:30 Tea and coffee break
 
-### 11:30–12:30 **Planet formation environment & post-main sequence evolution**
-- 11:30–11:45 **The influence of birth environment on the formation and evolution of planetary systems: overview** — Melvyn Davies (Lund))
-- 11:45–12:00 **Assessing the role of external photoevaporation in protoplanetary discs** — Rossella Anania (Dublin)
-- 12:00–12:15 **The effect of mild- external-photoevaporation on planet formation** — Paula Pinilla (MSSL/UCL)
-- 13:45–14:00 **Warped discs and late-stage infall: a new picture of planet formation?** - Andrew Winter (QMUL)
-- 12:15-12:30 **White dwarf planetary systems** - Alexander Mustill (Lund)
+### 11:30–12:30 Session: Planet formation in binary systems
+- 11:30–11:45 **The emerging field of planets in binaries** — Julia Venturini (Geneva)
+- 11:45–12:00 **The PAIRS project: results from the first synthetic S-type population** — Ariana Nigioni (Geneva)
+- 12:00-12:15 **On the origin of stellar binaries, their planets, and Free Floating Planets** — Sergei Nayakshin (Leicester)
+- 12:15-12:30 **Robust formation channels for planets in binary systems** — Luyao Zhang (Leicester)
 
 ### 12:30–13:30 Lunch
 
-### 13:30–15:00 **Dynamical evolution of planetary systems**
-- 13:30–13:45 **Influence of Stellar Dynamical Tides on Mean-Motion Resonances and Resonant Chain Stability** — Leon Ka-Wang Kwok (Geneva)
-- 13:45–14:00 **Tidal dissipation in zeroth order 3-planet resonances and constraints on tidal parameters** — Jérémy Couturier (Geneva)
-- 14:00-14:15 **Tidally-driven orbital decay of hot Jupiters and possible advances with PLATO** — Adrian Barker (Leeds)
-- 14:15-14:30 **Linking planet formation theory and observations: insights from resonant systems and the resonantstate databases** — Adrien Leleu (Geneva)
-- 14:30-14:45 **Dynamical analysis of exoplanetary systems observed with CHEOPS** - Aya Alnajjarine & Jaques Laskar (Paris)
-- 14:45-15:00 **Blah blah** - XXX (ccc)
+- 13:30–13:45 **On the lower mass limit for circumbinary disc fragmentation** — Matthew Teasdale (Central Lancashire)
+- 13:45-14:00 **Exploring pebble and planetesimal accretion scenarios for circumbinary planets** - Gavin Coleman (QMUL)
+
+### 14:00–16:00 Session: The role of the planet formation environment - Chair: TBD
+- 14:00–14:15 **The influence of birth environment on the formation and evolution of planetary systems: overview** — Melvyn Davies (Lund))
+- 14:15–14:30 **Assessing the role of external photoevaporation in protoplanetary discs** — Rossella Anania (Dublin)
+- 14:30-14:45 **The effect of mild- external-photoevaporation on planet formation** — Paula Pinilla (MSSL/UCL)
+- 14:45-15:00 **Warped discs and late-stage infall: a new picture of planet formation?** - Andrew Winter (QMUL)
 
 ### 15:00–15:30 Tea and coffee break
 
-### 15:30–16:45 **Time Domain Studies of Discs 1**
-- 15:30–15:45 **WD Debris Disks: Variability Incompatible with Canonical Model** — Hiba Tu Noor (UCL)
-- 15:45-16:00 **Characterising a WD with transiting debris in the habitable zone** — Akshay Robert (UCL)
-- 16:00-16:15 **Temporal variation of warps & shadows in protoplanetary discs** — Katie Milsom (Exeter)
-- 16:15-16:30 **Eruptive Variables in Nearby Star-Forming Regions with VVV** — Hariharan Muthu (Herts)
-- 16:30-16:45 **Unveiling the variability of massive YSOs with the VVV/X survey** — Gabriella Zsidi (Herts)
-- 16:45-17:00 **Blah blah**
+- 15:30-16:00 **Discussion** led by TBD
 
-### 17:00–17:30 Discussion
+### 16:00–17:30 **Dynamical evolution of planetary systems and post-main sequence systems**
+- 16:00–16:15 **Influence of Stellar Dynamical Tides on Mean-Motion Resonances and Resonant Chain Stability** — Leon Ka-Wang Kwok (Geneva)
+- 16:15–16:30 **Tidal dissipation in zeroth order 3-planet resonances and constraints on tidal parameters** — Jérémy Couturier (Geneva)
+- 16:30-16:45 **Tidally-driven orbital decay of hot Jupiters and possible advances with PLATO** — Adrian Barker (Leeds)
+- 16:45-17:00 **Linking planet formation theory and observations: insights from resonant systems and the resonantstate databases** — Adrien Leleu (Geneva)
+- 17:00-17:15 **Dynamical analysis of exoplanetary systems observed with CHEOPS** - Aya Alnajjarine & Jaques Laskar (Paris)
+- 17:15-17:30 **White dwarf planetary systems** - Alexander Mustill (Lund)
+
+- 17:30–18:00 **Discussion** - led by TBD
 
 
 <hr style="height:3px; border:none; background-color:#333;" />
@@ -129,16 +131,13 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ### 12:30–13:30 Lunch
 
-- 14:00–14:15 
-- 14:15–14:30 
-- 14:30–14:45 
-- 14:45-15:00 
+- 13:30-14:00 **Discussion** - led by TBD
+
+- 14:00-16:00 **Work package and working group break-out sessions**
 
 ### 15:00-15:30 Tea and coffee break
 
-### 15:30-17:00 WP and WG break-out sessions
-
-### 17:00 Meeting ends
+### 16:00 Meeting ends
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
