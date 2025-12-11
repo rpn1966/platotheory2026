@@ -19,7 +19,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 <hr style="height:3px; border:none; background-color:#333;" />
 
 # Meeting Schedule
-Please note that the meeting begins at 10:00 am on Monday, and at 9:10 am on both Tuesday and Wednesday.
+Please note that the meeting begins at 10:00 am on Monday, and at 9:15 am on both Tuesday and Wednesday.
 
 ## Day 1 – Monday 12th January
 
