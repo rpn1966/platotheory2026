@@ -23,6 +23,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 ## Day 1 – Monday 12th January
 
 **10:00-10:10 Welcome and introduction** — Richard Nelson (QMUL)
+
 **10:10-10:30 ESA's PLATO mission: an overview** - David Brown (Warwick)
 
 ### 10:30-12:30 Session: Protoplanetary discs - Chair: Farzana Meru (Warwick)
