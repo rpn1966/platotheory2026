@@ -127,7 +127,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 - 11:30-11:45 **Deep radiative zones in giant planets: Implications for interior and atmospheric characterisation** — Simon Müller (Zurich)
 - 11:45-12:00 **Modelling Stars and Planets with CESAM2k20** — Luke Gauvrit (Nice)
 - 12:00-12:15 **Benchmarking Giant Planet Interior Models** — Saburo Howard (Nice)
-- 12:15-12:30 **Interior inference across all planet types: The PLATO INFER Working Group** — Farzana Meru (Warwick)
+- 12:15-12:30 **Interior inference across all planet types: The PLATO INFER Working Group** — Anna Julia Poser (Berlin)
 
 ### 12:30–13:30 Lunch
 
