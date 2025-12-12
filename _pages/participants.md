@@ -76,7 +76,7 @@ header:
 - Saburo        Howard         (Zurich)
 - Franco        Mallia         (Campo Catina Obs)
 - Henrik        Knierim        (Zurich)
-- Richard       Cahhterjee     (Leeds)
+- Richard       Chatterjee     (Leeds)
 - Daniel        Wanner         (MPIA)
 -  
   
