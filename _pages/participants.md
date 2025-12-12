@@ -12,6 +12,7 @@ header:
 - Christoph Mordasini (Bern)
 -->
 - Richard Nelson (QMUL)
+- Christoph     Mordasini      (Bern)
 - Lucio         Mayer          (Department of Astrophysics, University of Zurich)
 - Caroline      Dorn           (ETH Zurich)
 - James         Rogers         (University of Cambridge)
@@ -63,6 +64,21 @@ header:
 - Hans          Lee            (University of Leicester)
 - Tao           Ji             (UCL)
 - Paola         Pinilla        (UCL)
+- Matthew       Batley         (QMUL)
+- Fabiola-Antonietta Gerosa    (UCL)
+- Philippine    Griveaud       (MPIA)
+- Gavin         Coleman        (QMUL)
+- Camila        Pulgares       (UCL)
+- Luke          Gauvrit        (Nice)
+- Hubert        Klahr          (MPIA)
+- Nadine        Nettelmann     (Rostock)
+- Beatrice      Caccherano     (QMUL)
+- Saburo        Howard         (Zurich)
+- Franco        Mallia         (Campo Catina Obs)
+- Henrik        Knierim        (Zurich)
+- Richard       Cahhterjee     (Leeds)
+- Daniel        Wanner         (MPIA)
+-  
   
 
 <!--
