@@ -14,9 +14,9 @@ The meeting will be hosted at Queen Mary University of London during the 12th, 1
 
 For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.uk).
 
-## Invited Speakers (TBC)
-- Don Pollacco and David Brown (Warwick): The goals and current status of the PLATO mission
-- Eamonn Kerins (Manchester): Exoplanet science with the Nancy Grace Roman mission
+## Invited Speaker
+- David Brown (Warwick): The goals and current status of the PLATO mission
+
 
 ## SOC
 - Richard Nelson (chair - QMUL)
@@ -32,6 +32,7 @@ For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.
 - Eleftheria Sarafidou (QMUL)
 - Andrew Ringham (QMUL)
 - Beatrice Caccherano (QMUL)
+- Matthew Batley (QMUL)
 
 ## Important Dates
 - Registration and abstract submission opens: 29th August 2025
