@@ -57,7 +57,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 - 16:45-17:15 **Discussion** - led by Richard Nelson (QMUL)
 
--17:15-17:30 **Poster pop-ups**
+- 17:15-17:30 **Poster pop-ups**
 
 ### 17:30–19:00 Poster Session, Drinks & Snacks 
 
