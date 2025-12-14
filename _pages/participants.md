@@ -78,6 +78,9 @@ header:
 - Henrik        Knierim        (Zurich)
 - Richard       Chatterjee     (Leeds)
 - Daniel        Wanner         (MPIA)
+- Richard Alexander (Leicester)
+- Anders Johansen (Copenhagen)
+- Ewa Szuszkiewicz (Szczecin)
 
   
 
