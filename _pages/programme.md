@@ -69,9 +69,9 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ### 09:15-11:00 Session: Planet formation and population synthesis - Chair TBD
 - 09:15–09:30 **A new perspective on giant planet formation** — Ravit Helled (Zurich)
-- 16:45-17:00 **The Formation of Super Mercuries via Giant Impacts** - Zoe Leinhardt (Bristol)
-- 09:45-10:00 **The impact of host star metallicity as seen in the Kepler planets: planet frequencies, period ratios, and radius valley morphology** Christoph Mordasini (Bern)
-- 10:00-10:15 **Exploring the conditions for forming planetesimals by the streaming instability and planetary systems by pebble accretion** Anders Johansen (Copenhagen)
+- 09:30-09:45 **The impact of host star metallicity as seen in the Kepler planets: planet frequencies, period ratios, and radius valley morphology** Christoph Mordasini (Bern)
+- 09:45-10:00 **Exploring the conditions for forming planetesimals by the streaming instability and planetary systems by pebble accretion** Anders Johansen (Copenhagen)
+- 10:00-10:15 **The Formation of Super Mercuries via Giant Impacts** - Zoe Leinhardt (Bristol)
 - 10:15-10:30 **DIPSY: A new Disc Instability Population SYnthesis** - Oliver Schib (Bern)
 - 10:30-10:45 **A transformer-based generative model for planetary systems** — Yann Alibert (Bern)
 - 10:45–11:00 **Planet formation by disc fragmentation: the impact of dust growth on opacity** — Hans Lee (Leicester)
