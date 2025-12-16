@@ -53,7 +53,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 - 15:45-16:00 **Giant planets migrating in low-viscosity discs: resonance locking, outward migration & (in)stability** — Philippine Griveaud (MPIA Heidelberg)
 - 16:00-16:15 **From inward to outward: how eccentricity in discs can change the fate of giant planets** - Chiara Eleanora Scardoni (Milan)
 - 16:15–16:30 **Sandwiched planet formation: restricting the mass of a middle planet** — Farzana Meru (Warwick)
-- 16:30–16:45 **Inferring Planet and Disc Properties from Substructures with DBNets2.0: A Deep Learning Approach to Planet Formation Diagnostics** — Giuseppe Lodata (Milan)
+- 16:30–16:45 **Inferring Planet and Disc Properties from Substructures with DBNets2.0: A Deep Learning Approach to Planet Formation Diagnostics** — Giuseppe Lodato (Milan)
 
 - 16:45-17:15 **Discussion** - led by Richard Nelson (QMUL)
 
