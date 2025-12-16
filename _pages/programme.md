@@ -54,12 +54,13 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 - 16:00-16:15 **From inward to outward: how eccentricity in discs can change the fate of giant planets** - Chiara Eleanora Scardoni (Milan)
 - 16:15–16:30 **Sandwiched planet formation: restricting the mass of a middle planet** — Farzana Meru (Warwick)
 - 16:30–16:45 **Inferring Planet and Disc Properties from Substructures with DBNets2.0: A Deep Learning Approach to Planet Formation Diagnostics** — Giuseppe Lodato (Milan)
+- 16:45-17:00 **Formation of planetary cores in spontaneously generated long-lived dust traps during the secular evolution of magnetized protoplanetary disks** - Timmy Delage (Imperial)
 
-- 16:45-17:15 **Discussion** - led by Richard Nelson (QMUL)
+- 17:00-17:30 **Discussion** - led by Richard Nelson (QMUL)
 
-- 17:15-17:30 **Poster pop-ups**
+- 17:30-17:45 **Poster pop-ups**
 
-### 17:30–19:00 Poster Session, Drinks & Snacks 
+### 17:45–19:15 Poster Session, Drinks & Snacks 
 
 
 <hr style="height:3px; border:none; background-color:#333;" />
@@ -68,11 +69,11 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ### 09:15-11:00 Session: Planet formation and population synthesis - Chair TBD
 - 09:15–09:30 **A new perspective on giant planet formation** — Ravit Helled (Zurich)
-- 09:30-09:45 **Formation of planetary cores in spontaneously generated long-lived dust traps during the secular evolution of magnetized protoplanetary disks** - Timmy Delage (Imperial)
+- 16:45-17:00 **The Formation of Super Mercuries via Giant Impacts** - Zoe Leinhardt (Bristol)
 - 09:45-10:00 **The impact of host star metallicity as seen in the Kepler planets: planet frequencies, period ratios, and radius valley morphology** Christoph Mordasini (Bern)
 - 10:00-10:15 **Exploring the conditions for forming planetesimals by the streaming instability and planetary systems by pebble accretion** Anders Johansen (Copenhagen)
 - 10:15-10:30 **DIPSY: A new Disc Instability Population SYnthesis** - Oliver Schib (Bern)
-- 10:30-10:45 ****A transformer-based generative model for planetary systems** — Yann Alibert (Bern)
+- 10:30-10:45 **A transformer-based generative model for planetary systems** — Yann Alibert (Bern)
 - 10:45–11:00 **Planet formation by disc fragmentation: the impact of dust growth on opacity** — Hans Lee (Leicester)
 
 ### 11:00-11:30 Tea and coffee break
