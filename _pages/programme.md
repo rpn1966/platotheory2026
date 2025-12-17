@@ -39,7 +39,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ### 12:30–13:30 Lunch
 
--13:30-14:00 **Discussion** - led by Oliver Gressel (AIP Potsdam)
+- 13:30-14:00 **Discussion** - led by Oliver Gressel (AIP Potsdam)
 
 ### 14:00-17:30 **Session: Disc-planet interactions** - Chair: Yann Alibert (Bern)
 - 14:00–14:15 **Migration of protoplanets in magnetised and unmagnetised gravitationally unstable disks; implications for exoplanet populations** - Lucio Mayer (Zurich)
@@ -67,7 +67,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ## Day 2 – Tuesday 13th January
 
-### 09:15-11:00 Session: Planet formation and population synthesis - Chair TBD
+### 09:15-11:00 Session: Planet formation and population synthesis - Chair: Richard Nelson (QMUL)
 - 09:15–09:30 **A new perspective on giant planet formation** — Ravit Helled (Zurich)
 - 09:30-09:45 **The impact of host star metallicity as seen in the Kepler planets: planet frequencies, period ratios, and radius valley morphology** Christoph Mordasini (Bern)
 - 09:45-10:00 **Exploring the conditions for forming planetesimals by the streaming instability and planetary systems by pebble accretion** Anders Johansen (Copenhagen)
@@ -89,7 +89,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 - 13:30–13:45 **On the lower mass limit for circumbinary disc fragmentation** — Matthew Teasdale (Central Lancashire)
 - 13:45-14:00 **Exploring pebble and planetesimal accretion scenarios for circumbinary planets** - Gavin Coleman (QMUL)
 
-### 14:00–16:00 Session: The role of the planet formation environment - Chair: TBD
+### 14:00–16:00 Session: The role of the planet formation environment - Chair: Tom Haworth (QMUL)
 - 14:00–14:15 **The influence of birth environment on the formation and evolution of planetary systems: overview** — Melvyn Davies (Lund))
 - 14:15–14:30 **Assessing the role of external photoevaporation in protoplanetary discs** — Rossella Anania (Dublin)
 - 14:30-14:45 **The effect of mild- external-photoevaporation on planet formation** — Paula Pinilla (MSSL/UCL)
@@ -97,9 +97,9 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ### 15:00–15:30 Tea and coffee break
 
-- 15:30-16:00 **Discussion** led by TBD
+- 15:30-16:00 **Discussion** - led by Yann Alibert (Bern)
 
-### 16:00–17:30 **Dynamical evolution of planetary systems and post-main sequence systems**
+### 16:00–17:30 **Session: Dynamical evolution of planetary systems and post-main sequence systems**
 - 16:00–16:15 **Influence of Stellar Dynamical Tides on Mean-Motion Resonances and Resonant Chain Stability** — Leon Ka-Wang Kwok (Geneva)
 - 16:15–16:30 **Tidal dissipation in zeroth order 3-planet resonances and constraints on tidal parameters** — Jérémy Couturier (Geneva)
 - 16:30-16:45 **Tidally-driven orbital decay of hot Jupiters and possible advances with PLATO** — Adrian Barker (Leeds)
@@ -107,14 +107,14 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 - 17:00-17:15 **Dynamical analysis of exoplanetary systems observed with CHEOPS** - Aya Alnajjarine & Jaques Laskar (Paris)
 - 17:15-17:30 **White dwarf planetary systems** - Alexander Mustill (Lund)
 
-- 17:30–18:00 **Discussion** - led by TBD
+- 17:30–18:00 **Discussion** - led by Melvyn Davies (Lund)
 
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
 ## Day 3 – Wednesday 14th January
 
-### 09:15–10:30 **Planetary interior models**
+### 09:15–10:30 **Session: Planetary interior models** - Chair: Christoph Mordasini (Bern)
 - 09:15–09:30 **For a better understanding of planets: advances of interior models and inference tools** — Caroline Dorn (Zurich)
 - 09:30–09:45 **Interior and evolution of low-mass planets: the case of K2-18b** - Nadine Nettelmann (Rostock)
 - 09:45–10:00 **Testing the Prevalence of Hydrogen-Silicate Miscibility in Sub-Neptunes with PLATO** — James Rogers (Cambridge)
@@ -132,7 +132,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ### 12:30–13:30 Lunch
 
-- 13:30-14:00 **Discussion** - led by TBD
+- 13:30-14:00 **Discussion** - led by Nadine Nettelmann (Rostock)
 
 - 14:00-16:00 **Work package and working group break-out sessions**
 
