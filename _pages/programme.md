@@ -142,9 +142,17 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 <hr style="height:3px; border:none; background-color:#333;" />
 
-<h1 id="posters" style="text-align: center;">Poster Presentations</h1>
+<h1 id="posters" style="text-align: center;">Posters</h1>
 
 
-- TBR
+- **The reflex instability** - Nathan Magnan (Nice)
+- **Modelling shadows in scattered light observations as signals from companions in protoplanetary discs** - Deniz Akansoy (Cambridge)
+- **Insights into early stages of disk evolution in the context of DMOST** - Fabiola Antonietta Gerosa (UCL)
+- **How Different Initial Conditions Can Affect the Configuration of Planetary System** - Beatrice Caccherano (QMUL)
+- **What is the Prevelance of Rocky Planet Atmospheres?** - Richard Chatterjee (Leeds)
+- **The effect of hydrodynamic instabilities on low mass migrating planets** - Daniel Wanner (MPIA)
+- **Thermally self-consistent models of protoplanetary discs show snowlines are constantly on the move** - Alfie Robinson (Imperial)
+- **The direct formation of Earth-mass cores in gravitationally unstable protostellar discs** - Ken Rice (Edinburgh)
+- **Gravitational Collapse of Dust Clumps in Protoplanetary Discs** Sébastien Paine (QMUL)
 
 
