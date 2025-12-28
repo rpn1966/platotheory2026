@@ -14,7 +14,7 @@ The PLATO Theory Meeting will take place in the Maths Lecture Theatre located on
 
 Information about travelling to the Mile End campus and a campus map can be found [here](https://www.qmul.ac.uk/about/howtofindus/mileend/). The Mathematical Sciences building is labelled as **number 4** on the campus map. 
 
-Below is an image of the Mathematical Sciences building - recognisable through the Penrose tiling on its exterior.
+Below is an image of the Mathematical Sciences building - recognisable through the Penrose tiling on its exterior. <br>
 ![Mathematical Sciences building](https://rpn1966.github.io/platotheory2026/assets/images/maths-building.png)
 
 ## Campus Map {#Map}
