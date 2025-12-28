@@ -16,7 +16,7 @@ Information about travelling to the Mile End campus and a campus map can be foun
 
 Below is an image of the Mathematical Sciences building - recognisable through the Penrose tiling on its exterior.
 ![PLATO exoplanet work packages](https://rpn1966.github.io/platotheory2026/assets/images/plato-wps.png)
-![Mathematical Sciences building](https://rpn1966.github.io/platotheory2026/assets/images/plato-wps.png)
+![Mathematical Sciences building](https://rpn1966.github.io/platotheory2026/assets/images/maths-building.png)
 
 ## Campus Map {#Map}
 To access a pdf of the campus map directly [click here](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End-campus-map.pdf) 
