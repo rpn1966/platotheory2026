@@ -9,6 +9,8 @@ layout: splash
 
 The meeting will take place over three days, from Monday 12 January to Wednesday 14 January 2026. To accommodate arrivals, the programme will begin at 10:00 on Monday and at 09:15 on Tuesday and Wednesday.
 
+### Please note that the poster boards will accomodate A1 poster sizes in portrait format. 
+
 <!-- A PDF version of the programme may be downloaded [here](../assets/images/Programme2025.pdf). The talk abstracts will be [here](../assets/images/Talks2025.pdf), and the poster abstracts will be [here](../assets/images/Posters2025.pdf). -->
 
 - [Monday 12th](#day-1--monday-12th-january)
