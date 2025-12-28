@@ -146,6 +146,8 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 <h1 id="posters" style="text-align: center;">Posters</h1>
 
+### Please note that the poster boards provided will accomodate A1 poster sizes in portrait format.
+
 
 - **The reflex instability** - Nathan Magnan (Nice)
 - **Modelling shadows in scattered light observations as signals from companions in protoplanetary discs** - Deniz Akansoy (Cambridge)
