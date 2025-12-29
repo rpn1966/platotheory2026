@@ -148,6 +148,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ### Please note that the poster boards provided will accommodate A1 poster sizes in portrait format.
 
+### Poster pop-up talks are scheduled for 17:30-17:45 on Monday 12th January. Presenters will each have 90 seconds to showcase their work and should send no more than 3 slides in pdf format to Richard Nelson (R.P.Nelson@qmul.ac.uk) by 17:00 on Sunday 11th January.
 
 - **The reflex instability** - Nathan Magnan (Nice)
 - **Modelling shadows in scattered light observations as signals from companions in protoplanetary discs** - Deniz Akansoy (Cambridge)
