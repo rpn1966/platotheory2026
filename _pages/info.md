@@ -8,7 +8,7 @@ header:
 
 - [Getting Here](#GettingHere)
 - [Accommodation](#Accommodation)
-- [Food](#Food)
+- [Food and refreshments](#Food)
 
 The PLATO Theory Meeting will take place in the Maths Lecture Theatre located on the ground floor of the Mathematical Sciences building on the Mile End campus of Queen Mary University of London. 
 
@@ -39,13 +39,16 @@ The following hotels are within one or two tube stops.  <br>
 
 Further options can be found on **booking.com** - [click here](https://www.booking.com/)
 
-## Food {#Food}
+## Food and refreshments {#Food}
 
 ### *Lunch*
 A simple buffet lunch will be provided on each day. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
 
 ### *Refreshments*
 We will serve tea, coffee, water and pastries during the morning coffee breaks. We will serve tea, coffee, water and biscuits during the afternoon coffee breaks.
+
+### *Monday evening reception event*
+We will host a reception event on Monday evening (18:00-19:30) in the Mathematical Sciences building. Wine, beer and soft drinks will be served alongside simple bar snacks. More information will be provided during the introductory session on the Monday morning.
 
 <!-- 
 ## Local Interest {#Local}
