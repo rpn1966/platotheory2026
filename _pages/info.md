@@ -44,7 +44,7 @@ Further options can be found on **booking.com** - [click here](https://www.booki
 ### *Lunch*
 A simple buffet lunch will be provided on each day. If you have any dietary requirements, please inform us when completing the registration form so that we can accommodate your needs.
 
-### *Refreshments*
+### *Tea & coffee breaks*
 We will serve tea, coffee, water and pastries during the morning coffee breaks. We will serve tea, coffee, water and biscuits during the afternoon coffee breaks.
 
 ### *Monday evening reception event*
