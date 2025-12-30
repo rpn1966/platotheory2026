@@ -62,7 +62,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 - 17:30-17:45 **Poster pop-ups**
 
-### 17:45–19:15 Poster Session, Drinks & Snacks 
+### 18:00–19:30 Poster session, drinks reception & snacks 
 
 
 <hr style="height:3px; border:none; background-color:#333;" />
