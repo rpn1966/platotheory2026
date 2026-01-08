@@ -27,12 +27,16 @@ For any queries, please email [R.P.Nelson@qmul.ac.uk](mailto:R.P.Nelson@qmul.ac.
 ## LOC
 - Richard Nelson (QMUL)
 - Ed Gillen (QMUL)
+- Tom Haworth (QMUL)
 - Andrew Winter (QMUL)
 - Cynthia Ho (QMUL)
 - Eleftheria Sarafidou (QMUL)
 - Andrew Ringham (QMUL)
 - Beatrice Caccherano (QMUL)
 - Matthew Batley (QMUL)
+- Zachary Gilbert-Murphy (QMUL)
+- Deepak Chahal (QMUL)
+- Luke Keyte (QMUL)
 
 ## Important Dates
 - Registration and abstract submission opens: 29th August 2025
