@@ -7,5 +7,7 @@ main:
     url: /info/
   - title: "Programme"
     url: /programme/
+  - title: "Online access"
+    url: /online/
   - title: "Participants"
     url: /participants/
