@@ -10,7 +10,7 @@ layout: splash
 We are offering online participation in the PLATO Theory Meeting 2026 through **Microsoft Teams**.
 
 We have set up a dedicated channel for the meeting.
-[General|Planet Theory Meeting 2026|Microsoft Teams]{https://teams.microsoft.com/l/team/19%3AEM6p7QYaEmAu3bjl8j9WdSbUGT3gGnvoiMmeLBVuTms1%40thread.tacv2/conversations?groupId=713ba6ed-7a97-4770-a3f2-69974af59292&tenantId=569df091-b013-40e3-86ee-bd9cb9e25814)
+[General|Planet Theory Meeting 2026|Microsoft Teams](https://teams.microsoft.com/l/team/19%3AEM6p7QYaEmAu3bjl8j9WdSbUGT3gGnvoiMmeLBVuTms1%40thread.tacv2/conversations?groupId=713ba6ed-7a97-4770-a3f2-69974af59292&tenantId=569df091-b013-40e3-86ee-bd9cb9e25814)
 
 To access the live stream of the daily talks, use the links below for each day.
 
