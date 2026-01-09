@@ -9,7 +9,11 @@ layout: splash
 
 The meeting will take place over three days, from Monday 12 January to Wednesday 14 January 2026. To accommodate arrivals, the programme will begin at 10:00 on Monday and at 09:15 on Tuesday and Wednesday.
 
-### Please note that the poster boards provided will accommodate A1 poster sizes in portrait format. 
+**We will be using one laptop to present all talks. Speakers are requested to upload their slides in Keynote, PowerPoint or pdf format to [this googledrive](https://drive.google.com/drive/folders/1lfEEVS43ME2BofLMd46GmrdZFxLlAimj?usp=share_link). Uploads should be completed before the break that precedes the session containing the talk.** 
+
+**Poster presenters should note that the poster boards provided will accommodate A1 poster sizes in portrait format.**
+
+**Poster presenters are requested to upload no more than 3 slides for their poster pop-up talks to [this googledrive](https://drive.google.com/drive/folders/134NTObdo7hyk-6G6KXo97xbwnEqkYWT4?usp=share_link). Uploads should be complete by 17:00 on Sunday 11th January 2026 to allow collation of the slides. The file format must be pdf.**
 
 <!-- A PDF version of the programme may be downloaded [here](../assets/images/Programme2025.pdf). The talk abstracts will be [here](../assets/images/Talks2025.pdf), and the poster abstracts will be [here](../assets/images/Posters2025.pdf). -->
 
