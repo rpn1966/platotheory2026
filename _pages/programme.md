@@ -44,21 +44,21 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 - 13:30-14:00 **Discussion** - led by Oliver Gressel (AIP Potsdam)
 
 ### 14:00-17:30 **Session: Disc-planet interactions** - Chair: Yann Alibert (Bern)
-- 14:00–14:15 **Migration of protoplanets in magnetised and unmagnetised gravitationally unstable disks; implications for exoplanet populations** - Lucio Mayer (Zurich)
-- 14:15–14:30 **Non-linear spiral waves in accretion discs** - Joshua Brown (Cambridge)
-- 14:30–14:45 **How two-dimensional are planet-disc interactions?** - Amelia Cordwell (Cambridge)
-- 14:45–15:00 **The importance of the dynamical corotation torque for the migration of low-mass planets** - Jesse Weder (Bern)
-
+<!-- - 14:00–14:15 **Migration of protoplanets in magnetised and unmagnetised gravitationally unstable disks; implications for exoplanet populations** - Lucio Mayer (Zurich) -->
+- 14:00–14:15 **Non-linear spiral waves in accretion discs** - Joshua Brown (Cambridge)
+- 14:15–14:30 **How two-dimensional are planet-disc interactions?** - Amelia Cordwell (Cambridge)
+- 14:30–14:45 **The importance of the dynamical corotation torque for the migration of low-mass planets** - Jesse Weder (Bern)
+- 14:45-15:00 **Migration of super-Earths in low viscosity discs** - Richard Nelson (QMUL)
+- 
 ### 15:00–15:30 Tea and coffee break
 
-- 15:30-15:45 **Migration of super-Earths in low viscosity discs** - Richard Nelson (QMUL)
-- 15:45-16:00 **Giant planets migrating in low-viscosity discs: resonance locking, outward migration & (in)stability** — Philippine Griveaud (MPIA Heidelberg)
-- 16:00-16:15 **From inward to outward: how eccentricity in discs can change the fate of giant planets** - Chiara Eleanora Scardoni (Milan)
-- 16:15–16:30 **Sandwiched planet formation: restricting the mass of a middle planet** — Farzana Meru (Warwick)
-- 16:30–16:45 **Inferring Planet and Disc Properties from Substructures with DBNets2.0: A Deep Learning Approach to Planet Formation Diagnostics** — Giuseppe Lodato (Milan)
-- 16:45-17:00 **Formation of planetary cores in spontaneously generated long-lived dust traps during the secular evolution of magnetized protoplanetary disks** - Timmy Delage (Imperial)
+- 15:30-15:45 **Giant planets migrating in low-viscosity discs: resonance locking, outward migration & (in)stability** — Philippine Griveaud (MPIA Heidelberg)
+- 15:45-16:00 **From inward to outward: how eccentricity in discs can change the fate of giant planets** - Chiara Eleanora Scardoni (Milan)
+- 16:00–16:15 **Sandwiched planet formation: restricting the mass of a middle planet** — Farzana Meru (Warwick)
+- 16:15–16:30 **Inferring Planet and Disc Properties from Substructures with DBNets2.0: A Deep Learning Approach to Planet Formation Diagnostics** — Giuseppe Lodato (Milan)
+- 16:30-16:45 **Formation of planetary cores in spontaneously generated long-lived dust traps during the secular evolution of magnetized protoplanetary disks** - Timmy Delage (Imperial)
 
-- 17:00-17:30 **Discussion** - led by Richard Nelson (QMUL)
+- 16:45-17:30 **Discussion** - led by Richard Nelson (QMUL)
 
 - 17:30-17:45 **Poster pop-ups**
 
