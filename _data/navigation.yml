@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Register"
-    url: /register/
   - title: "Info"
     url: /info/
   - title: "Programme"
