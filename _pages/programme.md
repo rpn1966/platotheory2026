@@ -49,7 +49,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 - 14:15–14:30 **How two-dimensional are planet-disc interactions?** - Amelia Cordwell (Cambridge)
 - 14:30–14:45 **The importance of the dynamical corotation torque for the migration of low-mass planets** - Jesse Weder (Bern)
 - 14:45-15:00 **Migration of super-Earths in low viscosity discs** - Richard Nelson (QMUL)
-- 
+  
 ### 15:00–15:30 Tea and coffee break
 
 - 15:30-15:45 **Giant planets migrating in low-viscosity discs: resonance locking, outward migration & (in)stability** — Philippine Griveaud (MPIA Heidelberg)
