@@ -80,36 +80,37 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ### 11:00-11:30 Tea and coffee break
 
-### 11:30–12:30 Session: Planet formation in binary systems
-- 11:30–11:45 **The emerging field of planets in binaries** — Julia Venturini (Geneva)
-- 11:45–12:00 **The PAIRS project: results from the first synthetic S-type population** — Ariana Nigioni (Geneva)
-- 12:00-12:15 **On the origin of stellar binaries, their planets, and Free Floating Planets** — Sergei Nayakshin (Leicester)
-- 12:15-12:30 **Robust formation channels for planets in binary systems** — Luyao Zhang (Leicester)
+- 11:30-12:00 **Discussion** - led by Yann Alibert (Bern)
+
+### 12:00–12:30 Session: Planet formation in binary systems 
+- 12:00–12:15 **The emerging field of planets in binaries** — Julia Venturini (Geneva)
+- 12:15–12:30 **The PAIRS project: results from the first synthetic S-type population** — Ariana Nigioni (Geneva)
 
 ### 12:30–13:30 Lunch
 
-- 13:30–13:45 **On the lower mass limit for circumbinary disc fragmentation** — Matthew Teasdale (Central Lancashire)
-- 13:45-14:00 **Exploring pebble and planetesimal accretion scenarios for circumbinary planets** - Gavin Coleman (QMUL)
+- 13:30-13:45 **On the origin of stellar binaries, their planets, and Free Floating Planets** — Sergei Nayakshin (Leicester)
+- 13:45-14:00 **Robust formation channels for planets in binary systems** — Luyao Zhang (Leicester)
+<!-- - 14:00–14:15 **On the lower mass limit for circumbinary disc fragmentation** — Matthew Teasdale (Central Lancashire) -->
+- 14:00-14:15 **Exploring pebble and planetesimal accretion scenarios for circumbinary planets** - Gavin Coleman (QMUL)
 
-### 14:00–16:00 Session: The role of the planet formation environment - Chair: Tom Haworth (QMUL)
-- 14:00–14:15 **The influence of birth environment on the formation and evolution of planetary systems: overview** — Melvyn Davies (Lund))
-- 14:15–14:30 **Assessing the role of external photoevaporation in protoplanetary discs** — Rossella Anania (Dublin)
-- 14:30-14:45 **The effect of mild- external-photoevaporation on planet formation** — Paula Pinilla (MSSL/UCL)
-- 14:45-15:00 **Warped discs and late-stage infall: a new picture of planet formation?** - Andrew Winter (QMUL)
+### 14:15–15:45 Session: The role of the planet formation environment - Chair: Tom Haworth (QMUL)
+- 14:15–14:30 **The influence of birth environment on the formation and evolution of planetary systems: overview** — Melvyn Davies (Lund))
+- 14:30–14:45 **Assessing the role of external photoevaporation in protoplanetary discs** — Rossella Anania (Dublin)
+- 14:45-15:00 **The effect of mild- external-photoevaporation on planet formation** — Paula Pinilla (MSSL/UCL)
 
 ### 15:00–15:30 Tea and coffee break
 
-- 15:30-16:00 **Discussion** - led by Yann Alibert (Bern)
+- 15:30-15:45 **Warped discs and late-stage infall: a new picture of planet formation?** - Andrew Winter (QMUL)
 
-### 16:00–17:30 **Session: Dynamical evolution of planetary systems and post-main sequence systems**
-- 16:00–16:15 **Influence of Stellar Dynamical Tides on Mean-Motion Resonances and Resonant Chain Stability** — Leon Ka-Wang Kwok (Geneva)
-- 16:15–16:30 **Tidal dissipation in zeroth order 3-planet resonances and constraints on tidal parameters** — Jérémy Couturier (Geneva)
-- 16:30-16:45 **Tidally-driven orbital decay of hot Jupiters and possible advances with PLATO** — Adrian Barker (Leeds)
-- 16:45-17:00 **Linking planet formation theory and observations: insights from resonant systems and the resonantstate databases** — Adrien Leleu (Geneva)
-- 17:00-17:15 **Dynamical analysis of exoplanetary systems observed with CHEOPS** - Aya Alnajjarine & Jaques Laskar (Paris)
-- 17:15-17:30 **White dwarf planetary systems** - Alexander Mustill (Lund)
+### 15:45–17:30 **Session: Dynamical evolution of planetary systems and post-main sequence systems**
+- 15:45–16:00 **Influence of Stellar Dynamical Tides on Mean-Motion Resonances and Resonant Chain Stability** — Leon Ka-Wang Kwok (Geneva)
+- 16:00–16:15 **Tidal dissipation in zeroth order 3-planet resonances and constraints on tidal parameters** — Jérémy Couturier (Geneva)
+- 16:15-16:30 **Tidally-driven orbital decay of hot Jupiters and possible advances with PLATO** — Adrian Barker (Leeds)
+- 16:30-16:45 **Linking planet formation theory and observations: insights from resonant systems and the resonantstate databases** — Adrien Leleu (Geneva)
+- 16:45-17:00 **Dynamical analysis of exoplanetary systems observed with CHEOPS** - Aya Alnajjarine & Jaques Laskar (Paris)
+- 17:00-17:15 **White dwarf planetary systems** - Alexander Mustill (Lund)
 
-- 17:30–18:00 **Discussion** - led by Melvyn Davies (Lund)
+- 17:15–18:00 **Discussion** - led by Melvyn Davies (Lund)
 
 
 <hr style="height:3px; border:none; background-color:#333;" />
