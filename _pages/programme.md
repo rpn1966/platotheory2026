@@ -108,7 +108,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 - 15:30-15:45 **Warped discs and late-stage infall: a new picture of planet formation?** - Andrew Winter (QMUL)
 
-### 15:45–17:30 **Session: Dynamical evolution of planetary systems and post-main sequence systems**
+### 15:45–17:15 **Session: Dynamical evolution of planetary systems and post-main sequence systems**
 - 15:45–16:00 **Influence of Stellar Dynamical Tides on Mean-Motion Resonances and Resonant Chain Stability** — Leon Ka-Wang Kwok (Geneva)
 - 16:00–16:15 **Tidal dissipation in zeroth order 3-planet resonances and constraints on tidal parameters** — Jérémy Couturier (Geneva)
 - 16:15-16:30 **Tidally-driven orbital decay of hot Jupiters and possible advances with PLATO** — Adrian Barker (Leeds)
