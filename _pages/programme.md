@@ -9,7 +9,7 @@ layout: splash
 
 The meeting will take place over three days, from Monday 12 January to Wednesday 14 January 2026. To accommodate arrivals, the programme will begin at 10:00 on Monday and at 09:15 on Tuesday and Wednesday.
 
-**We will be using one laptop to present all talks. All talk slots are 15 minutes long: 12 minutes speaing time and 3 minutes for Q&A. Speakers are requested to upload their slides in Keynote, PowerPoint or pdf format to [this googledrive folder](https://drive.google.com/drive/folders/1lfEEVS43ME2BofLMd46GmrdZFxLlAimj?usp=share_link). Please place your file in the folder coresponding to the day you are speaking on. Uploads should be completed before the break that precedes the session containing the talk.** 
+**We will be using one laptop to present all talks. All talk slots are 15 minutes long: 12 minutes speaking time and 3 minutes for Q&A. Speakers are requested to upload their slides in Keynote, PowerPoint or pdf format to [this googledrive folder](https://drive.google.com/drive/folders/1lfEEVS43ME2BofLMd46GmrdZFxLlAimj?usp=share_link). Please place your file in the folder coresponding to the day you are speaking on. Uploads should be completed before the break that precedes the session containing the talk.** 
 
 **Poster presenters should note that the poster boards provided will accommodate A1 poster sizes in portrait format.**
 
