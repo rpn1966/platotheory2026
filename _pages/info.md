@@ -53,13 +53,13 @@ We will host a reception event on Monday evening (18:00-19:30) in the Mathematic
 
 ## Local pubs and restaurants {#Pubs}
 
-The following local pubs are within 10-15 minutes walking distance of the meeting venue and which serve decent food.
+The following local pubs are within 10-15 minutes walking distance of the meeting venue and serve decent food.
 
 **The Morgan Arms, 43, Morgan Street, London, E3 5AA [Weblink](https://www.morganarmsbow.com)** <br>
 **The Lord Tredegar, 50, Lichfield Road, London, E3 5AL [Weblink](https://thelordtredegar.co.uk)** <br>
 **The Coborn, 8, Coborn Road, London, E3 2DA [Weblink](https://www.thecoborn.co.uk)** <br>
 
-The following is a selection of local restaurants. Note if you are staying near to Westfield Stratford then there are several restaurants near to the shopping centre. Please ask a member of the LOC if you would like more information.
+The following is a selection of local(-ish) restaurants. Note if you are staying near to Westfield Stratford then there are several restaurants near to the shopping centre. Please ask a member of the LOC if you would like more information.
 
 **Tayyabs, 83, Fieldgate Street, London, E1 1JU - Indian restaurant and something of a local institution! [Weblink](https://tayyabs.co.uk)** <br>
 **Bahara, 79, Brick Lane, London, E1 6QL - Good Indian restaurant on the famous Brick Lane [Weblink](https://bahara.co.uk)** <br>
