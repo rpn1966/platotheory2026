@@ -92,7 +92,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 
 ### 12:30–13:30 Lunch
 
-### 12:00–12:30 Session: Planet formation in binary systems (continued) - Chair: Tom Haworth (QMUL)
+### 13:30–14:15 Session: Planet formation in binary systems (continued) - Chair: Tom Haworth (QMUL)
 
 - 13:30-13:45 **On the origin of stellar binaries, their planets, and Free Floating Planets** — Sergei Nayakshin (Leicester)
 - 13:45-14:00 **Robust formation channels for planets in binary systems** — Luyao Zhang (Leicester)
