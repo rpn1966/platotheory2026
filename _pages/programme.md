@@ -102,7 +102,7 @@ The meeting will take place over three days, from Monday 12 January to Wednesday
 ### 14:15–15:45 Session: The role of the planet formation environment
 - 14:15–14:30 **The influence of birth environment on the formation and evolution of planetary systems: overview** — Melvyn Davies (Lund))
 - 14:30–14:45 **Assessing the role of external photoevaporation in protoplanetary discs** — Rossella Anania (Dublin)
-- 14:45-15:00 **The effect of mild- external-photoevaporation on planet formation** — Paula Pinilla (MSSL/UCL)
+- 14:45-15:00 **The effect of mild- external-photoevaporation on planet formation** — Paola Pinilla (MSSL/UCL)
 
 ### 15:00–15:30 Tea and coffee break
 
